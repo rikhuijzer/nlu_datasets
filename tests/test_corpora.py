@@ -2,6 +2,7 @@ import src.utils  # not using from ... import ... to avoid ImportError
 from src.corpora import convert_index, convert_nlu_evaluation_entity
 import typing
 from src.my_types import Corpus
+from rasa_nlu.training_data.message import Message
 
 
 def test_convert_index():
@@ -17,8 +18,8 @@ def test_convert_index():
 def test_nlu_evaluation_entity_converter():
     def helper(text: str, entity: dict, expected: str):
         result = convert_nlu_evaluation_entity(text, entity)
-        message = src.utils.create_message(text, 'some intent', [result], False, Corpus.MOCK)
-        assert expected == src.utils.convert_message_to_annotated_str(message)
+        message = Message.build(text, 'some intent', [result])
+        assert expected == src.utils.convert_message_str(message)
 
     helper(text='when is the next train in muncher freiheit?',
            entity={'entity': 'Vehicle', 'start': 4, 'stop': 4, 'text': 'train'},
@@ -38,6 +39,7 @@ def test_get_messages():
     """ Test whether all corpora get imported correctly.
             All crammed in one function, to avoid having many errors when one of the sub-functions fails.
     """
+
     def helper(messages: typing.Tuple, expected_length: int, first_row: dict, last_row: dict):
         assert expected_length == len(messages)
         assert first_row == messages[0].as_dict()

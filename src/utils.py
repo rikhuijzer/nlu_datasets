@@ -38,15 +38,7 @@ def create_entity(start: int, end: int, entity: str, value: str) -> dict:
     return {'start': start, 'end': end, 'entity': entity, 'value': value}
 
 
-def create_message(text: str, intent: str, entities: [], training: bool, corpus: Corpus) -> Message:
-    """Helper function to create a message: Message used by Rasa including whether train or test sentence."""
-    message = Message.build(text, intent, entities)
-    message.data['training'] = training
-    message.data['corpus'] = corpus
-    return message
-
-
-def convert_message_to_annotated_str(message: Message) -> str:
+def convert_message_str(message: Message) -> str:
     """Convert Message object to string having annotated entities."""
     training_examples = [message]
     training_data = TrainingData(training_examples)
@@ -55,13 +47,17 @@ def convert_message_to_annotated_str(message: Message) -> str:
     return generated
 
 
+def convert_str_message(text: str) -> Message:
+    return Message.build()
+
+
 def convert_messages_dataframe(messages: Iterable[Message], annotated_str=False) -> pd.DataFrame:
     """ Returns a DataFrame (table) from a list of Message objects which can be used for visualisation."""
     pd.set_option('max_colwidth', 180)
 
     data = {'message': [], 'intent': [], 'training': []}
     for message in messages:
-        data['message'].append(convert_message_to_annotated_str(message) if annotated_str else message.text)
+        data['message'].append(convert_message_str(message) if annotated_str else message.text)
         data['intent'].append(message.data['intent'])
         data['training'].append(message.data['training'])
     return pd.DataFrame(data)
