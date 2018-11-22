@@ -1,0 +1,1 @@
+source: https://github.com/snipsco/nlu-benchmark/tree/master/2016-12-built-in-intents
