@@ -8,6 +8,7 @@ import pandas as pd
 import json
 from pathlib import Path
 from src.my_types import Corpus
+from enum import Enum
 
 
 def get_project_root() -> Path:

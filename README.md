@@ -1,11 +1,18 @@
 # nlu_datasets
 Datasets for intent classification and entity extraction including converters.
 
+## Data
+Data is not split in train / test, train / dev / test to allow for using k-fold cross 
+validation and allow users to define their own splits. It is advised to use fixed random 
+seed for code reproducibility. The `NLU-evaluation-corpora` define a fixed train test split.
+This is stored in these files using the `training` column.
+
 ## Annotation standard
 The datasets are in Rasa NLU Markdown training format and not in BIO or BIO2 annotation standard. 
 Reason for this is to improve readability of datasets for humans. Code to convert
 from annotated sentence to a more convenient representation is provided by the Rasa NLU 
-project (available as Python PIP package). 
+project (available as Python PIP package). The Rasa format makes it more convenient to
+store sentence information (for example, intent of sentence) in the same file.
 
 For comparison the following sentence is annotated using the BIO2 standard.
 ```
@@ -18,7 +25,7 @@ respectively token or annotation per line.
 
 The same sentence in Rasa NLU training format is:
 ```
-[Stanford University](ORG) located at [California](LOC).
+[Stanford University](ORG) located at [California](LOC)
 ```
 This can be stored in one file having one line per sentence. Note that sentences 
 containing round or square brackets will cause problems. This can be
@@ -47,7 +54,3 @@ SURPRISE DT B-NP O
 DEFEAT NN I-NP O
 . . O O
 ```
-## Data
-Data is not split in train / test, train / dev / test to allow for using k-fold cross 
-validation and allow users to define their own splits. It is advised to use random seed
-for code reproducibility.
