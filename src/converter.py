@@ -34,18 +34,21 @@ def convert_message_line(message: Message) -> Tuple:
 def write_tsv(tuples: Iterable[Tuple], n_cols: int, filename: Path):
     with open(str(filename), 'w', encoding='utf8', newline='') as tsv_file:
         tsv_writer = csv.writer(tsv_file, delimiter='\t', lineterminator='\n')
-        base_header = ['message', 'intent']
-        header = base_header if n_cols == 2 else base_header.append('training')
+        header = ['Message', 'Intent']
+        if n_cols == 3:
+            header.append('Training')
         tsv_writer.writerow(header)
         for row in tuples:
             tsv_writer.writerow([*row])
 
 
-def to_tsv(corpus: Corpus, folder: Path):
+def to_tsv(corpus: Corpus, filename: Path):
     messages = get_messages(corpus)
-
+    n = 3 if 'training' in messages[0].data else 2
+    tuples = map(convert_message_line, messages)
+    write_tsv(tuples, n, filename)
 
 
 if __name__ == '__main__':
-    dataset = Corpus.ASKUBUNTU
+    dataset = Corpus.WEBAPPLICATIONS
     to_tsv(dataset, get_project_root() / 'data' / dataset.name.lower() / (dataset.name.lower() + '.tsv'))

@@ -1,0 +1,163 @@
+Message	Intent	Training
+What software can I use to view epub documents?	Software Recommendation	False
+Which PDF Viewer would you recommend?	Software Recommendation	False
+What IDEs are available for Ubuntu?	Software Recommendation	False
+What's the best Mind Mapping Software?	Software Recommendation	False
+Software to read a QR code?	Software Recommendation	False
+PDF to word conversion software?	Software Recommendation	False
+Is there software that can view .dwg files?	Software Recommendation	False
+What are some good PHP editors?	Software Recommendation	False
+Is there a software utility to adjust screen gamma/brightness/contrast?	Software Recommendation	False
+Please recommend a hex editor for shell	Software Recommendation	False
+Is there LAN topology mapping software available in Ubuntu?	Software Recommendation	False
+Is there a tool like wifi analyzer for ubuntu?	Software Recommendation	False
+Tool for recovering deleted data from a flash drive	Software Recommendation	False
+"What's a simple ""colour picker"" app for GNOME?"	Software Recommendation	False
+Any app that tells me to take regular breaks from working?	Software Recommendation	False
+What are some good ASCII art generators?	Software Recommendation	False
+What are some good GUI binary viewers/editors?	Software Recommendation	False
+Which is the best PDF metadata viewer for Ubuntu?	Software Recommendation	False
+Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)	Software Recommendation	False
+Which application do you recommend for watching TV (DVB)?	Software Recommendation	False
+What Is The Best HDR Software?	Software Recommendation	False
+What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?	Software Recommendation	False
+What's the best Wireframing tool?	Software Recommendation	False
+Is there any software that will do face recognition in photos?	Software Recommendation	False
+Applications to replace [iTunes](SoftwareName) for iPod synchronization?	Software Recommendation	False
+Is there an SSH connection manager?	Software Recommendation	False
+A light alternative to gnome-system-monitor?	Software Recommendation	False
+Software to create a video slideshow?	Software Recommendation	False
+Is there a project management software for Ubuntu like Microsoft [Project](SoftwareName)?	Software Recommendation	False
+Is there any recovery software available for ext4?	Software Recommendation	False
+What blog editor software are available?	Software Recommendation	False
+Can you recommend a good modern GUI download manager (wget wrapper?)	Software Recommendation	False
+Is there any program for fuzzy string matching which provides a match score?	Software Recommendation	False
+Are there any hardware diagnostic tools?	Software Recommendation	False
+Recommendation for Regex editor?	Software Recommendation	False
+Is there a Document scanning and archiving software?	None	False
+Keyboard shortcut to shutdown?	Shutdown Computer	False
+My system doesn't go shutdown	Shutdown Computer	False
+How to troubleshoot slow shutdown?	Shutdown Computer	False
+How can I shutdown the computer when a certain process ends?	Shutdown Computer	False
+Ubuntu Shut down app	Shutdown Computer	False
+What does my computer do when I click 'Shut Down'?	Shutdown Computer	False
+How do I shut down without the confirmation prompt?	Shutdown Computer	False
+No action when shutdown pressed	Shutdown Computer	False
+what is the right way to shutdown ubuntu using the command line?	Shutdown Computer	False
+How can I make shutdown not require admin password?	Shutdown Computer	False
+shutdown in specific way if no-one uses computer	Shutdown Computer	False
+What is the command to open the shutdown dialog?	Shutdown Computer	False
+How to Shut down Ubuntu by using keyboard?	Shutdown Computer	False
+shutdown 5:30pm every day	Shutdown Computer	False
+Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)	Make Update	False
+How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?	Make Update	False
+Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)	Make Update	False
+Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?	Make Update	False
+Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)	Make Update	False
+Ubuntu upgrade failed	Make Update	False
+Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )	Make Update	False
+upgrading to Ubuntu [13.10](UbuntuVersion) from Ubuntu [13.04](UbuntuVersion)	Make Update	False
+Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?	Software Recommendation	False
+Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)	Make Update	False
+How to partially upgrade Ubuntu [11.10](UbuntuVersion) from Ubuntu [11.04](UbuntuVersion)?	Make Update	False
+Problem upgrading Ubuntu [9.10](UbuntuVersion:Ubuntu 9.10)	Make Update	False
+Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04](UbuntuVersion)?	Make Update	False
+How do I update [Xubuntu 11.10](UbuntuVersion) to [Xubuntu 12.04 LTS](UbuntuVersion:Xubuntu 12.04 LTS?)?	Make Update	False
+Why did the upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) ruin my system?	Make Update	False
+Problems upgrading from [12.04](UbuntuVersion) to [14.04](UbuntuVersion)	Make Update	False
+Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)	Make Update	False
+Upgrade from [12.04](UbuntuVersion) to [12.10](UbuntuVersion) without losing files?	Make Update	False
+On really old Ubuntu [6.06](UbuntuVersion) - How to upgrade	Software Recommendation	False
+Do I need to uninstall [10.04](UbuntuVersion) to upgrade to [12.04](UbuntuVersion)?	Make Update	False
+Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10](UbuntuVersion)?	Make Update	False
+update-manager: upgrade to [15.04](UbuntuVersion) rather than [16.04](UbuntuVersion)	Make Update	False
+Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)	Make Update	False
+Upgrading Ubuntu Server [9.10](UbuntuVersion) to [10.04](UbuntuVersion)	Make Update	False
+Ho do I update to [13.04](UbuntuVersion) from the beta?	Make Update	False
+How to upgrade from [12.10](UbuntuVersion) to 14[.04](UbuntuVersion:14.04)	Make Update	False
+Upgrading from [10.10](UbuntuVersion) to [11.04](UbuntuVersion) how much space is needed?	Make Update	False
+Do I need to backup my [12.04](UbuntuVersion) system to upgrade to [12.04.1](UbuntuVersion)?	Make Update	False
+Cannot upgrade from [12.04LTS](UbuntuVersion) to [14.04](UbuntuVersion)	Make Update	False
+Upgrade [10.10](UbuntuVersion) to [11.04](UbuntuVersion)	Make Update	False
+How to upgrade from [14.04 LTS](UbuntuVersion) or [15.10](UbuntuVersion) to [16.04](UbuntuVersion) from terminal	Make Update	False
+How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)	Make Update	False
+Upgrading from [10.04](UbuntuVersion) to [11.10](UbuntuVersion)	Make Update	False
+How can i upgrade to Ubuntu [14.04](UbuntuVersion) final from [14.04 Beta](UbuntuVersion) correctly?	Make Update	False
+Is there an upgrade procedure from [12.04 LTS](UbuntuVersion) to [14.04 LTS](UbuntuVersion)	Make Update	False
+Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)	Make Update	False
+How to upgrade Ubuntu [12.04](UbuntuVersion) to [14.04](UbuntuVersion) if I have dual boot with windows 7?	Make Update	False
+Wubi Device /dev/loop0 full. How to get more space?	Software Recommendation	False
+Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?	Make Update	False
+Removing Recently used items in 12[.04](UbuntuVersion:12.04)	Software Recommendation	False
+Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)	Make Update	False
+How is rm command different from the delete button?	None	False
+In [Unity](SoftwareName) how do I see the details of a given launcher?	Software Recommendation	False
+How to provide user permission to read and write on /dev/sdax? What is the syntax?	None	False
+Security enhancements prevent mounting /dev/sdb1	None	False
+How do I show grub when resuming from suspend?	None	False
+How to install a [Lexmark z600](Printer) series printer?	Setup Printer	False
+Cannot setup [HP All in one DJ3630](Printer)	Setup Printer	False
+How to add a network printer on Ubuntu [15.10](UbuntuVersion)?	Setup Printer	False
+Cannot install printer driver [epson l210](Printer)	Setup Printer	False
+How do I install [Dell 2150cdn](Printer) printer	Setup Printer	False
+Installing [Epson XP-424](Printer) wireless printer	Setup Printer	False
+Installing [EPSON L355](Printer) on Ubuntu [14.04](UbuntuVersion)	Setup Printer	False
+How do I install the [HP F4280](Printer) printer?	Setup Printer	False
+How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?	Setup Printer	False
+How to Install a [Canon MF8040Cn](Printer) Printer on Ubuntu [12.04](UbuntuVersion)	Setup Printer	False
+How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?	Setup Printer	False
+How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)	Setup Printer	False
+Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))	Setup Printer	False
+How to record my screen?	None	True
+How can I highlight or annotate PDFs?	None	True
+Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)	Make Update	True
+Upgrade to [12.04 64 bit](UbuntuVersion)	Make Update	True
+How to upgrade Ubuntu [14.04.1](UbuntuVersion) to [14.04.2](UbuntuVersion)?	Make Update	True
+Upgrading from Ubuntu [14.04](UbuntuVersion) to [15.04](UbuntuVersion)	Make Update	True
+how to upgrade from ubuntu [15.04](UbuntuVersion) to [15.10](UbuntuVersion)?	Make Update	True
+Upgrade [12.04](UbuntuVersion) to [12.10](UbuntuVersion) using startup disk	Make Update	True
+How to Upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) when you've got a problem?	Make Update	True
+Update [11.04](UbuntuVersion) to [12.04](UbuntuVersion) with LiveCD	Make Update	True
+How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?	Make Update	True
+How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?	Make Update	True
+No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)	Setup Printer	True
+How to setup HP printer/scanner on ubuntu?	Setup Printer	True
+How do I setup my [HP C4140](Printer) printer wirelessly?	Setup Printer	True
+How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10](UbuntuVersion)?	Setup Printer	True
+How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu	Setup Printer	True
+Install [Canon MP560](Printer) Ubuntu [15.04](UbuntuVersion)	Setup Printer	True
+How to install a [Brother MFC-5890CN](Printer) network printer?	Setup Printer	True
+How do I install drivers for a [Konica Minolta 200](Printer)?	Setup Printer	True
+How do I install drivers for the [Panasonic MB1900CX](Printer) All-in-One Printer/Scanner?	Setup Printer	True
+How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work	Setup Printer	True
+Any command line calculator for Ubuntu?	Software Recommendation	True
+Extracting embedded images from a PDF	Software Recommendation	True
+What to use to quickly cut Audio/Video	Software Recommendation	True
+Torrent client for the command-line?	None	True
+[MySQL](SoftwareName) GUI Tools	Software Recommendation	True
+What developer text editors are available for Ubuntu?	Software Recommendation	True
+What screenshot tools are available?	Software Recommendation	True
+Which programs can I use to edit PDF files?	Software Recommendation	True
+Is there a lightweight tool to crop images quickly?	Software Recommendation	True
+What [IRC](SoftwareName) clients are available?	Software Recommendation	True
+What new games are available for Ubuntu in 2011?	Software Recommendation	True
+UPNP / DLNA (client) player recommendations?	Software Recommendation	True
+What scientific plotting software is available?	Software Recommendation	True
+Can you recommend a password generator?	Software Recommendation	True
+What tools do you use to monitor a web server?	Software Recommendation	True
+What is a good [MongoDB](SoftwareName) GUI client?	Software Recommendation	True
+Password Management Applications?	Software Recommendation	True
+Is there an application for reading mobi files?	Software Recommendation	True
+shut down without extra question	Shutdown Computer	True
+How to shutdown computer when users are logged on?	Shutdown Computer	True
+What is the proper terminal-way to shutdown?	Shutdown Computer	True
+How can I automatically shutdown the system after a specific time?	Shutdown Computer	True
+Hotkey to shut down from login screen?	Shutdown Computer	True
+How to shutdown the computer after Xsession ends?	Shutdown Computer	True
+How can one shutdown a PC using the keyboard?	Shutdown Computer	True
+How can I enable shutdown verbosity?	Shutdown Computer	True
+Are there any Keyboard Shortcuts to Shutdown?	Shutdown Computer	True
+Shutdown after a certain time	Shutdown Computer	True
+Shutdown problem in [Ubuntu 16.04](UbuntuVersion)	Shutdown Computer	True
+How do I fix a shutdown problem?	Shutdown Computer	True
+What graphical utility can I use for Ubuntu auto shutdown?	Shutdown Computer	True

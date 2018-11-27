@@ -1,0 +1,207 @@
+Message	Intent	Training
+i want to go [marienplatz](StationDest)	FindConnection	False
+when is the [next](Criterion) [train](Vehicle) in [muncher freiheit](StationStart)?	DepartureTime	False
+when does the [next](Criterion) [u-bahn](Vehicle) leaves from [garching forschungszentrum](StationStart)?	DepartureTime	False
+from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)	FindConnection	False
+when is the [next](Criterion) [train](Vehicle) from [winterstraße 12](StationStart) to [kieferngarten](StationDest)	FindConnection	False
+when is the [next](Criterion) [rocket](Vehicle) from [winterstraße 12](StationStart) to [kieferngarte](StationDest)	FindConnection	False
+can you find a connection from [garching](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	False
+how to get from [untere strassäcker 21](StationStart) to [fröttmaning](StationDest)	FindConnection	False
+how i can get from [marienplatz](StationStart) to [garching](StationDest)	FindConnection	False
+connection from [boltzmannstraße](StationStart) to [kieferngarten](StationDest)	FindConnection	False
+how to get from [bonner platz](StationStart) to [freimann](StationDest)?	FindConnection	False
+when is the [next](Criterion) [s-bahn](Vehicle) leaving at [garching](StationStart)?	DepartureTime	False
+how do i get from [oez](StationStart) to [hbf](StationDest)?	FindConnection	False
+how to get from [winterstrasse 12](StationStart) to [fröttmaning](StationDest)	FindConnection	False
+how do i get from [garching forschungszentrum](StationStart) to [pasing](StationDest)	FindConnection	False
+[theresienstraße](StationStart) to [assling](StationDest)	FindConnection	False
+how can i get from [theresienstraße](StationStart) to [munich east](StationDest)?	FindConnection	False
+when does the [next](Criterion) [bus](Vehicle) starts from [garching](StationStart)?	DepartureTime	False
+from [quiddestraße](StationStart) to [garching](StationDest)?	FindConnection	False
+can you find a connection from [kurt-eisner-straße](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	False
+can you find a connection from [quiddestraße](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	False
+when does the [next](Criterion) [train](Vehicle) leaves at [garching](StationStart)?	DepartureTime	False
+from [hauptbahnhof](StationStart) to [garching](StationDest)?	FindConnection	False
+how can i get to [glockenbachviertel](StationDest) from [garching forschungszentrum](StationStart)?	FindConnection	False
+how i can get from [garching](StationStart) to [nordfriedhof](StationDest)	FindConnection	False
+how can i get to [glockenbachviertel](StationDest) from [garching forschungszentrum](StationStart)?	FindConnection	False
+when is the [next](Criterion) [train](Vehicle) leaving in [garching forschungszentrum](StationStart)	DepartureTime	False
+how can i get from [moosach](StationStart) to [quiddestraße](StationDest)?	FindConnection	False
+how can i get from [moosach](StationStart) to [poccistraße](StationDest)?	FindConnection	False
+how can i get from [kurt-eisner-straße](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	False
+how can i get from [moosach](StationStart) to [quiddestraße](StationDest)?	FindConnection	False
+how can i get from [moosach](StationStart) to [odeonsplatz](StationDest)?	FindConnection	False
+when does the [next](Criterion) [bus](Vehicle) starts at [garching](StationStart)?	DepartureTime	False
+what's the [shortest](Criterion) way from [quiddestraße](StationStart) to [odeonsplatz](StationDest)?	FindConnection	False
+when is the [next](Criterion) [bus](Vehicle) from [ostbahnhof](StationStart)	DepartureTime	False
+how i can get from [garching](StationStart) to [neuperlach sued](StationDest)	FindConnection	False
+when is the [next](Criterion) [train](Vehicle) in [munchner freiheit](StationStart)?	DepartureTime	False
+how i can get from [marienplatz](StationStart) to [garching](StationDest)?	FindConnection	False
+how do i get from [poccistraße](StationStart) to [laim](StationDest)	FindConnection	False
+i want to go [garching](StationDest) from [marienplatz](StationStart)	FindConnection	False
+how i can get from [marienplatz](StationStart) to [garching](StationDest)?	FindConnection	False
+how can i get from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+[prinzregentenplatz](StationStart) to [rotkreuzplatz](StationDest)	FindConnection	False
+i want to go to [garching](StationDest) from [marienplatz](StationStart)	FindConnection	False
+[next](Criterion) [train](Vehicle) from [garching](StationStart)	DepartureTime	False
+from [prinzregentenplatz](StationStart) to [rotkreuzplatz](StationDest)	FindConnection	False
+when is the [next](Criterion) [subway](Vehicle) from [garching forschungszentrum](StationStart)	DepartureTime	False
+from [garching](StationStart) to [klinikum](StationDest)	FindConnection	False
+from [garching foschungszentrum](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+[next](Criterion) [bus](Vehicle) in [garching](StationStart)	DepartureTime	False
+when does the [train](Vehicle) leaving in [garching forschungszentrum](StationStart)	DepartureTime	False
+[next](Criterion) [subway](Vehicle) from [garching forschungszentrum](StationStart)	DepartureTime	False
+tell me the [next](Criterion) [bus](Vehicle) from [garching](StationStart)	DepartureTime	False
+[next](Criterion) [bus](Vehicle) from [garching](StationStart), please.	DepartureTime	False
+[next](Criterion) [bus](Vehicle) from [garching](StationStart)	DepartureTime	False
+[next](Criterion) [bus](Vehicle) from [central station](StationStart)	DepartureTime	False
+from [garching](StationStart) to [marienplatz](StationDest)	FindConnection	False
+[next](Criterion) [bus](Vehicle) from [garching](StationStart).	DepartureTime	False
+connection from [garching](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	False
+when does the [next](Criterion) [bus](Vehicle) departs from [garching](StationStart)?	DepartureTime	False
+find connection from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+when does the [next](Criterion) [u-bahn](Vehicle) departs at [garching forschungszentrum](StationStart)?	DepartureTime	False
+when does the [next](Criterion) [u-bahn](Vehicle) departs at [garching](StationStart)?	DepartureTime	False
+when does the [next](Criterion) [subway](Vehicle) departs at [garching](StationStart)	DepartureTime	False
+when is the [next](Criterion) [train](Vehicle) in [garching](StationStart)?	DepartureTime	False
+how to get from [münchner freiheit](StationStart) to [garching](StationDest) ?	FindConnection	False
+[implerstraße](StationStart) to [ostbahnhof](StationDest)	FindConnection	False
+how can i get from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)?	FindConnection	False
+how can i go from [garching forschungszentrum](StationStart) to [prinzregentenplatz](StationDest)	FindConnection	False
+how can i get from [mangfallplatz](StationStart) to [garching](StationDest)	FindConnection	False
+how can i get to [hohenlindenerstraße](StationDest)	FindConnection	False
+[harthaus](StationStart) to [hackerbrücke](StationDest)	FindConnection	False
+how can i get from [feldmoching](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	False
+from [marienplatz](StationStart) to [petershausen](StationDest)	FindConnection	False
+when is the [train](Vehicle) from [garching](StationStart) to [marienplatz](StationDest)	FindConnection	False
+[neufahrn](StationStart) to [garching](StationDest)	FindConnection	False
+how can i get from [mangfallplatz](StationStart) to [garching](StationDest)	FindConnection	False
+how can i get to [hohenlindenerstr](StationDest)	FindConnection	False
+when is the [next](Criterion) [bus](Vehicle) from [garching forschungzentrum](StationStart)	DepartureTime	False
+how do i get from [spitzingplatz](StationStart) to [poccistraße](StationDest)?	FindConnection	False
+how can i get from [garching forschungszentrum](StationStart) to [marienplatz](StationDest)	FindConnection	False
+how can i get from [klinkum](StationStart) to [marienplatz](StationDest)?	FindConnection	False
+how to get from [alte heide](StationStart) to [marienplatz](StationDest)	FindConnection	False
+[next](Criterion) [train](Vehicle) from [muenchen freicheit](StationStart)	DepartureTime	False
+depart in [garching](StationStart), i assume	DepartureTime	False
+when does the [next](Criterion) [u-bahn](Vehicle) depart at [garching](StationStart)?	DepartureTime	False
+the [next](Criterion) [bus](Vehicle) from [garching forschungzentrum](StationStart)	DepartureTime	False
+when is the [next](Criterion) [train](Vehicle) in [alte heide](StationStart)?	DepartureTime	False
+or depart from [garching](StationStart)	DepartureTime	False
+hello munich city bot! how do i get from [münchner freiheit](StationStart) to [scheidplatz](StationDest)?	FindConnection	False
+how can i get from [garching forschungszentrum](StationStart) to [prinzregentenplatz](StationDest)	FindConnection	False
+how can i get from [neufahrn](StationStart) to [garching](StationDest)	FindConnection	False
+take me to the [airport](StationDest)	FindConnection	False
+when does the [next](Criterion) [u6](Line) leave from [garching forschungszentrum](StationStart)	DepartureTime	False
+how i can get from [munchner freiheit](StationStart) to [nordfriedhof](StationDest)?	FindConnection	False
+from [harthaus](StationStart) to [hackerbrücke](StationDest)	FindConnection	False
+when is the [train](Vehicle) from [garching](StationStart)	DepartureTime	False
+what is the [next](Criterion) [train](Vehicle) from [münchner freiheit](StationStart)	DepartureTime	False
+how can i get from [theresienstrasse](StationStart) to [garching forschungszentrum](StationDest)	FindConnection	False
+how can i get from [münchner freiheit](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+from [garching](StationStart) to [hauptbahnhof](StationDest)	FindConnection	False
+how can i get from [garching](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+start: [neufahrn](StationStart) end:[garching](StationDest)	FindConnection	False
+how can i get from [studentenstadt](StationStart) to [garching](StationDest)	FindConnection	False
+when is the [next](Criterion) [bus](Vehicle) from [garching](StationStart)	DepartureTime	False
+take me from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)	FindConnection	False
+what's the [shortest](Criterion) connection between [quiddestraße](StationStart) and [odeonsplatz](StationDest)?	FindConnection	True
+what is the [cheapest](Criterion) connection between [quiddestraße](StationStart) and [hauptbahnhof](StationDest)?	FindConnection	True
+what's the [shortest](Criterion) way between [hauptbahnhof](StationStart) and [odeonsplatz](StationDest)?	FindConnection	True
+how can i get from [garching](StationStart) to [münchner freiheit](StationDest) as [fast](Criterion) as possible?	FindConnection	True
+what's the [cheapest](Criterion) way from [neuperlach süd](StationStart) to [lehel](StationDest)?	FindConnection	True
+how can i get from [neuperlach zentrum](StationStart) to [karlsplatz](StationDest) as [fast](Criterion) as possible?	FindConnection	True
+could you give me the [fastest](Criterion) connection between [brudermühlstraße](StationStart) and [alte heide](StationDest)?	FindConnection	True
+is there a train from [neuperlach zentrum](StationStart) to [garching](StationDest) at [3 pm](TimeStartTime)?	FindConnection	True
+can you find a connection from [olympiazentrum](StationStart) to [lehel](StationDest) at [2 pm](TimeStartTime)?	FindConnection	True
+i need a connection from [harras](StationStart) to [karl-preis-platz](StationDest) at [8 am](TimeStartTime).	FindConnection	True
+in need to be at [hauptbahnhof](StationDest) at [1 pm](TimeEndTime), can you search a connection from [garching forschungszentrum](StationStart)?	FindConnection	True
+i need to be in [garching](StationDest) at [9](TimeEndTime)	FindConnection	True
+can i take a [bus](Vehicle) from [quiddestraße](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	True
+can you find the [shortest](Criterion) way from [moosfeld](StationStart) to [milbertshofen](StationDest)?	FindConnection	True
+how can i get to [neuperlach süd](StationDest) from [garching forschungszentrum](StationStart)?	FindConnection	True
+can you find a [bus](Vehicle) from [quiddestraße](StationStart) to [lehel](StationDest)?	FindConnection	True
+is there a [tram](Vehicle) from [karlsplatz](StationStart) to [lehel](StationDest)?	FindConnection	True
+is there a [bus](Vehicle) from [garching](StationStart) to [moosach](StationDest) at around [5](TimeStartTime)?	FindConnection	True
+is there a [bus](Vehicle) from [odeonsplatz](StationStart) to [hauptbahnhof](StationDest) at [3 pm](TimeStartTime)?	FindConnection	True
+can you tell me the [cheapest](Criterion) way from [garching forschungszentrum](StationStart) to [quiddestraße](StationDest)?	FindConnection	True
+how can i get to [quiddestraße](StationDest)?	FindConnection	True
+when does the [next](Criterion) [bus](Vehicle) leaves from [hauptbahnhof](StationStart)?	DepartureTime	True
+how can i get from [garching](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	True
+how can i get from [kurt-eisner-straße](StationStart) to [garching](StationDest)?	FindConnection	True
+when the [next](Criterion) [train](Vehicle) in [garching,forschungszentrum](StationStart) is leaving?	DepartureTime	True
+what is the [next](Criterion) connection from [garching forschungszentrum](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+how can i get from [mossach](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	True
+how can i get from [garching forschungszentrum](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+how can i get from [garching, forschungszentrum](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+how can i get from [garching forschungszentrum](StationStart) to [kurt-eisner-straße](StationDest)?	FindConnection	True
+how can i get to [boltzmannstraße](StationDest) from [quiddestraße](StationStart)?	FindConnection	True
+when does the [next](Criterion) [train](Vehicle) departs from [quiddestraße](StationStart)?	DepartureTime	True
+when the [next](Criterion) [train](Vehicle) in [garching forschungszentrum](StationStart) is leaving?	DepartureTime	True
+when is the next [u6](Line) leaving from [garching](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [train](Vehicle) leave from [garching forschungszentrum](StationStart)	DepartureTime	True
+when is the [next](Criterion) [u6](Line)?	DepartureTime	True
+when is the [next](Criterion) [subway](Vehicle) leaving from [garching](StationStart)?	DepartureTime	True
+when the [next](Criterion) [train](Vehicle) in [garching](StationStart) is leaving?	DepartureTime	True
+when is the [next](Criterion) [train](Vehicle) leaving in [garching](StationStart)	DepartureTime	True
+when does the [next](Criterion) [train](Vehicle) leaves from [odeonsplatz](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [train](Vehicle) leaves from [quiddestraße](StationStart)?	DepartureTime	True
+when is the [next](Criterion) [train](Vehicle)	DepartureTime	True
+when does the [next](Criterion) [bus](Vehicle) leaves at [garching forschungszentrum](StationStart)?	DepartureTime	True
+when does the next [train](Vehicle) leaves?	DepartureTime	True
+when does the [next](Criterion) [bus](Vehicle) leave in [garching](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [s-bahn](Vehicle) leaves from [hauptbahnhof](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [subway](Vehicle) departes from [odeonsplatz](StationStart)?	DepartureTime	True
+show me the [next](Criterion) [bus](Vehicle) from [garching](StationStart)!	DepartureTime	True
+when does the [next](Criterion) [tram](Vehicle) starts from [hauptbahnhof](StationStart)?	DepartureTime	True
+when will the [next](Criterion) [u-bahn](Vehicle) depart from [garching forschungszentrum](StationStart)?	DepartureTime	True
+show me the [next](Criterion) [bus](Vehicle) from [michaelibad](StationStart).	DepartureTime	True
+when does the [next](Criterion) [train](Vehicle) starts at [sendlinger tor](StationStart)?	DepartureTime	True
+hey bot, when does the [next](Criterion) [bus](Vehicle) starts at [garching](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [bus](Vehicle) leaves at [garching](StationStart)?	DepartureTime	True
+when is the [bus](Vehicle) from [quiddestraße](StationStart)?	DepartureTime	True
+when can i get a [bus](Vehicle) at [mariahilfplatz](StationStart)?	DepartureTime	True
+when does the [next](Criterion) [bus](Vehicle) leaves at [romanplatz](StationStart)?	DepartureTime	True
+when does the [bus](Vehicle) to [röblingweg](StationStart) starts?	DepartureTime	True
+[next](Criterion) [bus](Vehicle) from [quiddestraße](StationStart)?	DepartureTime	True
+when is the [next](Criterion) [bus](Vehicle) leaving from [garching](StationStart)?	DepartureTime	True
+when is the [train](Vehicle) leaving in [garching](StationStart)	DepartureTime	True
+when is the [train](Vehicle) leaving in [garching](StationStart)?	DepartureTime	True
+how can i get from [garching](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+when is adrians [next](Criterion) [subway](Vehicle) leaving at [garching forschungszentrum](StationStart)?	DepartureTime	True
+how can i get from [olympiazentrum](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	True
+how can i get from [quiddestraße](StationStart) to [boltzmannstraße](StationDest)?	FindConnection	True
+how can i get from [moosach](StationStart) to [garching forschungszentrum](StationDest)?	FindConnection	True
+can you give me a connection from [garching](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) from [garching](StationStart)	DepartureTime	True
+when comes the [next](Criterion) [train](Vehicle)	DepartureTime	True
+when is the [next](Criterion) [train](Vehicle) in [nordfriedhof](StationStart)	DepartureTime	True
+when does the [next](Criterion) [train](Vehicle) come at [garching forschungszentrum](StationStart)	DepartureTime	True
+when is the [next](Criterion) [train](Vehicle) from [nordfriedhof](StationStart) to [garching forschungszentrum](StationDest)	FindConnection	True
+i want to travel from [garching](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+how can i get to [sendlinger tor](StationDest)?	FindConnection	True
+how do i get to [untere straussäcker](StationDest)?	FindConnection	True
+how can i get from [garching](StationStart) to [garching](StationDest)?	FindConnection	True
+how can i get from [garching](StationStart) to [sendlinger tor](StationDest)?	FindConnection	True
+how can i get from [garchingto](StationStart) [garching](StationDest)?	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) from [garching](StationStart)	DepartureTime	True
+how do i get from [marienplatz](StationStart) zu [garching](StationDest)	FindConnection	True
+how can i get to [milbertshofen](StationDest) from [garching](StationStart)?	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) to [garching](StationDest)	FindConnection	True
+how can i get from [garching](StationStart) to [milbertshofen](StationDest)?	FindConnection	True
+when does the [next](Criterion) [rocket](Vehicle) leaves from [garching forschungszentrum](StationStart)?	DepartureTime	True
+connection from [untere straßäcker 21](StationStart) to [kieferngarten](StationDest)	FindConnection	True
+how to get from [untere strassäcker 21](StationStart) to [frötmaning](StationDest)	FindConnection	True
+how to get from [untere strassaecker 21](StationStart) to [frötmaning](StationDest)	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) from [untere straßaecker 21](StationStart) to [kieferngarten](StationDest)	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) from untere [straßaecker 21, garching](StationStart) to [kieferngarten](StationDest)	FindConnection	True
+from [garching](StationStart) to [perlach](StationDest)	FindConnection	True
+how to get from [garching](StationStart) to [perlach](StationDest)?	FindConnection	True
+how to get from [bonnerplatz](StationStart) to [freimann](StationDest)	FindConnection	True
+when is the [next](Criterion) [train](Vehicle) in [nordfriedhof](StationStart)?	DepartureTime	True
+when is the [next](Criterion) [train](Vehicle) in [münchner freiheit](StationStart)?	DepartureTime	True
+connection from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)?	FindConnection	True
+how do i get from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)?	FindConnection	True
+when is the [next](Criterion) [bus](Vehicle) in [garching forschungszentrum](StationStart)	DepartureTime	True
+how can i get from [garching](StationStart) to [marienplatz](StationDest)	FindConnection	True
+from [garching](StationStart) to [studentenstadt](StationDest)	FindConnection	True

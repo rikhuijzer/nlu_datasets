@@ -21,6 +21,12 @@ def convert_nlu_evaluation_entity(text: str, entity: dict) -> dict:
     return src.utils.create_entity(start, end, entity=entity['entity'], value=entity['text'])
 
 
+def build_message(text: str, intent: str, entities: List[dict], training: bool) -> Message:
+    message = Message.build(text, intent, entities)
+    message.data['training'] = training
+    return message
+
+
 def read_nlu_evaluation_corpora(corpus: Corpus) -> Iterable[Message]:
     """Convert NLU Evaluation Corpora dictionary to the internal representation."""
     file = src.utils.get_path(corpus)
@@ -30,6 +36,6 @@ def read_nlu_evaluation_corpora(corpus: Corpus) -> Iterable[Message]:
         return list(map(lambda e: convert_nlu_evaluation_entity(sentence['text'], e), sentence['entities']))
 
     def convert_sentence(sentence: dict) -> Message:
-        return Message.build(text=sentence['text'], intent=sentence['intent'], entities=convert_entities(sentence))
+        return build_message(sentence['text'], sentence['intent'], convert_entities(sentence), sentence['training'])
 
     return map(convert_sentence, js['sentences'])
