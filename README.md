@@ -5,7 +5,11 @@ Datasets for intent classification and entity extraction including converters.
 Data is not split in train / test, train / dev / test to allow for using k-fold cross 
 validation and allow users to define their own splits. It is advised to use fixed random 
 seed for code reproducibility. The `NLU-evaluation-corpora` define a fixed train test split.
-This is stored in these files using the `training` column.
+This is stored in these files using the `training` column. Note that the splits are odd.
+In `AskUbuntuCorpus.json` 53 sentences have `"training": true` while 109 sentences have 
+`"training" : false`. In other words, the test set is twice as large as training set. The
+only reason to use this predefined split is to compare accuracy against 
+NLU-evaluation-corpora paper.
 
 ## Annotation standard
 The datasets are in Rasa NLU Markdown training format and not in BIO or BIO2 annotation standard. 

@@ -34,7 +34,7 @@ def convert_message_line(message: Message) -> Tuple:
 def write_tsv(tuples: Iterable[Tuple], n_cols: int, filename: Path):
     with open(str(filename), 'w', encoding='utf8', newline='') as tsv_file:
         tsv_writer = csv.writer(tsv_file, delimiter='\t', lineterminator='\n')
-        header = ['Message', 'Intent']
+        header = ['Annotated sentence', 'Intent']
         if n_cols == 3:
             header.append('Training')
         tsv_writer.writerow(header)
