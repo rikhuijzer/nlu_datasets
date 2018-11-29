@@ -39,7 +39,7 @@ def create_entity(start: int, end: int, entity: str, value: str) -> dict:
     return {'start': start, 'end': end, 'entity': entity, 'value': value}
 
 
-def create_message(text: str, intent: str, entities: List[str], training: bool, corpus: Corpus) -> Message:
+def create_message(text: str, intent: str, entities: List[dict], training: bool, corpus: Corpus) -> Message:
     message = Message.build(text=text, intent=intent, entities=entities)
     message.data['training'] = training
     message.data['corpus'] = corpus

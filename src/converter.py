@@ -1,14 +1,13 @@
 import csv
 from pathlib import Path
-from typing import Tuple, Optional, List, Iterable
+from typing import Tuple, Iterable
 
-from rasa_nlu.training_data.message import Message
-from sklearn.model_selection import train_test_split
-
-from src.utils import get_project_root, get_messages
-from src.my_types import Corpus
 from rasa_nlu.training_data import TrainingData
 from rasa_nlu.training_data.formats.markdown import MarkdownWriter
+from rasa_nlu.training_data.message import Message
+
+from src.my_types import Corpus
+from src.utils import get_project_root, get_messages
 
 
 def convert_message_to_annotated_str(message: Message) -> str:
