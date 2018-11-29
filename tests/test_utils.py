@@ -6,7 +6,6 @@ from rasa_nlu.training_data.message import Message
 
 def test_message_converters():
     text = 'Could I pay you 50 yen tomorrow or tomorrow?'
-    text = 'Could I pay you 50 [yen](currency lorem ipsum) [tomorrow](date) or [tomorrow](date)?'
     entities = [
         src.utils.create_entity(19, 22, 'currency lorem ipsum', 'yen'),
         src.utils.create_entity(23, 31, 'date', 'tomorrow'),
@@ -14,8 +13,8 @@ def test_message_converters():
     ]
     message = Message.build(text, 'foo', entities)
 
-    assert text, src.utils.convert_message_str(message)
-    assert message, src.utils.convert_str_message(text)
+    expected = 'Could I pay you 50 [yen](currency lorem ipsum) [tomorrow](date) or [tomorrow](date)?'
+    assert expected == src.utils.convert_message_annotated(message)
 
 
 def test_get_intents():

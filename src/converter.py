@@ -50,5 +50,5 @@ def to_tsv(corpus: Corpus, filename: Path):
 
 
 if __name__ == '__main__':
-    dataset = Corpus.WEBAPPLICATIONS
+    dataset = Corpus.SNIPS2017
     to_tsv(dataset, get_project_root() / 'data' / dataset.name.lower() / (dataset.name.lower() + '.tsv'))

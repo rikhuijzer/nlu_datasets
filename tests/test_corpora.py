@@ -19,7 +19,7 @@ def test_nlu_evaluation_entity_converter():
     def helper(text: str, entity: dict, expected: str):
         result = convert_nlu_evaluation_entity(text, entity)
         message = Message.build(text, 'some intent', [result])
-        assert expected == src.utils.convert_message_str(message)
+        assert expected == src.utils.convert_message_annotated(message)
 
     helper(text='when is the next train in muncher freiheit?',
            entity={'entity': 'Vehicle', 'start': 4, 'stop': 4, 'text': 'train'},
@@ -34,7 +34,7 @@ def test_nlu_evaluation_entity_converter():
            expected='Archive/export all the blog entries from a RSS feed in [Google Reader](WebService)')
 
 
-# NLU-Evaluation-Corpora expected_length provided at https://github.com/sebischair/NLU-Evaluation-Corpora
+# NLU-Evaluation-Corpora expected_length is listed in paper
 def test_get_messages():
     """ Test whether all corpora get imported correctly.
             All crammed in one function, to avoid having many errors when one of the sub-functions fails.
@@ -49,10 +49,12 @@ def test_get_messages():
     first_row = {
         'text': 'What software can I use to view epub documents?',
         'intent': 'Software Recommendation',
+        'training': False
     }
     last_row = {
         'text': 'What graphical utility can I use for Ubuntu auto shutdown?',
         'intent': 'Shutdown Computer',
+        'training': True
     }
 
     helper(sentences, 162, first_row, last_row)
@@ -65,6 +67,7 @@ def test_get_messages():
                       'value': 'marienplatz'}],
         'intent': 'FindConnection',
         'text': 'i want to go marienplatz',
+        'training': False
     }
     last_row = {
         'entities': [{'end': 13,
@@ -77,6 +80,7 @@ def test_get_messages():
                       'value': 'studentenstadt'}],
         'intent': 'FindConnection',
         'text': 'from garching to studentenstadt',
+        'training': True,
     }
     helper(sentences, 206, first_row, last_row)
 
@@ -88,6 +92,7 @@ def test_get_messages():
                       'value': 'Facebook'}],
         'intent': 'Find Alternative',
         'text': 'Alternative to Facebook',
+        'training': False,
     }
     last_row = {
         'entities': [{'end': 31,
@@ -96,6 +101,7 @@ def test_get_messages():
                       'value': 'Harvest'}],
         'intent': 'Delete Account',
         'text': 'How to disable/delete a Harvest account?',
+        'training': True,
     }
 
     helper(sentences, 89, first_row, last_row)

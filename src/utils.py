@@ -2,13 +2,13 @@ from functools import lru_cache
 
 from rasa_nlu.training_data.formats.markdown import MarkdownWriter
 from rasa_nlu.training_data import Message, TrainingData
-from typing import Iterable, Tuple
+from typing import Iterable, Tuple, List
 from src.corpora import read_nlu_evaluation_corpora
 import pandas as pd
 import json
 from pathlib import Path
 from src.my_types import Corpus
-from enum import Enum
+from tests.utils import get_mock_messages
 
 
 def get_project_root() -> Path:
@@ -39,7 +39,14 @@ def create_entity(start: int, end: int, entity: str, value: str) -> dict:
     return {'start': start, 'end': end, 'entity': entity, 'value': value}
 
 
-def convert_message_str(message: Message) -> str:
+def create_message(text: str, intent: str, entities: List[str], training: bool, corpus: Corpus) -> Message:
+    message = Message.build(text=text, intent=intent, entities=entities)
+    message.data['training'] = training
+    message.data['corpus'] = corpus
+    return message
+
+
+def convert_message_annotated(message: Message) -> str:
     """Convert Message object to string having annotated entities."""
     training_examples = [message]
     training_data = TrainingData(training_examples)
@@ -48,17 +55,13 @@ def convert_message_str(message: Message) -> str:
     return generated
 
 
-def convert_str_message(text: str) -> Message:
-    return Message.build()
-
-
 def convert_messages_dataframe(messages: Iterable[Message], annotated_str=False) -> pd.DataFrame:
     """ Returns a DataFrame (table) from a list of Message objects which can be used for visualisation."""
     pd.set_option('max_colwidth', 180)
 
     data = {'message': [], 'intent': [], 'training': []}
     for message in messages:
-        data['message'].append(convert_message_str(message) if annotated_str else message.text)
+        data['message'].append(convert_message_annotated(message) if annotated_str else message.text)
         data['intent'].append(message.data['intent'])
         data['training'].append(message.data['training'])
     return pd.DataFrame(data)
@@ -70,6 +73,7 @@ def get_messages(corpus: Corpus) -> Tuple[Message, ...]:
     from src.snips import read_snips2017
 
     functions = {  # all functions should have type: Corpus -> Iterable[Message]
+        Corpus.MOCK: get_mock_messages,
         Corpus.WEBAPPLICATIONS: read_nlu_evaluation_corpora,
         Corpus.CHATBOT: read_nlu_evaluation_corpora,
         Corpus.ASKUBUNTU: read_nlu_evaluation_corpora,
