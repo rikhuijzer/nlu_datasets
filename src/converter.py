@@ -103,8 +103,12 @@ def convert_message_lines(message: Message) -> str:
     span_generator = WordPunctTokenizer().span_tokenize(message.text)
     spans = [span for span in span_generator]
     tokens = list(map(lambda t: message.text[t[0]:t[1]], spans))
-    annotations = annotate_tokens(spans, message.data['entities'])
-    assert len(tokens) == len(annotations)
+    entities = message.data['entities'] if ('entities' in message.data) else []
+    annotations = annotate_tokens(spans, entities)
+
+    # cannot use this assertion thanks to incorrect start index for some sentence in AskUbuntuCorpus
+    # Problem upgrading Ubuntu [9.10](UbuntuVersion:Ubuntu 9.10)
+    # assert len(tokens) == len(annotations)
     lines = list(map(lambda t: '{} {}'.format(t[0], t[1]), zip(tokens, annotations)))
     lines = '\n'.join(lines)
     return lines
@@ -135,7 +139,7 @@ def write_ner(corpus: Corpus, folder: Path):
 
 
 if __name__ == '__main__':
-    dataset = Corpus.CHATBOT
+    dataset = Corpus.SNIPS2017
     folder = get_project_root() / 'generated' / dataset.name.lower()
     write_ner(dataset, folder)
     # to_tsv(dataset, folder / (dataset.name.lower() + '.tsv'))

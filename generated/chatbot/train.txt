@@ -125,14 +125,14 @@ connection O
 from O
 harras B-StationStart
 to O
-karl O
-- O
-preis O
-- B-StationDest
+karl B-StationDest
+- I-StationDest
+preis I-StationDest
+- I-StationDest
 platz I-StationDest
-at I-StationDest
-8 I-StationDest
-am I-StationDest
+at O
+8 B-TimeStartTime
+am I-TimeStartTime
 . O
 
 in O
@@ -293,24 +293,24 @@ can O
 i O
 get O
 from O
-kurt O
-- O
-eisner O
-- B-StationStart
+kurt B-StationStart
+- I-StationStart
+eisner I-StationStart
+- I-StationStart
 straße I-StationStart
-to I-StationStart
-garching I-StationStart
-? I-StationStart
+to O
+garching B-StationDest
+? O
 
 when O
 the O
 next B-Criterion
 train B-Vehicle
 in O
-garching O
-, B-StationStart
+garching B-StationStart
+, I-StationStart
 forschungszentrum I-StationStart
-is I-StationStart
+is O
 leaving O
 ? O
 
@@ -353,12 +353,12 @@ can O
 i O
 get O
 from O
-garching O
-, B-StationStart
+garching B-StationStart
+, I-StationStart
 forschungszentrum I-StationStart
-to I-StationStart
-odeonsplatz O
-? B-StationDest
+to O
+odeonsplatz B-StationDest
+? O
 
 how O
 can O
@@ -368,12 +368,12 @@ from O
 garching B-StationStart
 forschungszentrum I-StationStart
 to O
-kurt O
-- O
-eisner O
-- B-StationDest
+kurt B-StationDest
+- I-StationDest
+eisner I-StationDest
+- I-StationDest
 straße I-StationDest
-? I-StationDest
+? O
 
 how O
 can O
@@ -521,13 +521,13 @@ when O
 does O
 the O
 next B-Criterion
-s O
-- B-Vehicle
+s B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-leaves I-Vehicle
+leaves O
 from O
-hauptbahnhof O
-? B-StationStart
+hauptbahnhof B-StationStart
+? O
 
 when O
 does O
@@ -562,14 +562,14 @@ when O
 will O
 the O
 next B-Criterion
-u O
-- B-Vehicle
+u B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-depart I-Vehicle
+depart O
 from O
-garching O
-forschungszentrum B-StationStart
-? I-StationStart
+garching B-StationStart
+forschungszentrum I-StationStart
+? O
 
 show O
 me O
@@ -907,31 +907,43 @@ forschungszentrum I-StationStart
 
 connection O
 from O
-untere O
-straßäcker B-StationStart
+untere B-StationStart
+straßäcker I-StationStart
 21 I-StationStart
-to I-StationStart
-kieferngarten O
+to O
+kieferngarten B-StationDest
 
 how O
 to O
 get O
 from O
-untere O
-strassäcker B-StationStart
+untere B-StationStart
+strassäcker I-StationStart
 21 I-StationStart
-to I-StationStart
-frötmaning O
+to O
+frötmaning B-StationDest
 
 how O
 to O
 get O
 from O
-untere O
-strassaecker B-StationStart
+untere B-StationStart
+strassaecker I-StationStart
 21 I-StationStart
-to I-StationStart
-frötmaning O
+to O
+frötmaning B-StationDest
+
+when O
+is O
+the O
+next B-Criterion
+train B-Vehicle
+from O
+untere B-StationStart
+straßaecker I-StationStart
+21 I-StationStart
+to O
+kieferngarten B-StationDest
 
 when O
 is O
@@ -942,22 +954,10 @@ from O
 untere O
 straßaecker B-StationStart
 21 I-StationStart
-to I-StationStart
-kieferngarten O
-
-when O
-is O
-the O
-next B-Criterion
-train B-Vehicle
-from O
-untere O
-straßaecker O
-21 O
-, B-StationStart
+, I-StationStart
 garching I-StationStart
-to I-StationStart
-kieferngarten I-StationStart
+to O
+kieferngarten B-StationDest
 
 from O
 garching B-StationStart

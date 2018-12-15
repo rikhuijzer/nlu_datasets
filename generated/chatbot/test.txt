@@ -18,14 +18,14 @@ when O
 does O
 the O
 next B-Criterion
-u O
-- B-Vehicle
+u B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-leaves I-Vehicle
+leaves O
 from O
-garching O
-forschungszentrum B-StationStart
-? I-StationStart
+garching B-StationStart
+forschungszentrum I-StationStart
+? O
 
 from O
 olympia B-StationStart
@@ -70,11 +70,11 @@ how O
 to O
 get O
 from O
-untere O
-strassäcker B-StationStart
+untere B-StationStart
+strassäcker I-StationStart
 21 I-StationStart
-to I-StationStart
-fröttmaning O
+to O
+fröttmaning B-StationDest
 
 how O
 i O
@@ -105,13 +105,13 @@ when O
 is O
 the O
 next B-Criterion
-s O
-- B-Vehicle
+s B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-leaving I-Vehicle
+leaving O
 at O
-garching O
-? B-StationStart
+garching B-StationStart
+? O
 
 how O
 do O
@@ -179,14 +179,14 @@ find O
 a O
 connection O
 from O
-kurt O
-- O
-eisner O
-- B-StationStart
+kurt B-StationStart
+- I-StationStart
+eisner I-StationStart
+- I-StationStart
 straße I-StationStart
-to I-StationStart
-garching I-StationStart
-forschungszentrum I-StationStart
+to O
+garching B-StationDest
+forschungszentrum I-StationDest
 ? O
 
 can O
@@ -283,14 +283,14 @@ can O
 i O
 get O
 from O
-kurt O
-- O
-eisner O
-- B-StationStart
+kurt B-StationStart
+- I-StationStart
+eisner I-StationStart
+- I-StationStart
 straße I-StationStart
-to I-StationStart
-garching I-StationStart
-forschungszentrum I-StationStart
+to O
+garching B-StationDest
+forschungszentrum I-StationDest
 ? O
 
 how O
@@ -538,26 +538,26 @@ when O
 does O
 the O
 next B-Criterion
-u O
-- B-Vehicle
+u B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-departs I-Vehicle
+departs O
 at O
-garching O
-forschungszentrum B-StationStart
-? I-StationStart
+garching B-StationStart
+forschungszentrum I-StationStart
+? O
 
 when O
 does O
 the O
 next B-Criterion
-u O
-- B-Vehicle
+u B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-departs I-Vehicle
+departs O
 at O
-garching O
-? B-StationStart
+garching B-StationStart
+? O
 
 when O
 does O
@@ -741,13 +741,13 @@ when O
 does O
 the O
 next B-Criterion
-u O
-- B-Vehicle
+u B-Vehicle
+- I-Vehicle
 bahn I-Vehicle
-depart I-Vehicle
+depart O
 at O
-garching O
-? B-StationStart
+garching B-StationStart
+? O
 
 the O
 next B-Criterion
