@@ -139,7 +139,7 @@ def write_ner(corpus: Corpus, folder: Path):
 
 
 if __name__ == '__main__':
-    dataset = Corpus.SNIPS2017
+    dataset = Corpus.WEBAPPLICATIONS
     folder = get_project_root() / 'generated' / dataset.name.lower()
-    write_ner(dataset, folder)
-    # to_tsv(dataset, folder / (dataset.name.lower() + '.tsv'))
+    # write_ner(dataset, folder)
+    to_tsv(dataset, folder / (dataset.name.lower() + '.tsv'))
