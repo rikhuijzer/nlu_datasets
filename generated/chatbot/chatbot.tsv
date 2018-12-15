@@ -1,4 +1,4 @@
-Message	Intent	Training
+Annotated sentence	Intent	Training
 i want to go [marienplatz](StationDest)	FindConnection	False
 when is the [next](Criterion) [train](Vehicle) in [muncher freiheit](StationStart)?	DepartureTime	False
 when does the [next](Criterion) [u-bahn](Vehicle) leaves from [garching forschungszentrum](StationStart)?	DepartureTime	False
