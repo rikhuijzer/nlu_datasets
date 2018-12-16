@@ -109,6 +109,7 @@ def convert_message_lines(message: Message) -> str:
     # cannot use this assertion thanks to incorrect start index for some sentence in AskUbuntuCorpus
     # Problem upgrading Ubuntu [9.10](UbuntuVersion:Ubuntu 9.10)
     # assert len(tokens) == len(annotations)
+
     lines = list(map(lambda t: '{} {}'.format(t[0], t[1]), zip(tokens, annotations)))
     lines = '\n'.join(lines)
     return lines
