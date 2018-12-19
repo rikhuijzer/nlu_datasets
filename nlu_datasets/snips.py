@@ -3,14 +3,14 @@ import pathlib
 import typing
 from itertools import accumulate, chain
 from typing import List, Iterable
-from src.my_types import Corpus
-import src.utils  # from ... import ... will cause circular imports
+from nlu_datasets.my_types import Corpus
+import nlu_datasets.utils  # from ... import ... will cause circular imports
 from rasa_nlu.training_data.message import Message
 
 
 def get_folders(corpus: Corpus) -> Iterable[pathlib.Path]:
     """Get all folders listed in some corpus folder."""
-    return filter(lambda f: f.is_dir(), src.utils.get_path(corpus).glob('./*'))
+    return filter(lambda f: f.is_dir(), nlu_datasets.utils.get_path(corpus).glob('./*'))
 
 
 def convert_data_text(data: List[dict]) -> str:
@@ -30,19 +30,19 @@ def convert_data_entities(data: List[dict]) -> Iterable[dict]:
     spans = convert_data_spans(data)
     for span, item in zip(spans, data):
         if 'entity' in item:
-            yield src.utils.create_entity(start=span[0], end=span[1], entity=item['entity'], value=item['text'])
+            yield nlu_datasets.utils.create_entity(start=span[0], end=span[1], entity=item['entity'], value=item['text'])
 
 
 def convert_data_message(corpus: Corpus, intent: str, data: List[dict], train: bool) -> Message:
     """Returns message in Rasa representation for some SNIPS data element."""
     text = convert_data_text(data)
     entities = list(convert_data_entities(data))
-    return src.utils.create_message(text, intent, entities, train, corpus)
+    return nlu_datasets.utils.create_message(text, intent, entities, train, corpus)
 
 
 def convert_file_messages(corpus: Corpus, file: pathlib.Path, intent: str, train: bool) -> Iterable[Message]:
     """Returns messages in Rasa representation for some SNIPS .json file."""
-    js = src.utils.convert_json_dict(file)
+    js = nlu_datasets.utils.convert_json_dict(file)
     return map(lambda item: convert_data_message(corpus, intent, item['data'], train), js[intent])
 
 

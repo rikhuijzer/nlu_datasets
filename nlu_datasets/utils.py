@@ -3,11 +3,11 @@ from functools import lru_cache
 from rasa_nlu.training_data.formats.markdown import MarkdownWriter
 from rasa_nlu.training_data import Message, TrainingData
 from typing import Iterable, Tuple, List
-from src.corpora import read_nlu_evaluation_corpora
+from nlu_datasets.corpora import read_nlu_evaluation_corpora
 import pandas as pd
 import json
 from pathlib import Path
-from src.my_types import Corpus
+from nlu_datasets.my_types import Corpus
 from tests.utils import get_mock_messages
 
 
@@ -70,7 +70,7 @@ def convert_messages_dataframe(messages: Iterable[Message], annotated_str=False)
 @lru_cache()
 def get_messages(corpus: Corpus) -> Tuple[Message, ...]:
     """Get all messages: Message from some file containing corpus and cache the messages."""
-    from src.snips import read_snips2017
+    from nlu_datasets.snips import read_snips2017
 
     functions = {  # all functions should have type: Corpus -> Iterable[Message]
         Corpus.MOCK: get_mock_messages,

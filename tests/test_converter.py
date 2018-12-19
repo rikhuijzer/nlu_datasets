@@ -1,6 +1,6 @@
-from src.utils import create_message
-from src.my_types import Corpus
-from src.converter import (
+from nlu_datasets.utils import create_message
+from nlu_datasets.my_types import Corpus
+from nlu_datasets.converter import (
     convert_message_lines, annotate_tokens_using_ner, annotate_entity_tokens, merge_spans, convert_messages_lines
 )
 

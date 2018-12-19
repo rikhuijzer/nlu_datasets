@@ -6,8 +6,8 @@ from rasa_nlu.training_data import TrainingData
 from rasa_nlu.training_data.formats.markdown import MarkdownWriter
 from rasa_nlu.training_data.message import Message
 
-from src.my_types import Corpus, Task
-from src.utils import get_project_root, get_messages
+from nlu_datasets.my_types import Corpus, Task
+from nlu_datasets.utils import get_project_root, get_messages
 from nltk.tokenize import WordPunctTokenizer
 import os
 

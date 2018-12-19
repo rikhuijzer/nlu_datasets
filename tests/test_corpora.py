@@ -1,7 +1,7 @@
-import src.utils  # not using from ... import ... to avoid ImportError
-from src.corpora import convert_index, convert_nlu_evaluation_entity
+import nlu_datasets.utils  # not using from ... import ... to avoid ImportError
+from nlu_datasets.corpora import convert_index, convert_nlu_evaluation_entity
 import typing
-from src.my_types import Corpus
+from nlu_datasets.my_types import Corpus
 from rasa_nlu.training_data.message import Message
 
 
@@ -19,7 +19,7 @@ def test_nlu_evaluation_entity_converter():
     def helper(text: str, entity: dict, expected: str):
         result = convert_nlu_evaluation_entity(text, entity)
         message = Message.build(text, 'some intent', [result])
-        assert expected == src.utils.convert_message_annotated(message)
+        assert expected == nlu_datasets.utils.convert_message_annotated(message)
 
     helper(text='when is the next train in muncher freiheit?',
            entity={'entity': 'Vehicle', 'start': 4, 'stop': 4, 'text': 'train'},
@@ -45,7 +45,7 @@ def test_get_messages():
         assert first_row == messages[0].as_dict()
         assert last_row == messages[-1].as_dict()
 
-    sentences = src.utils.get_messages(Corpus.ASKUBUNTU)
+    sentences = nlu_datasets.utils.get_messages(Corpus.ASKUBUNTU)
     first_row = {
         'text': 'What software can I use to view epub documents?',
         'intent': 'Software Recommendation',
@@ -59,7 +59,7 @@ def test_get_messages():
 
     helper(sentences, 162, first_row, last_row)
 
-    sentences = src.utils.get_messages(Corpus.CHATBOT)
+    sentences = nlu_datasets.utils.get_messages(Corpus.CHATBOT)
     first_row = {
         'entities': [{'end': 24,
                       'entity': 'StationDest',
@@ -84,7 +84,7 @@ def test_get_messages():
     }
     helper(sentences, 206, first_row, last_row)
 
-    sentences = src.utils.get_messages(Corpus.WEBAPPLICATIONS)
+    sentences = nlu_datasets.utils.get_messages(Corpus.WEBAPPLICATIONS)
     first_row = {
         'entities': [{'end': 23,
                       'entity': 'WebService',
