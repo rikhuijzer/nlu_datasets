@@ -6,9 +6,10 @@ from rasa_nlu.training_data import TrainingData
 from rasa_nlu.training_data.formats.markdown import MarkdownWriter
 from rasa_nlu.training_data.message import Message
 
-from src.my_types import Corpus
+from src.my_types import Corpus, Task
 from src.utils import get_project_root, get_messages
 from nltk.tokenize import WordPunctTokenizer
+import os
 
 
 def convert_message_to_annotated_str(message: Message) -> str:
@@ -82,7 +83,7 @@ def merge_spans(spans: List[Tuple], entities: List[dict]) -> List[Tuple]:
 
 
 # i need a connection from [harras](StationStart) to [karl-preis-platz](StationDest) at [8 am](TimeStartTime).
-def annotate_tokens(spans: List[Tuple], entities: List[dict]) -> List[str]:
+def annotate_tokens_using_ner(spans: List[Tuple], entities: List[dict]) -> List[str]:
     """Use entities to create NER annotations for given spans."""
     merged_spans = merge_spans(spans, entities)
     start_indexes = list(map(lambda e: e['start'], entities))
@@ -98,26 +99,35 @@ def annotate_tokens(spans: List[Tuple], entities: List[dict]) -> List[str]:
     return annotations
 
 
-def convert_message_lines(message: Message) -> str:
+def convert_message_lines(task: Task, message: Message) -> str:
     """Convert message to lines which can be stored in txt in the well-known NER format."""
     span_generator = WordPunctTokenizer().span_tokenize(message.text)
     spans = [span for span in span_generator]
-    tokens = list(map(lambda t: message.text[t[0]:t[1]], spans))
+    texts = list(map(lambda t: message.text[t[0]:t[1]], spans))
     entities = message.data['entities'] if ('entities' in message.data) else []
-    annotations = annotate_tokens(spans, entities)
+
+    if task != Task.INTENT:
+        annotations = annotate_tokens_using_ner(spans, entities)
+    else:
+        annotations = ['O'] * len(spans)
 
     # cannot use this assertion thanks to incorrect start index for some sentence in AskUbuntuCorpus
     # Problem upgrading Ubuntu [9.10](UbuntuVersion:Ubuntu 9.10)
-    # assert len(tokens) == len(annotations)
+    # assert len(texts) == len(annotations)
 
-    lines = list(map(lambda t: '{} {}'.format(t[0], t[1]), zip(tokens, annotations)))
+    if task != Task.NER:
+        # add first line which contains '{} [intent]'.format(intent)
+        texts = ['[intent]'] + texts
+        annotations = [message.data['intent'].replace(' ', '')] + annotations
+
+    lines = list(map(lambda t: '{} {}'.format(t[0], t[1]), zip(texts, annotations)))
     lines = '\n'.join(lines)
     return lines
 
 
-def convert_messages_lines(messages: Iterable[Message]) -> str:
+def convert_messages_lines(task: Task, messages: Iterable[Message]) -> str:
     """Convert multiple messages to lines which can be stored in well-known NER format."""
-    return '\n\n'.join(map(lambda message: convert_message_lines(message), messages))
+    return '\n\n'.join(map(lambda message: convert_message_lines(task, message), messages))
 
 
 def write(text: str, filename: Path):
@@ -126,21 +136,32 @@ def write(text: str, filename: Path):
         f.write(text)
 
 
-def write_filtered_ner(messages: Iterable[Message], filename: Path, training: bool):
+def write_filtered_ner(task: Task, messages: Iterable[Message], filename: Path, training: bool):
     """Writes train or test messages to filename."""
     filtered_messages = filter(lambda message: message.data['training'] == training, messages)
-    write(convert_messages_lines(filtered_messages), filename)
+    write(convert_messages_lines(task, filtered_messages), filename)
 
 
-def write_ner(corpus: Corpus, folder: Path):
+def write_ner(corpus: Corpus, task: Task, directory: Path):
     """Writes complete corpus to train and test files."""
+    os.makedirs(str(directory), exist_ok=True)
     messages = get_messages(corpus)
-    write_filtered_ner(messages, folder / 'train.txt', training=True)
-    write_filtered_ner(messages, folder / 'test.txt', training=False)
+    write_filtered_ner(task, messages, directory / 'train.txt', training=True)
+    write_filtered_ner(task, messages, directory / 'test.txt', training=False)
 
 
 if __name__ == '__main__':
+    for dataset in Corpus:
+        corpus_dir = get_project_root() / 'generated' / dataset.name.lower()
+        for task in Task:
+            task_dir = corpus_dir / task.name.lower()
+            write_ner(dataset, task, task_dir)
+        to_tsv(dataset, corpus_dir / (dataset.name.lower() + '.tsv'))
+
+    '''
     dataset = Corpus.WEBAPPLICATIONS
-    folder = get_project_root() / 'generated' / dataset.name.lower()
-    # write_ner(dataset, folder)
-    to_tsv(dataset, folder / (dataset.name.lower() + '.tsv'))
+    task = Task.INTENT
+    folder = get_project_root() / 'generated' / dataset.name.lower() / task.name.lower()
+    write_ner(dataset, task, folder)
+    # to_tsv(dataset, folder / (dataset.name.lower() + '.tsv'))
+    '''

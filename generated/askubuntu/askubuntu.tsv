@@ -17,10 +17,10 @@ Any app that tells me to take regular breaks from working?	Software Recommendati
 What are some good ASCII art generators?	Software Recommendation	False
 What are some good GUI binary viewers/editors?	Software Recommendation	False
 Which is the best PDF metadata viewer for Ubuntu?	Software Recommendation	False
-Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)	Software Recommendation	False
-Which application do you recommend for watching TV (DVB)?	Software Recommendation	False
+Is there a Linux file manager with a proper drop-down tree view? like finder in OS X	Software Recommendation	False
+Which application do you recommend for watching TV DVB?	Software Recommendation	False
 What Is The Best HDR Software?	Software Recommendation	False
-What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?	Software Recommendation	False
+What do you use to edit Microsoft [Word](SoftwareName) documents docx?	Software Recommendation	False
 What's the best Wireframing tool?	Software Recommendation	False
 Is there any software that will do face recognition in photos?	Software Recommendation	False
 Applications to replace [iTunes](SoftwareName) for iPod synchronization?	Software Recommendation	False
@@ -30,7 +30,7 @@ Software to create a video slideshow?	Software Recommendation	False
 Is there a project management software for Ubuntu like Microsoft [Project](SoftwareName)?	Software Recommendation	False
 Is there any recovery software available for ext4?	Software Recommendation	False
 What blog editor software are available?	Software Recommendation	False
-Can you recommend a good modern GUI download manager (wget wrapper?)	Software Recommendation	False
+Can you recommend a good modern GUI download manager wget wrapper?	Software Recommendation	False
 Is there any program for fuzzy string matching which provides a match score?	Software Recommendation	False
 Are there any hardware diagnostic tools?	Software Recommendation	False
 Recommendation for Regex editor?	Software Recommendation	False
@@ -51,11 +51,11 @@ How to Shut down Ubuntu by using keyboard?	Shutdown Computer	False
 shutdown 5:30pm every day	Shutdown Computer	False
 Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)	Make Update	False
 How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?	Make Update	False
-Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)	Make Update	False
+Doubts regarding the [15.04](UbuntuVersion) upgrade is it inevitable and unavoidable?	Make Update	False
 Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?	Make Update	False
 Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)	Make Update	False
 Ubuntu upgrade failed	Make Update	False
-Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )	Make Update	False
+Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion)  Unanswered questions 	Make Update	False
 upgrading to Ubuntu [13.10](UbuntuVersion) from Ubuntu [13.04](UbuntuVersion)	Make Update	False
 Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?	Software Recommendation	False
 Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)	Make Update	False
@@ -89,7 +89,7 @@ How to upgrade Ubuntu [12.04](UbuntuVersion) to [14.04](UbuntuVersion) if I have
 Wubi Device /dev/loop0 full. How to get more space?	Software Recommendation	False
 Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?	Make Update	False
 Removing Recently used items in 12[.04](UbuntuVersion:12.04)	Software Recommendation	False
-Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)	Make Update	False
+Upgrading From [11.04 32bit t](UbuntuVersion:11.04 (32bit))o 12[.04 64bit](UbuntuVersion:12.04 (64bit))	Make Update	False
 How is rm command different from the delete button?	None	False
 In [Unity](SoftwareName) how do I see the details of a given launcher?	Software Recommendation	False
 How to provide user permission to read and write on /dev/sdax? What is the syntax?	None	False
@@ -107,7 +107,7 @@ How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?	Setup Prin
 How to Install a [Canon MF8040Cn](Printer) Printer on Ubuntu [12.04](UbuntuVersion)	Setup Printer	False
 How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?	Setup Printer	False
 How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)	Setup Printer	False
-Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))	Setup Printer	False
+Install printer [Lexmark X4690](Printer) ubuntu 1[2.04](UbuntuVersion:12.04)	Setup Printer	False
 How to record my screen?	None	True
 How can I highlight or annotate PDFs?	None	True
 Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)	Make Update	True
@@ -141,7 +141,7 @@ Which programs can I use to edit PDF files?	Software Recommendation	True
 Is there a lightweight tool to crop images quickly?	Software Recommendation	True
 What [IRC](SoftwareName) clients are available?	Software Recommendation	True
 What new games are available for Ubuntu in 2011?	Software Recommendation	True
-UPNP / DLNA (client) player recommendations?	Software Recommendation	True
+UPNP / DLNA client player recommendations?	Software Recommendation	True
 What scientific plotting software is available?	Software Recommendation	True
 Can you recommend a password generator?	Software Recommendation	True
 What tools do you use to monitor a web server?	Software Recommendation	True

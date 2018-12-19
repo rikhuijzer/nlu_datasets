@@ -1,0 +1,1026 @@
+[intent] FindConnection
+i O
+want O
+to O
+go O
+marienplatz O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+train O
+in O
+muncher O
+freiheit O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+u O
+- O
+bahn O
+leaves O
+from O
+garching O
+forschungszentrum O
+? O
+
+[intent] FindConnection
+from O
+olympia O
+einkaufszentrum O
+to O
+hauptbahnhof O
+
+[intent] FindConnection
+when O
+is O
+the O
+next O
+train O
+from O
+winterstraße O
+12 O
+to O
+kieferngarten O
+
+[intent] FindConnection
+when O
+is O
+the O
+next O
+rocket O
+from O
+winterstraße O
+12 O
+to O
+kieferngarte O
+
+[intent] FindConnection
+can O
+you O
+find O
+a O
+connection O
+from O
+garching O
+to O
+hauptbahnhof O
+? O
+
+[intent] FindConnection
+how O
+to O
+get O
+from O
+untere O
+strassäcker O
+21 O
+to O
+fröttmaning O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+marienplatz O
+to O
+garching O
+
+[intent] FindConnection
+connection O
+from O
+boltzmannstraße O
+to O
+kieferngarten O
+
+[intent] FindConnection
+how O
+to O
+get O
+from O
+bonner O
+platz O
+to O
+freimann O
+? O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+s O
+- O
+bahn O
+leaving O
+at O
+garching O
+? O
+
+[intent] FindConnection
+how O
+do O
+i O
+get O
+from O
+oez O
+to O
+hbf O
+? O
+
+[intent] FindConnection
+how O
+to O
+get O
+from O
+winterstrasse O
+12 O
+to O
+fröttmaning O
+
+[intent] FindConnection
+how O
+do O
+i O
+get O
+from O
+garching O
+forschungszentrum O
+to O
+pasing O
+
+[intent] FindConnection
+theresienstraße O
+to O
+assling O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+theresienstraße O
+to O
+munich O
+east O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+bus O
+starts O
+from O
+garching O
+? O
+
+[intent] FindConnection
+from O
+quiddestraße O
+to O
+garching O
+? O
+
+[intent] FindConnection
+can O
+you O
+find O
+a O
+connection O
+from O
+kurt O
+- O
+eisner O
+- O
+straße O
+to O
+garching O
+forschungszentrum O
+? O
+
+[intent] FindConnection
+can O
+you O
+find O
+a O
+connection O
+from O
+quiddestraße O
+to O
+garching O
+forschungszentrum O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+train O
+leaves O
+at O
+garching O
+? O
+
+[intent] FindConnection
+from O
+hauptbahnhof O
+to O
+garching O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+to O
+glockenbachviertel O
+from O
+garching O
+forschungszentrum O
+? O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+garching O
+to O
+nordfriedhof O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+to O
+glockenbachviertel O
+from O
+garching O
+forschungszentrum O
+? O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+train O
+leaving O
+in O
+garching O
+forschungszentrum O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+moosach O
+to O
+quiddestraße O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+moosach O
+to O
+poccistraße O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+kurt O
+- O
+eisner O
+- O
+straße O
+to O
+garching O
+forschungszentrum O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+moosach O
+to O
+quiddestraße O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+moosach O
+to O
+odeonsplatz O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+bus O
+starts O
+at O
+garching O
+? O
+
+[intent] FindConnection
+what O
+' O
+s O
+the O
+shortest O
+way O
+from O
+quiddestraße O
+to O
+odeonsplatz O
+? O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+bus O
+from O
+ostbahnhof O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+garching O
+to O
+neuperlach O
+sued O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+train O
+in O
+munchner O
+freiheit O
+? O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+marienplatz O
+to O
+garching O
+? O
+
+[intent] FindConnection
+how O
+do O
+i O
+get O
+from O
+poccistraße O
+to O
+laim O
+
+[intent] FindConnection
+i O
+want O
+to O
+go O
+garching O
+from O
+marienplatz O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+marienplatz O
+to O
+garching O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+hauptbahnhof O
+to O
+odeonsplatz O
+
+[intent] FindConnection
+prinzregentenplatz O
+to O
+rotkreuzplatz O
+
+[intent] FindConnection
+i O
+want O
+to O
+go O
+to O
+garching O
+from O
+marienplatz O
+
+[intent] DepartureTime
+next O
+train O
+from O
+garching O
+
+[intent] FindConnection
+from O
+prinzregentenplatz O
+to O
+rotkreuzplatz O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+subway O
+from O
+garching O
+forschungszentrum O
+
+[intent] FindConnection
+from O
+garching O
+to O
+klinikum O
+
+[intent] FindConnection
+from O
+garching O
+foschungszentrum O
+to O
+odeonsplatz O
+
+[intent] DepartureTime
+next O
+bus O
+in O
+garching O
+
+[intent] DepartureTime
+when O
+does O
+the O
+train O
+leaving O
+in O
+garching O
+forschungszentrum O
+
+[intent] DepartureTime
+next O
+subway O
+from O
+garching O
+forschungszentrum O
+
+[intent] DepartureTime
+tell O
+me O
+the O
+next O
+bus O
+from O
+garching O
+
+[intent] DepartureTime
+next O
+bus O
+from O
+garching O
+, O
+please O
+. O
+
+[intent] DepartureTime
+next O
+bus O
+from O
+garching O
+
+[intent] DepartureTime
+next O
+bus O
+from O
+central O
+station O
+
+[intent] FindConnection
+from O
+garching O
+to O
+marienplatz O
+
+[intent] DepartureTime
+next O
+bus O
+from O
+garching O
+. O
+
+[intent] FindConnection
+connection O
+from O
+garching O
+to O
+hauptbahnhof O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+bus O
+departs O
+from O
+garching O
+? O
+
+[intent] FindConnection
+find O
+connection O
+from O
+hauptbahnhof O
+to O
+odeonsplatz O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+u O
+- O
+bahn O
+departs O
+at O
+garching O
+forschungszentrum O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+u O
+- O
+bahn O
+departs O
+at O
+garching O
+? O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+subway O
+departs O
+at O
+garching O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+train O
+in O
+garching O
+? O
+
+[intent] FindConnection
+how O
+to O
+get O
+from O
+münchner O
+freiheit O
+to O
+garching O
+? O
+
+[intent] FindConnection
+implerstraße O
+to O
+ostbahnhof O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+hauptbahnhof O
+to O
+odeonsplatz O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+go O
+from O
+garching O
+forschungszentrum O
+to O
+prinzregentenplatz O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+mangfallplatz O
+to O
+garching O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+to O
+hohenlindenerstraße O
+
+[intent] FindConnection
+harthaus O
+to O
+hackerbrücke O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+feldmoching O
+to O
+garching O
+forschungszentrum O
+? O
+
+[intent] FindConnection
+from O
+marienplatz O
+to O
+petershausen O
+
+[intent] FindConnection
+when O
+is O
+the O
+train O
+from O
+garching O
+to O
+marienplatz O
+
+[intent] FindConnection
+neufahrn O
+to O
+garching O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+mangfallplatz O
+to O
+garching O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+to O
+hohenlindenerstr O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+bus O
+from O
+garching O
+forschungzentrum O
+
+[intent] FindConnection
+how O
+do O
+i O
+get O
+from O
+spitzingplatz O
+to O
+poccistraße O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+garching O
+forschungszentrum O
+to O
+marienplatz O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+klinkum O
+to O
+marienplatz O
+? O
+
+[intent] FindConnection
+how O
+to O
+get O
+from O
+alte O
+heide O
+to O
+marienplatz O
+
+[intent] DepartureTime
+next O
+train O
+from O
+muenchen O
+freicheit O
+
+[intent] DepartureTime
+depart O
+in O
+garching O
+, O
+i O
+assume O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+u O
+- O
+bahn O
+depart O
+at O
+garching O
+? O
+
+[intent] DepartureTime
+the O
+next O
+bus O
+from O
+garching O
+forschungzentrum O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+train O
+in O
+alte O
+heide O
+? O
+
+[intent] DepartureTime
+or O
+depart O
+from O
+garching O
+
+[intent] FindConnection
+hello O
+munich O
+city O
+bot O
+! O
+how O
+do O
+i O
+get O
+from O
+münchner O
+freiheit O
+to O
+scheidplatz O
+? O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+garching O
+forschungszentrum O
+to O
+prinzregentenplatz O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+neufahrn O
+to O
+garching O
+
+[intent] FindConnection
+take O
+me O
+to O
+the O
+airport O
+
+[intent] DepartureTime
+when O
+does O
+the O
+next O
+u6 O
+leave O
+from O
+garching O
+forschungszentrum O
+
+[intent] FindConnection
+how O
+i O
+can O
+get O
+from O
+munchner O
+freiheit O
+to O
+nordfriedhof O
+? O
+
+[intent] FindConnection
+from O
+harthaus O
+to O
+hackerbrücke O
+
+[intent] DepartureTime
+when O
+is O
+the O
+train O
+from O
+garching O
+
+[intent] DepartureTime
+what O
+is O
+the O
+next O
+train O
+from O
+münchner O
+freiheit O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+theresienstrasse O
+to O
+garching O
+forschungszentrum O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+münchner O
+freiheit O
+to O
+odeonsplatz O
+
+[intent] FindConnection
+from O
+garching O
+to O
+hauptbahnhof O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+garching O
+to O
+odeonsplatz O
+
+[intent] FindConnection
+start O
+: O
+neufahrn O
+end O
+: O
+garching O
+
+[intent] FindConnection
+how O
+can O
+i O
+get O
+from O
+studentenstadt O
+to O
+garching O
+
+[intent] DepartureTime
+when O
+is O
+the O
+next O
+bus O
+from O
+garching O
+
+[intent] FindConnection
+take O
+me O
+from O
+hauptbahnhof O
+to O
+odeonsplatz O

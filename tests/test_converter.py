@@ -1,7 +1,7 @@
 from src.utils import create_message
 from src.my_types import Corpus
 from src.converter import (
-    convert_message_lines, annotate_tokens, annotate_entity_tokens, merge_spans, convert_messages_lines
+    convert_message_lines, annotate_tokens_using_ner, annotate_entity_tokens, merge_spans, convert_messages_lines
 )
 
 message = create_message(text='Alternative to Facebook Messenger.',
@@ -15,6 +15,7 @@ message = create_message(text='Alternative to Facebook Messenger.',
 entities = message.data['entities']
 spans = [(0, 11), (12, 14), (15, 23), (24, 33), (33, 34)]
 lines = [
+    'FindAlternative C',
     'Alternative O',
     'to O',
     'Facebook B-WebService',
@@ -44,7 +45,7 @@ def test_merge_spans_advanced():
 
 def test_annotate_tokens():
     expected = ['O', 'O', 'B-WebService', 'I-WebService', 'O']
-    assert expected == annotate_tokens(spans, entities)
+    assert expected == annotate_tokens_using_ner(spans, entities)
 
 
 def test_convert_message_lines():
@@ -71,6 +72,7 @@ def test_bug_omitted_entity():
                                   corpus=Corpus.MOCK)
 
     expected = '\n'.join([
+        'FindConnection C',
         'i O',
         'need O',
         'a O',

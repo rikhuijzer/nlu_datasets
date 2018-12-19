@@ -1,0 +1,44 @@
+[intent] A
+0 O
+
+[intent] A
+1 O
+
+[intent] A
+2 O
+
+[intent] A
+3 O
+
+[intent] A
+4 O
+
+[intent] A
+5 O
+
+[intent] A
+6 O
+
+[intent] A
+7 O
+
+[intent] A
+8 O
+
+[intent] A
+9 O
+
+[intent] B
+10 O
+
+[intent] B
+11 O
+
+[intent] B
+12 O
+
+[intent] B
+13 O
+
+[intent] B
+14 O

@@ -8,3 +8,9 @@ class Corpus(Enum):
     CHATBOT = auto()
     WEBAPPLICATIONS = auto()
     SNIPS2017 = auto()
+
+
+class Task(Enum):
+    NER = auto()  # not adding any intent information to data
+    INTENT = auto()  # not adding any ner information to data
+    NER_INTENT = auto()  # both ner and intent information is added to data
