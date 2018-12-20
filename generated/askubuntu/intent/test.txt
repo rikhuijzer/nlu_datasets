@@ -1,4 +1,4 @@
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 software O
 can O
@@ -10,7 +10,7 @@ epub O
 documents O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Which O
 PDF O
 Viewer O
@@ -19,7 +19,7 @@ you O
 recommend O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 IDEs O
 are O
@@ -28,7 +28,7 @@ for O
 Ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 ' O
 s O
@@ -39,7 +39,7 @@ Mapping O
 Software O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Software O
 to O
 read O
@@ -48,7 +48,7 @@ QR O
 code O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 PDF O
 to O
 word O
@@ -56,7 +56,7 @@ conversion O
 software O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 software O
@@ -68,7 +68,7 @@ dwg O
 files O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 are O
 some O
@@ -77,7 +77,7 @@ PHP O
 editors O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 a O
@@ -93,7 +93,7 @@ brightness O
 contrast O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Please O
 recommend O
 a O
@@ -102,7 +102,7 @@ editor O
 for O
 shell O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 LAN O
@@ -114,7 +114,7 @@ in O
 Ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 a O
@@ -126,7 +126,7 @@ for O
 ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Tool O
 for O
 recovering O
@@ -137,7 +137,7 @@ a O
 flash O
 drive O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 ' O
 s O
@@ -152,7 +152,7 @@ for O
 GNOME O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Any O
 app O
 that O
@@ -166,7 +166,7 @@ from O
 working O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 are O
 some O
@@ -176,7 +176,7 @@ art O
 generators O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 are O
 some O
@@ -188,7 +188,7 @@ viewers O
 editors O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Which O
 is O
 the O
@@ -200,7 +200,7 @@ for O
 Ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 a O
@@ -224,7 +224,7 @@ OS O
 X O
 ) O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Which O
 application O
 do O
@@ -237,7 +237,7 @@ TV O
 DVB O
 )? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 Is O
 The O
@@ -246,7 +246,7 @@ HDR O
 Software O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 do O
 you O
@@ -260,7 +260,7 @@ documents O
 docx O
 )? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 ' O
 s O
@@ -270,7 +270,7 @@ Wireframing O
 tool O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 any O
@@ -284,7 +284,7 @@ in O
 photos O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Applications O
 to O
 replace O
@@ -294,7 +294,7 @@ iPod O
 synchronization O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 an O
@@ -303,7 +303,7 @@ connection O
 manager O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 A O
 light O
 alternative O
@@ -315,7 +315,7 @@ system O
 monitor O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Software O
 to O
 create O
@@ -324,7 +324,7 @@ video O
 slideshow O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 a O
@@ -338,7 +338,7 @@ Microsoft O
 Project O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 any O
@@ -349,7 +349,7 @@ for O
 ext4 O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 blog O
 editor O
@@ -358,7 +358,7 @@ are O
 available O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Can O
 you O
 recommend O
@@ -373,7 +373,7 @@ wget O
 wrapper O
 ?) O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 any O
@@ -389,7 +389,7 @@ match O
 score O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Are O
 there O
 any O
@@ -398,14 +398,14 @@ diagnostic O
 tools O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Recommendation O
 for O
 Regex O
 editor O
 ? O
 
-[intent] None
+[INTENT] None
 Is O
 there O
 a O
@@ -416,14 +416,14 @@ archiving O
 software O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Keyboard O
 shortcut O
 to O
 shutdown O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 My O
 system O
 doesn O
@@ -432,7 +432,7 @@ t O
 go O
 shutdown O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 to O
 troubleshoot O
@@ -440,7 +440,7 @@ slow O
 shutdown O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 can O
 I O
@@ -454,13 +454,13 @@ process O
 ends O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Ubuntu O
 Shut O
 down O
 app O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 What O
 does O
 my O
@@ -474,7 +474,7 @@ Shut O
 Down O
 '? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 do O
 I O
@@ -486,14 +486,14 @@ confirmation O
 prompt O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 No O
 action O
 when O
 shutdown O
 pressed O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 what O
 is O
 the O
@@ -508,7 +508,7 @@ command O
 line O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 can O
 I O
@@ -520,7 +520,7 @@ admin O
 password O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 shutdown O
 in O
 specific O
@@ -532,7 +532,7 @@ one O
 uses O
 computer O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 What O
 is O
 the O
@@ -544,7 +544,7 @@ shutdown O
 dialog O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 to O
 Shut O
@@ -555,7 +555,7 @@ using O
 keyboard O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 shutdown O
 5 O
 : O
@@ -563,7 +563,7 @@ shutdown O
 every O
 day O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 11 O
@@ -574,7 +574,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 do O
 I O
@@ -594,7 +594,7 @@ running O
 Beta O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Doubts O
 regarding O
 the O
@@ -610,7 +610,7 @@ and O
 unavoidable O
 ?) O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Is O
 any O
 offline O
@@ -626,7 +626,7 @@ to O
 possible O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 ubuntu O
@@ -638,12 +638,12 @@ to O
 . O
 10 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Ubuntu O
 upgrade O
 failed O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 12 O
@@ -658,7 +658,7 @@ Unanswered O
 questions O
 ) O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 upgrading O
 to O
 Ubuntu O
@@ -671,7 +671,7 @@ Ubuntu O
 . O
 04 O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 it O
 recommended O
@@ -684,7 +684,7 @@ Lubuntu O
 04 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Force O
 upgrade O
 12 O
@@ -695,7 +695,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 partially O
@@ -711,7 +711,7 @@ Ubuntu O
 04 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Problem O
 upgrading O
 Ubuntu O
@@ -719,7 +719,7 @@ Ubuntu O
 . O
 10 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Is O
 it O
 necessary O
@@ -735,7 +735,7 @@ from O
 04 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 do O
 I O
@@ -752,7 +752,7 @@ Xubuntu O
 LTS O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Why O
 did O
 the O
@@ -770,7 +770,7 @@ my O
 system O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Problems O
 upgrading O
 from O
@@ -782,7 +782,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Problems O
 upgrading O
 Ubuntu O
@@ -794,7 +794,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrade O
 from O
 12 O
@@ -809,7 +809,7 @@ losing O
 files O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 On O
 really O
 old O
@@ -822,7 +822,7 @@ How O
 to O
 upgrade O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Do O
 I O
 need O
@@ -839,7 +839,7 @@ to O
 04 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Do O
 I O
 need O
@@ -858,7 +858,7 @@ to O
 10 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 update O
 - O
 manager O
@@ -874,7 +874,7 @@ than O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 16 O
 . O
@@ -886,7 +886,7 @@ to O
 . O
 1 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 Ubuntu O
 Server O
@@ -898,7 +898,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Ho O
 do O
 I O
@@ -912,7 +912,7 @@ the O
 beta O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -925,7 +925,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 10 O
@@ -942,7 +942,7 @@ is O
 needed O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Do O
 I O
 need O
@@ -963,7 +963,7 @@ to O
 1 O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Cannot O
 upgrade O
 from O
@@ -975,7 +975,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrade O
 10 O
 . O
@@ -985,7 +985,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -1005,7 +1005,7 @@ to O
 from O
 terminal O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -1022,7 +1022,7 @@ to O
 1 O
 LTS O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 10 O
@@ -1033,7 +1033,7 @@ to O
 . O
 10 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 can O
 i O
@@ -1052,7 +1052,7 @@ Beta O
 correctly O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Is O
 there O
 an O
@@ -1069,7 +1069,7 @@ to O
 04 O
 LTS O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrade O
 from O
 9 O
@@ -1080,7 +1080,7 @@ to O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -1102,7 +1102,7 @@ windows O
 7 O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Wubi O
 Device O
 / O
@@ -1118,7 +1118,7 @@ more O
 space O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Using O
 12 O
 . O
@@ -1135,7 +1135,7 @@ for O
 04 O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Removing O
 Recently O
 used O
@@ -1145,7 +1145,7 @@ in O
 . O
 04 O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 From O
 11 O
@@ -1162,7 +1162,7 @@ to O
 64bit O
 ) O
 
-[intent] None
+[INTENT] None
 How O
 is O
 rm O
@@ -1174,7 +1174,7 @@ delete O
 button O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 In O
 Unity O
 how O
@@ -1189,7 +1189,7 @@ given O
 launcher O
 ? O
 
-[intent] None
+[INTENT] None
 How O
 to O
 provide O
@@ -1211,7 +1211,7 @@ the O
 syntax O
 ? O
 
-[intent] None
+[INTENT] None
 Security O
 enhancements O
 prevent O
@@ -1221,7 +1221,7 @@ dev O
 / O
 sdb1 O
 
-[intent] None
+[INTENT] None
 How O
 do O
 I O
@@ -1233,7 +1233,7 @@ from O
 suspend O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 install O
@@ -1244,7 +1244,7 @@ series O
 printer O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Cannot O
 setup O
 HP O
@@ -1253,7 +1253,7 @@ in O
 one O
 DJ3630 O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 add O
@@ -1267,7 +1267,7 @@ Ubuntu O
 10 O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Cannot O
 install O
 printer O
@@ -1275,7 +1275,7 @@ driver O
 epson O
 l210 O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 do O
 I O
@@ -1284,7 +1284,7 @@ Dell O
 2150cdn O
 printer O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Installing O
 Epson O
 XP O
@@ -1293,7 +1293,7 @@ XP O
 wireless O
 printer O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Installing O
 EPSON O
 L355 O
@@ -1303,7 +1303,7 @@ Ubuntu O
 . O
 04 O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 do O
 I O
@@ -1314,7 +1314,7 @@ F4280 O
 printer O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 Install O
@@ -1328,7 +1328,7 @@ on O
 Ubuntu O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 Install O
@@ -1342,7 +1342,7 @@ Ubuntu O
 . O
 04 O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 Do O
 I O
@@ -1357,7 +1357,7 @@ Ubuntu O
 10 O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 install O
@@ -1369,7 +1369,7 @@ Lts O
 . O
 04 O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Install O
 printer O
 Lexmark O

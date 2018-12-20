@@ -1,4 +1,4 @@
-[intent] None
+[INTENT] None
 How O
 to O
 record O
@@ -6,7 +6,7 @@ my O
 screen O
 ? O
 
-[intent] None
+[INTENT] None
 How O
 can O
 I O
@@ -16,7 +16,7 @@ annotate O
 PDFs O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Is O
 it O
 worth O
@@ -31,7 +31,7 @@ to O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrade O
 to O
 12 B-UbuntuVersion
@@ -40,7 +40,7 @@ to O
 64 I-UbuntuVersion
 bit I-UbuntuVersion
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -58,7 +58,7 @@ to O
 2 I-UbuntuVersion
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrading O
 from O
 Ubuntu O
@@ -70,7 +70,7 @@ to O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 how O
 to O
 upgrade O
@@ -85,7 +85,7 @@ to O
 10 I-UbuntuVersion
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Upgrade O
 12 B-UbuntuVersion
 . I-UbuntuVersion
@@ -98,7 +98,7 @@ using O
 startup O
 disk O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 Upgrade O
@@ -119,7 +119,7 @@ a O
 problem O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 Update O
 11 B-UbuntuVersion
 . I-UbuntuVersion
@@ -131,7 +131,7 @@ to O
 with O
 LiveCD O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -147,7 +147,7 @@ via O
 terminal O
 ? O
 
-[intent] MakeUpdate
+[INTENT] MakeUpdate
 How O
 to O
 upgrade O
@@ -162,7 +162,7 @@ to O
 04 I-UbuntuVersion
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 No O
 matter O
 what O
@@ -179,7 +179,7 @@ HP B-Printer
 LaserJet I-Printer
 1020 I-Printer
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 setup O
@@ -191,7 +191,7 @@ on O
 ubuntu O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 do O
 I O
@@ -203,7 +203,7 @@ printer O
 wirelessly O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 setup O
@@ -223,7 +223,7 @@ Server O
 10 I-UbuntuVersion
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 can O
 I O
@@ -236,7 +236,7 @@ printer O
 on O
 Ubuntu O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 Install O
 Canon B-Printer
 MP560 I-Printer
@@ -245,7 +245,7 @@ Ubuntu O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 to O
 install O
@@ -258,7 +258,7 @@ network O
 printer O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 do O
 I O
@@ -271,7 +271,7 @@ Minolta I-Printer
 200 I-Printer
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 do O
 I O
@@ -291,7 +291,7 @@ Printer O
 Scanner O
 ? O
 
-[intent] SetupPrinter
+[INTENT] SetupPrinter
 How O
 To O
 Install O
@@ -315,7 +315,7 @@ it O
 didnt O
 work O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Any O
 command O
 line O
@@ -324,7 +324,7 @@ for O
 Ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Extracting O
 embedded O
 images O
@@ -332,7 +332,7 @@ from O
 a O
 PDF O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 to O
 use O
@@ -343,7 +343,7 @@ Audio O
 / O
 Video O
 
-[intent] None
+[INTENT] None
 Torrent O
 client O
 for O
@@ -353,12 +353,12 @@ command O
 line O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 MySQL B-SoftwareName
 GUI O
 Tools O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 developer O
 text O
@@ -369,7 +369,7 @@ for O
 Ubuntu O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 screenshot O
 tools O
@@ -377,7 +377,7 @@ are O
 available O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Which O
 programs O
 can O
@@ -389,7 +389,7 @@ PDF O
 files O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 a O
@@ -401,7 +401,7 @@ images O
 quickly O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 IRC B-SoftwareName
 clients O
@@ -409,7 +409,7 @@ are O
 available O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 new O
 games O
@@ -421,7 +421,7 @@ in O
 2011 O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 UPNP O
 / O
 DLNA O
@@ -432,7 +432,7 @@ player O
 recommendations O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 scientific O
 plotting O
@@ -441,7 +441,7 @@ is O
 available O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Can O
 you O
 recommend O
@@ -450,7 +450,7 @@ password O
 generator O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 tools O
 do O
@@ -463,7 +463,7 @@ web O
 server O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 What O
 is O
 a O
@@ -473,13 +473,13 @@ GUI O
 client O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Password O
 Management O
 Applications O
 ? O
 
-[intent] SoftwareRecommendation
+[INTENT] SoftwareRecommendation
 Is O
 there O
 an O
@@ -490,14 +490,14 @@ mobi O
 files O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 shut O
 down O
 without O
 extra O
 question O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 to O
 shutdown O
@@ -509,7 +509,7 @@ logged O
 on O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 What O
 is O
 the O
@@ -521,7 +521,7 @@ to O
 shutdown O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 can O
 I O
@@ -535,7 +535,7 @@ specific O
 time O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Hotkey O
 to O
 shut O
@@ -545,7 +545,7 @@ login O
 screen O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 to O
 shutdown O
@@ -556,7 +556,7 @@ Xsession O
 ends O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 can O
 one O
@@ -568,7 +568,7 @@ the O
 keyboard O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 can O
 I O
@@ -577,7 +577,7 @@ shutdown O
 verbosity O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Are O
 there O
 any O
@@ -587,14 +587,14 @@ to O
 Shutdown O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Shutdown O
 after O
 a O
 certain O
 time O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 Shutdown O
 problem O
 in O
@@ -603,7 +603,7 @@ Ubuntu B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 How O
 do O
 I O
@@ -613,7 +613,7 @@ shutdown O
 problem O
 ? O
 
-[intent] ShutdownComputer
+[INTENT] ShutdownComputer
 What O
 graphical O
 utility O

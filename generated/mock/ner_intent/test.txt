@@ -1,14 +1,14 @@
-[intent] B
+[INTENT] B
 15 O
 
-[intent] B
+[INTENT] B
 16 O
 
-[intent] B
+[INTENT] B
 17 O
 
-[intent] B
+[INTENT] B
 18 O
 
-[intent] B
+[INTENT] B
 19 O

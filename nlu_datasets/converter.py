@@ -117,7 +117,7 @@ def convert_message_lines(task: Task, message: Message) -> str:
 
     if task != Task.NER:
         # add first line which contains '{} [intent]'.format(intent)
-        texts = ['[intent]'] + texts
+        texts = ['[INTENT]'] + texts
         annotations = [message.data['intent'].replace(' ', '')] + annotations
 
     lines = list(map(lambda t: '{} {}'.format(t[0], t[1]), zip(texts, annotations)))
