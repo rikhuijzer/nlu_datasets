@@ -1,11 +1,11 @@
-[INTENT] FindConnection
+INTENT FindConnection
 i O
 want O
 to O
 go O
 marienplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -16,7 +16,7 @@ muncher B-StationStart
 freiheit I-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -30,14 +30,14 @@ garching B-StationStart
 forschungszentrum I-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 olympia B-StationStart
 einkaufszentrum I-StationStart
 to O
 hauptbahnhof B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 when O
 is O
 the O
@@ -49,7 +49,7 @@ winterstraße B-StationStart
 to O
 kieferngarten B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 when O
 is O
 the O
@@ -61,7 +61,7 @@ winterstraße B-StationStart
 to O
 kieferngarte B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 can O
 you O
 find O
@@ -73,7 +73,7 @@ to O
 hauptbahnhof B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 to O
 get O
@@ -84,7 +84,7 @@ strassäcker I-StationStart
 to O
 fröttmaning B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -94,14 +94,14 @@ marienplatz B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 connection O
 from O
 boltzmannstraße B-StationStart
 to O
 kieferngarten B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 to O
 get O
@@ -112,7 +112,7 @@ to O
 freimann B-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -125,7 +125,7 @@ at O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 do O
 i O
@@ -136,7 +136,7 @@ to O
 hbf B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 to O
 get O
@@ -146,7 +146,7 @@ winterstrasse B-StationStart
 to O
 fröttmaning B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 do O
 i O
@@ -157,12 +157,12 @@ forschungszentrum I-StationStart
 to O
 pasing B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 theresienstraße B-StationStart
 to O
 assling B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -174,7 +174,7 @@ munich B-StationDest
 east I-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -185,14 +185,14 @@ from O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 quiddestraße B-StationStart
 to O
 garching B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 can O
 you O
 find O
@@ -209,7 +209,7 @@ garching B-StationDest
 forschungszentrum I-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 can O
 you O
 find O
@@ -222,7 +222,7 @@ garching B-StationDest
 forschungszentrum I-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -233,14 +233,14 @@ at O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 hauptbahnhof B-StationStart
 to O
 garching B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -252,7 +252,7 @@ garching B-StationStart
 forschungszentrum I-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -262,7 +262,7 @@ garching B-StationStart
 to O
 nordfriedhof B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -274,7 +274,7 @@ garching B-StationStart
 forschungszentrum I-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -285,7 +285,7 @@ in O
 garching B-StationStart
 forschungszentrum I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -296,7 +296,7 @@ to O
 quiddestraße B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -307,7 +307,7 @@ to O
 poccistraße B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -323,7 +323,7 @@ garching B-StationDest
 forschungszentrum I-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -334,7 +334,7 @@ to O
 quiddestraße B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -345,7 +345,7 @@ to O
 odeonsplatz B-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -356,7 +356,7 @@ at O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 what O
 ' O
 s O
@@ -369,7 +369,7 @@ to O
 odeonsplatz B-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -378,7 +378,7 @@ bus B-Vehicle
 from O
 ostbahnhof B-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -389,7 +389,7 @@ to O
 neuperlach B-StationDest
 sued I-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -400,7 +400,7 @@ munchner B-StationStart
 freiheit I-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -411,7 +411,7 @@ to O
 garching B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 do O
 i O
@@ -421,7 +421,7 @@ poccistraße B-StationStart
 to O
 laim B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 i O
 want O
 to O
@@ -430,7 +430,7 @@ garching B-StationDest
 from O
 marienplatz B-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -441,7 +441,7 @@ to O
 garching B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -451,12 +451,12 @@ hauptbahnhof B-StationStart
 to O
 odeonsplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 prinzregentenplatz B-StationStart
 to O
 rotkreuzplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 i O
 want O
 to O
@@ -466,19 +466,19 @@ garching B-StationDest
 from O
 marienplatz B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 train B-Vehicle
 from O
 garching B-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 prinzregentenplatz B-StationStart
 to O
 rotkreuzplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -488,26 +488,26 @@ from O
 garching B-StationStart
 forschungszentrum I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 garching B-StationStart
 to O
 klinikum B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 garching B-StationStart
 foschungszentrum I-StationStart
 to O
 odeonsplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 bus B-Vehicle
 in O
 garching B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -517,14 +517,14 @@ in O
 garching B-StationStart
 forschungszentrum I-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 subway B-Vehicle
 from O
 garching B-StationStart
 forschungszentrum I-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 tell O
 me O
 the O
@@ -533,7 +533,7 @@ bus B-Vehicle
 from O
 garching B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 bus B-Vehicle
 from O
@@ -542,33 +542,33 @@ garching B-StationStart
 please O
 . O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 bus B-Vehicle
 from O
 garching B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 bus B-Vehicle
 from O
 central B-StationStart
 station I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 garching B-StationStart
 to O
 marienplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 bus B-Vehicle
 from O
 garching B-StationStart
 . O
 
-[INTENT] FindConnection
+INTENT FindConnection
 connection O
 from O
 garching B-StationStart
@@ -576,7 +576,7 @@ to O
 hauptbahnhof B-StationDest
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -587,7 +587,7 @@ from O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 find O
 connection O
 from O
@@ -595,7 +595,7 @@ hauptbahnhof B-StationStart
 to O
 odeonsplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -609,7 +609,7 @@ garching B-StationStart
 forschungszentrum I-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -622,7 +622,7 @@ at O
 garching B-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -632,7 +632,7 @@ departs O
 at O
 garching B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -642,7 +642,7 @@ in O
 garching B-StationStart
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 to O
 get O
@@ -653,12 +653,12 @@ to O
 garching B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 implerstraße B-StationStart
 to O
 ostbahnhof B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -669,7 +669,7 @@ to O
 odeonsplatz B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -680,7 +680,7 @@ forschungszentrum I-StationStart
 to O
 prinzregentenplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -690,7 +690,7 @@ mangfallplatz B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -698,12 +698,12 @@ get O
 to O
 hohenlindenerstraße B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 harthaus B-StationStart
 to O
 hackerbrücke B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -715,13 +715,13 @@ garching B-StationDest
 forschungszentrum I-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 marienplatz B-StationStart
 to O
 petershausen B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 when O
 is O
 the O
@@ -731,12 +731,12 @@ garching B-StationStart
 to O
 marienplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 neufahrn B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -746,7 +746,7 @@ mangfallplatz B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -754,7 +754,7 @@ get O
 to O
 hohenlindenerstr B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -764,7 +764,7 @@ from O
 garching B-StationStart
 forschungzentrum I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 do O
 i O
@@ -775,7 +775,7 @@ to O
 poccistraße B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -786,7 +786,7 @@ forschungszentrum I-StationStart
 to O
 marienplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -797,7 +797,7 @@ to O
 marienplatz B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 to O
 get O
@@ -807,14 +807,14 @@ heide I-StationStart
 to O
 marienplatz B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 next B-Criterion
 train B-Vehicle
 from O
 muenchen B-StationStart
 freicheit I-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 depart O
 in O
 garching B-StationStart
@@ -822,7 +822,7 @@ garching B-StationStart
 i O
 assume O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -835,7 +835,7 @@ at O
 garching B-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 the O
 next B-Criterion
 bus B-Vehicle
@@ -843,7 +843,7 @@ from O
 garching B-StationStart
 forschungzentrum I-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -854,13 +854,13 @@ alte B-StationStart
 heide I-StationStart
 ? O
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 or O
 depart O
 from O
 garching B-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 hello O
 munich O
 city O
@@ -877,7 +877,7 @@ to O
 scheidplatz B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -888,7 +888,7 @@ forschungszentrum I-StationStart
 to O
 prinzregentenplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -898,14 +898,14 @@ neufahrn B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 take O
 me O
 to O
 the O
 airport B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 does O
 the O
@@ -916,7 +916,7 @@ from O
 garching B-StationStart
 forschungszentrum I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 i O
 can O
@@ -928,13 +928,13 @@ to O
 nordfriedhof B-StationDest
 ? O
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 harthaus B-StationStart
 to O
 hackerbrücke B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -942,7 +942,7 @@ train B-Vehicle
 from O
 garching B-StationStart
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 what O
 is O
 the O
@@ -952,7 +952,7 @@ from O
 münchner B-StationStart
 freiheit I-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -963,7 +963,7 @@ to O
 garching B-StationDest
 forschungszentrum I-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -974,13 +974,13 @@ freiheit I-StationStart
 to O
 odeonsplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 from O
 garching B-StationStart
 to O
 hauptbahnhof B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -990,7 +990,7 @@ garching B-StationStart
 to O
 odeonsplatz B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 start O
 : O
 neufahrn B-StationStart
@@ -998,7 +998,7 @@ end O
 : O
 garching B-StationDest
 
-[INTENT] FindConnection
+INTENT FindConnection
 how O
 can O
 i O
@@ -1008,7 +1008,7 @@ studentenstadt B-StationStart
 to O
 garching B-StationDest
 
-[INTENT] DepartureTime
+INTENT DepartureTime
 when O
 is O
 the O
@@ -1017,7 +1017,7 @@ bus B-Vehicle
 from O
 garching B-StationStart
 
-[INTENT] FindConnection
+INTENT FindConnection
 take O
 me O
 from O

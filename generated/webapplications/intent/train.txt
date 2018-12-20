@@ -1,4 +1,4 @@
-[INTENT] DownloadVideo
+INTENT DownloadVideo
 How O
 do O
 I O
@@ -8,7 +8,7 @@ YouTube O
 video O
 ? O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 How O
 do O
 I O
@@ -20,7 +20,7 @@ TV O
 Tropes O
 ? O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 Why O
 can O
 ' O
@@ -35,7 +35,7 @@ with O
 Skype O
 ? O
 
-[INTENT] None
+INTENT None
 Change O
 subject O
 line O
@@ -45,14 +45,14 @@ Gmail O
 compose O
 window O
 
-[INTENT] None
+INTENT None
 Email O
 Google O
 Form O
 daily O
 ? O
 
-[INTENT] ExportData
+INTENT ExportData
 How O
 can O
 I O
@@ -67,7 +67,7 @@ last O
 fm O
 ? O
 
-[INTENT] ExportData
+INTENT ExportData
 How O
 can O
 I O
@@ -80,7 +80,7 @@ hosted O
 blog O
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 How O
 can O
 I O
@@ -94,7 +94,7 @@ Google O
 Calendar O
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 Google O
 Bookmarks O
 and O
@@ -105,7 +105,7 @@ Sync O
 Different O
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 How O
 do O
 I O
@@ -119,7 +119,7 @@ Google O
 Calender O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Does O
 using O
 Gmail O
@@ -144,19 +144,19 @@ spam O
 filter O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Correctly O
 Identifying O
 Spam O
 Messages O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Twitter O
 and O
 Echofon O
 spam O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Totally O
 Blocking O
 Spam O
@@ -164,7 +164,7 @@ To O
 Gmail O
 Account O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Discarding O
 spam O
 mail O
@@ -172,7 +172,7 @@ faster O
 in O
 Gmail O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Stopping O
 spam O
 emails O
@@ -181,7 +181,7 @@ Gmail O
 by O
 pattern O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternatives O
 for O
 Google O
@@ -192,7 +192,7 @@ Android O
 synchronizing O
 ) O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Bugmenot O
 ( O
 registration O
@@ -206,18 +206,18 @@ t O
 suck O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternatives O
 to O
 Twitter O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Google O
 search O
 engine O
 alternatives O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternatives O
 to O
 Google O
@@ -227,7 +227,7 @@ more O
 features O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Are O
 there O
 any O
@@ -238,13 +238,13 @@ Youtube O
 alternatives O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Mint O
 alternatives O
 for O
 Canada O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -254,7 +254,7 @@ Twitter O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 do O
 I O
@@ -264,7 +264,7 @@ LinkedIn O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 do O
 I O
@@ -274,7 +274,7 @@ Gmail O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 do O
 I O
@@ -285,7 +285,7 @@ Exchange O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 do O
 I O
@@ -295,7 +295,7 @@ Ohloh O
 profile O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -306,7 +306,7 @@ MySpace O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 to O
 disable O

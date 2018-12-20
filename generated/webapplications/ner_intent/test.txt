@@ -1,9 +1,9 @@
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternative O
 to O
 Facebook B-WebService
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 do O
 I O
@@ -13,7 +13,7 @@ Facebook B-WebService
 account O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Are O
 there O
 any O
@@ -28,7 +28,7 @@ the O
 US O
 ? O
 
-[INTENT] ExportData
+INTENT ExportData
 Is O
 it O
 possible O
@@ -44,7 +44,7 @@ it O
 up O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Is O
 there O
 an O
@@ -53,7 +53,7 @@ alternative O
 to O
 iGoogle B-WebService
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -65,7 +65,7 @@ Trello B-WebService
 organization O
 ? O
 
-[INTENT] ExportData
+INTENT ExportData
 How O
 do O
 I O
@@ -78,7 +78,7 @@ to O
 Picasa B-WebService
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 How O
 do O
 I O
@@ -91,7 +91,7 @@ Outlook B-WebService
 Calendar I-WebService
 ? O
 
-[INTENT] ExportData
+INTENT ExportData
 Archive O
 / O
 export O
@@ -107,7 +107,7 @@ in O
 Google B-WebService
 Reader I-WebService
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -117,7 +117,7 @@ my O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -129,7 +129,7 @@ mail I-WebService
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 Deleting O
 an O
 account O
@@ -141,7 +141,7 @@ Google B-WebService
 Analytics I-WebService
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 to O
 delete O
@@ -150,7 +150,7 @@ imgur B-WebService
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 to O
 change O
@@ -163,7 +163,7 @@ the O
 account O
 ? O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 to O
 delete O
@@ -172,7 +172,7 @@ Sify B-WebService
 Mail I-WebService
 account O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 to O
 permanently O
@@ -181,7 +181,7 @@ a O
 37signals B-WebService
 ID O
 
-[INTENT] DeleteAccount
+INTENT DeleteAccount
 How O
 can O
 I O
@@ -191,7 +191,7 @@ Hunch B-WebService
 account O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Any O
 alternatives O
 to O
@@ -202,16 +202,16 @@ your O
 domain O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Evernote B-WebService
 alternative O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternatives O
 to O
 LibraryThing B-WebService
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 What O
 are O
 the O
@@ -224,7 +224,7 @@ for O
 Event O
 Planning O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Is O
 there O
 a O
@@ -238,7 +238,7 @@ to O
 Google B-WebService
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 What O
 alternatives O
 to O
@@ -248,7 +248,7 @@ Search O
 exist O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Photo O
 Sharing O
 Site O
@@ -263,7 +263,7 @@ sign O
 in O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Any O
 good O
 alternative O
@@ -272,13 +272,13 @@ Google B-WebService
 Alerts I-WebService
 ? O
 
-[INTENT] None
+INTENT None
 Good O
 wireframing O
 apps O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Is O
 there O
 a O
@@ -288,7 +288,7 @@ to O
 Prezi B-WebService
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Any O
 alternatives O
 to O
@@ -296,12 +296,12 @@ Google B-WebService
 Streetview I-WebService
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Zencoder B-WebService
 alternatives O
 ? O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Alternatives O
 to O
 discontinued O
@@ -310,7 +310,7 @@ Calendar I-WebService
 Appointment O
 Slots O
 
-[INTENT] FindAlternative
+INTENT FindAlternative
 Q O
 & O
 A O
@@ -322,7 +322,7 @@ Exchange I-WebService
 model O
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 Can O
 I O
 Share O
@@ -339,7 +339,7 @@ Facebook B-WebService
 Account O
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 Sync O
 not O
 export O
@@ -350,7 +350,7 @@ Google B-WebService
 Apps I-WebService
 calendar O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 How O
 do O
 I O
@@ -361,7 +361,7 @@ Twitter B-WebService
 Foursquare B-WebService
 ? O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 Google B-WebService
 Calendar I-WebService
 not O
@@ -378,7 +378,7 @@ Windows O
 10 O
 Calendar O
 
-[INTENT] SyncAccounts
+INTENT SyncAccounts
 Google B-WebService
 Contact O
 Synchronization O
@@ -387,7 +387,7 @@ the O
 iPhone O
 3G O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 Gmail B-WebService
 user O
 set O
@@ -402,7 +402,7 @@ change O
 their O
 password O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 How O
 do O
 I O
@@ -413,7 +413,7 @@ on O
 ebay B-WebService
 ? O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 Gmail B-WebService
 recover O
 password O
@@ -422,7 +422,7 @@ logged O
 in O
 Iphone O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 How O
 to O
 retrieve O
@@ -431,7 +431,7 @@ Wordpress B-WebService
 Admin O
 password O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 How O
 to O
 retrieve O
@@ -444,7 +444,7 @@ s O
 password O
 ? O
 
-[INTENT] ChangePassword
+INTENT ChangePassword
 Users O
 can O
 ' O
@@ -458,7 +458,7 @@ Google B-WebService
 Apps O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Does O
 moving O
 a O
@@ -476,7 +476,7 @@ spam O
 filter O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 can O
 I O
@@ -489,7 +489,7 @@ from O
 Gmail B-WebService
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 When O
 I O
 move O
@@ -505,7 +505,7 @@ the O
 spam O
 again O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 to O
 send O
@@ -517,7 +517,7 @@ Gmail B-WebService
 filter O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 do O
 I O
@@ -529,7 +529,7 @@ in O
 Gmail B-WebService
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 to O
 check O
@@ -541,7 +541,7 @@ for O
 good O
 emails O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Mark O
 large O
 numbers O
@@ -553,7 +553,7 @@ not O
 spam O
 " O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 What O
 are O
 alternatives O
@@ -564,7 +564,7 @@ spam O
 filtering O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 to O
 remove O
@@ -575,7 +575,7 @@ Google B-WebService
 Apps O
 email O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Does O
 marking O
 an O
@@ -591,7 +591,7 @@ for O
 everyone O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 How O
 can O
 I O
@@ -604,7 +604,7 @@ on O
 Facebook B-WebService
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Do O
 emails O
 auto O
@@ -623,7 +623,7 @@ as O
 spam O
 ? O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Gmail B-WebService
 ' O
 s O
@@ -639,7 +639,7 @@ in O
 multiple O
 fields O
 
-[INTENT] FilterSpam
+INTENT FilterSpam
 Get O
 rid O
 of O
@@ -649,7 +649,7 @@ from O
 my O
 Gmail B-WebService
 
-[INTENT] None
+INTENT None
 Embedding O
 stop O
 time O
@@ -659,7 +659,7 @@ YouTube B-WebService
 video O
 link O
 
-[INTENT] None
+INTENT None
 Is O
 there O
 a O
@@ -673,7 +673,7 @@ account O
 type O
 ? O
 
-[INTENT] None
+INTENT None
 How O
 can O
 I O
