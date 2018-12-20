@@ -1,13 +1,13 @@
-Book O
+book O
 a O
 reservation O
 for O
 my B-party_size_description
 babies I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -16,9 +16,9 @@ restaurant B-restaurant_type
 not B-spatial_relation
 far I-spatial_relation
 from O
-MA B-state
+ma B-state
 
-I O
+i O
 would O
 like O
 to O
@@ -26,7 +26,7 @@ book O
 a O
 restaurant B-restaurant_type
 in O
-Tanzania B-country
+tanzania B-country
 that O
 is O
 within B-spatial_relation
@@ -36,9 +36,9 @@ for O
 my B-party_size_description
 mom I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -46,7 +46,7 @@ an O
 oyster B-restaurant_type
 bar I-restaurant_type
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -57,14 +57,14 @@ a O
 creole B-cuisine
 tavern B-restaurant_type
 in O
-Montenegro B-country
+montenegro B-country
 
-I O
+i O
 need O
 a O
 table O
 in O
-Sacaton B-city
+sacaton B-city
 at O
 a O
 gluten B-cuisine
@@ -79,10 +79,10 @@ and I-party_size_description
 my I-party_size_description
 grandfather I-party_size_description
 nearby B-spatial_relation
-West B-poi
-Reading I-poi
+west B-poi
+reading I-poi
 
-Book O
+book O
 me B-party_size_description
 and I-party_size_description
 my I-party_size_description
@@ -94,10 +94,10 @@ a O
 seafood B-served_dish
 restaurant B-restaurant_type
 in O
-Cle B-city
-Elum I-city
+cle B-city
+elum I-city
 , O
-NE B-state
+ne B-state
 on O
 ascension B-timeRange
 day I-timeRange
@@ -107,10 +107,10 @@ spot O
 for O
 two B-party_size_number
 at O
-City B-restaurant_name
-Tavern I-restaurant_name
+city B-restaurant_name
+tavern I-restaurant_name
 
-I O
+i O
 want O
 to O
 book O
@@ -120,11 +120,11 @@ for O
 3 B-party_size_number
 people O
 in O
-Netherlands B-country
-Antilles I-country
+netherlands B-country
+antilles I-country
 . O
 
-Book O
+book O
 me O
 a O
 reservation O
@@ -138,7 +138,7 @@ the O
 best B-sort
 table O
 in O
-Tanzania B-country
+tanzania B-country
 for O
 5 B-party_size_number
 people O
@@ -146,7 +146,7 @@ at O
 a O
 diner B-restaurant_type
 
-I O
+i O
 want O
 to O
 book O
@@ -177,21 +177,21 @@ an O
 indoor B-facility
 restaurant B-restaurant_type
 in O
-MP B-state
+mp B-state
 now B-timeRange
 
 book O
 a O
 table O
 in O
-Fiji B-country
+fiji B-country
 for O
 zero B-timeRange
 a I-timeRange
 . I-timeRange
 m I-timeRange
 
-I O
+i O
 want O
 to O
 book O
@@ -201,11 +201,11 @@ for O
 five B-party_size_number
 people O
 in O
-Sri B-country
-Lanka I-country
+sri B-country
+lanka I-country
 . O
 
-I O
+i O
 need O
 a O
 table O
@@ -217,22 +217,22 @@ highly B-sort
 rated I-sort
 gastropub B-restaurant_type
 in O
-Concord B-city
-MN B-state
+concord B-city
+mn B-state
 
-I O
+i O
 want O
 to O
 book O
-Oregon B-restaurant_name
-Electric I-restaurant_name
-Station I-restaurant_name
+oregon B-restaurant_name
+electric I-restaurant_name
+station I-restaurant_name
 in O
-North B-city
-City I-city
+north B-city
+city I-city
 . O
 
-I O
+i O
 need O
 a O
 table O
@@ -245,7 +245,7 @@ the O
 reservation O
 . O
 
-Book O
+book O
 a O
 popular B-sort
 restaurant B-restaurant_type
@@ -253,7 +253,7 @@ for O
 5 B-party_size_number
 people O
 
-I O
+i O
 want O
 to O
 book O
@@ -274,7 +274,7 @@ for O
 people O
 . O
 
-I O
+i O
 want O
 to O
 eat O
@@ -289,7 +289,7 @@ eastern B-cuisine
 european I-cuisine
 food O
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -299,9 +299,9 @@ at O
 a O
 bakery B-restaurant_type
 in O
-Nunez B-city
+nunez B-city
 
-Book O
+book O
 a O
 reservation O
 at O
@@ -314,18 +314,18 @@ spot O
 for O
 4 B-party_size_number
 in O
-Somalia B-country
+somalia B-country
 
-I O
+i O
 want O
 to O
 book O
-Albany B-restaurant_name
-Pump I-restaurant_name
-Station I-restaurant_name
+albany B-restaurant_name
+pump I-restaurant_name
+station I-restaurant_name
 in O
-Buckholts B-city
-Washington B-state
+buckholts B-city
+washington B-state
 now B-timeRange
 for O
 a O
@@ -334,15 +334,15 @@ of O
 9 B-party_size_number
 . O
 
-I O
+i O
 want O
 to O
 book O
 a O
 taverna B-restaurant_type
 in O
-Archer B-city
-City I-city
+archer B-city
+city I-city
 for O
 this B-timeRange
 spring I-timeRange
@@ -351,7 +351,7 @@ nine B-party_size_number
 people O
 . O
 
-I O
+i O
 want O
 to O
 book O
@@ -365,45 +365,45 @@ for O
 people O
 . O
 
-Book O
+book O
 a O
 reservation O
 for O
 8 B-party_size_number
 people O
 in O
-Wardville B-city
+wardville B-city
 , O
-Kansas B-state
+kansas B-state
 
 table O
 for O
-Breadline B-restaurant_name
-Cafe I-restaurant_name
+breadline B-restaurant_name
+cafe I-restaurant_name
 in O
-Minnesota B-state
+minnesota B-state
 next B-timeRange
 friday I-timeRange
 
-I O
+i O
 want O
 to O
 book O
 a O
 restaurant B-restaurant_type
 in O
-Niger B-country
+niger B-country
 for O
 seven B-party_size_number
 people O
 . O
 
-Book O
+book O
 spot O
 for O
 9 B-party_size_number
 
-Book O
+book O
 me O
 a O
 reservation O
@@ -411,7 +411,7 @@ for O
 a O
 pub B-restaurant_type
 in O
-Cormorant B-city
+cormorant B-city
 for O
 a O
 party O
@@ -424,13 +424,13 @@ for O
 my B-party_size_description
 nieces I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 at O
 a O
 tea B-restaurant_type
 house I-restaurant_type
 
-I O
+i O
 want O
 to O
 book O
@@ -438,33 +438,33 @@ a O
 jewish B-cuisine
 restaurant B-restaurant_type
 in O
-Gambia B-country
+gambia B-country
 . O
 
-Book O
+book O
 a O
 reservation O
 for O
-The B-restaurant_name
-Dome I-restaurant_name
+the B-restaurant_name
+dome I-restaurant_name
 , I-restaurant_name
-Edinburgh I-restaurant_name
+edinburgh I-restaurant_name
 close B-spatial_relation
 to O
-Brooklawn B-poi
+brooklawn B-poi
 
 book O
 spot O
 for O
 1 B-party_size_number
 at O
-Town B-restaurant_name
+town B-restaurant_name
 of I-restaurant_name
-Ramsgate I-restaurant_name
+ramsgate I-restaurant_name
 in O
-Merit B-city
+merit B-city
 
-Book O
+book O
 a O
 spot O
 for O
@@ -472,9 +472,9 @@ me B-party_size_description
 and I-party_size_description
 kathrine I-party_size_description
 at O
-Smithville B-city
+smithville B-city
 
-I O
+i O
 want O
 to O
 book O
@@ -486,16 +486,16 @@ father I-party_size_description
 in I-party_size_description
 law I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 in O
-Buckner B-city
+buckner B-city
 a B-timeRange
 year I-timeRange
 from I-timeRange
 now I-timeRange
 . O
 
-Book O
+book O
 a O
 restaurant B-restaurant_type
 reservation O
@@ -503,7 +503,7 @@ in B-timeRange
 6 I-timeRange
 weeks I-timeRange
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -513,43 +513,43 @@ with O
 a O
 spa B-facility
 nearby B-spatial_relation
-ID B-state
+id B-state
 
 book O
 spot O
 for O
 four B-party_size_number
 at O
-Cliff B-restaurant_name
-House I-restaurant_name
+cliff B-restaurant_name
+house I-restaurant_name
 , I-restaurant_name
-San I-restaurant_name
-Francisco I-restaurant_name
+san I-restaurant_name
+francisco I-restaurant_name
 in O
-Martinique B-country
+martinique B-country
 
-I O
+i O
 need O
 a O
 table O
 for O
 4 B-party_size_number
 in O
-Saint B-country
-Helena I-country
+saint B-country
+helena I-country
 at O
-Settha B-restaurant_name
-Palace I-restaurant_name
-Hotel I-restaurant_name
+settha B-restaurant_name
+palace I-restaurant_name
+hotel I-restaurant_name
 
-I O
+i O
 want O
 to O
 book O
 a O
 restaurant B-restaurant_type
 in O
-Frenier B-city
+frenier B-city
 12 B-timeRange
 years I-timeRange
 from I-timeRange
@@ -559,13 +559,13 @@ for O
 people O
 . O
 
-Book O
+book O
 seven B-party_size_number
 in O
 neighboring B-spatial_relation
-Moorpark B-city
+moorpark B-city
 
-I O
+i O
 want O
 to O
 eat O
@@ -573,45 +573,45 @@ by O
 five B-timeRange
 pm I-timeRange
 in O
-NE B-state
+ne B-state
 for O
 a O
 six B-party_size_number
 people O
 
-I O
+i O
 want O
 to O
 book O
-Tupelo B-restaurant_name
-Honey I-restaurant_name
-Cafe I-restaurant_name
+tupelo B-restaurant_name
+honey I-restaurant_name
+cafe I-restaurant_name
 in O
-New B-state
-Jersey I-state
+new B-state
+jersey I-state
 for O
 five B-party_size_number
 people O
 . O
 
-Book O
+book O
 a O
 reservation O
 for O
 two B-party_size_number
 at O
-Mickies B-restaurant_name
-Dairy I-restaurant_name
-Bar I-restaurant_name
+mickies B-restaurant_name
+dairy I-restaurant_name
+bar I-restaurant_name
 in O
-Weedsport B-city
+weedsport B-city
 
 book O
 a O
 table O
 at O
 a O
-Fried B-restaurant_name
+fried B-restaurant_name
 chicken I-restaurant_name
 restaurant I-restaurant_name
 
@@ -622,30 +622,30 @@ mavis B-party_size_description
 , I-party_size_description
 sheila I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 in O
-Syria B-country
+syria B-country
 at O
 elevenses B-timeRange
 
-Can O
+can O
 you O
 book O
 me O
 a O
 table O
 at O
-Windows B-restaurant_name
+windows B-restaurant_name
 on I-restaurant_name
 the I-restaurant_name
-World I-restaurant_name
+world I-restaurant_name
 in O
-Cokeville B-city
+cokeville B-city
 , O
-MI B-state
+mi B-state
 ? O
 
-Book O
+book O
 me O
 a O
 table O
@@ -654,8 +654,8 @@ for O
 this B-timeRange
 year I-timeRange
 at O
-Cherwell B-restaurant_name
-Boathouse I-restaurant_name
+cherwell B-restaurant_name
+boathouse I-restaurant_name
 
 book O
 spot O
@@ -668,13 +668,13 @@ at O
 a O
 coffeehouse B-restaurant_type
 in O
-NE B-state
+ne B-state
 that O
 serves O
 hog B-served_dish
 fry I-served_dish
 
-I O
+i O
 want O
 to O
 book O
@@ -684,27 +684,27 @@ close B-spatial_relation
 - I-spatial_relation
 by I-spatial_relation
 in O
-Inman B-city
+inman B-city
 for O
 five B-party_size_number
 people O
 . O
 
-I O
+i O
 need O
 a O
 table O
 at O
-Eddie B-restaurant_name
+eddie B-restaurant_name
 ' I-restaurant_name
 s I-restaurant_name
-Attic I-restaurant_name
+attic I-restaurant_name
 in O
-Nevada B-state
+nevada B-state
 for O
 one B-party_size_number
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -718,7 +718,7 @@ on O
 november B-timeRange
 4 I-timeRange
 
-I O
+i O
 want O
 to O
 book O
@@ -730,7 +730,7 @@ restaurant B-restaurant_type
 close B-spatial_relation
 by O
 in O
-LA B-state
+la B-state
 for O
 me B-party_size_description
 , I-party_size_description
@@ -745,7 +745,7 @@ on O
 2020 I-timeRange
 . O
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -754,9 +754,9 @@ at O
 a O
 diner B-restaurant_type
 in O
-WI B-state
+wi B-state
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -783,7 +783,7 @@ for O
 5 B-party_size_number
 people O
 in O
-MH B-state
+mh B-state
 
 book O
 a O
@@ -794,46 +794,46 @@ pat B-poi
 s I-poi
 college I-poi
 
-I O
+i O
 want O
 to O
 book O
 a O
 steakhouse B-restaurant_type
 in O
-Vimy B-city
-Ridge I-city
+vimy B-city
+ridge I-city
 . O
 
-I O
+i O
 want O
 a O
 table O
 at O
-James B-restaurant_name
-D I-restaurant_name
+james B-restaurant_name
+d I-restaurant_name
 . I-restaurant_name
-Conrey I-restaurant_name
-House I-restaurant_name
+conrey I-restaurant_name
+house I-restaurant_name
 in O
-Urbank B-city
-California B-state
+urbank B-city
+california B-state
 
-Like O
+like O
 to O
 book O
 a O
 seat O
 in O
-Monaco B-country
+monaco B-country
 for O
 the O
-Yankee B-restaurant_name
-Doodle I-restaurant_name
-Coffee I-restaurant_name
-Shop I-restaurant_name
+yankee B-restaurant_name
+doodle I-restaurant_name
+coffee I-restaurant_name
+shop I-restaurant_name
 
-I O
+i O
 want O
 to O
 book O
@@ -843,11 +843,11 @@ in O
 a O
 restaurant B-restaurant_type
 in O
-Bouvet B-country
-Island I-country
+bouvet B-country
+island I-country
 . O
 
-I O
+i O
 would O
 like O
 to O
@@ -861,9 +861,9 @@ in O
 the O
 state O
 of O
-NE B-state
+ne B-state
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -881,12 +881,12 @@ the I-spatial_relation
 same I-spatial_relation
 area I-spatial_relation
 of O
-Cowansburg B-city
+cowansburg B-city
 for O
 10 B-timeRange
-Pm I-timeRange
+pm I-timeRange
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -901,39 +901,39 @@ american B-cuisine
 pizzeria B-restaurant_type
 at O
 5 B-timeRange
-Am I-timeRange
+am I-timeRange
 in O
-MA B-state
+ma B-state
 
-Book O
+book O
 a O
 spot O
 for O
 4 B-party_size_number
 in O
-Oklahoma B-state
+oklahoma B-state
 at O
-South B-restaurant_name
-Street I-restaurant_name
-Diner I-restaurant_name
+south B-restaurant_name
+street I-restaurant_name
+diner I-restaurant_name
 
-Book O
+book O
 a O
 reservation O
 for O
 my B-party_size_description
 mommy I-party_size_description
 and I-party_size_description
-I I-party_size_description
+i I-party_size_description
 at O
 a O
 restaurant B-restaurant_type
 in O
-Central B-country
-African I-country
-Republic I-country
+central B-country
+african I-country
+republic I-country
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -944,7 +944,7 @@ a O
 tatar B-cuisine
 taverna B-restaurant_type
 in O
-Sargents B-city
+sargents B-city
 
 phyllis B-party_size_description
 ward I-party_size_description
@@ -960,7 +960,7 @@ in B-timeRange
 152 I-timeRange
 days I-timeRange
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -969,9 +969,9 @@ at O
 a O
 restaurant B-restaurant_type
 in O
-Ohio B-state
+ohio B-state
 
-I O
+i O
 want O
 to O
 book O
@@ -985,15 +985,15 @@ far B-spatial_relation
 from O
 here O
 at O
-Midnight B-timeRange
+midnight B-timeRange
 in O
-Panama B-country
+panama B-country
 for O
 two B-party_size_number
 people O
 . O
 
-I O
+i O
 want O
 to O
 book O
@@ -1005,13 +1005,13 @@ seven B-party_size_number
 people O
 in O
 the O
-Republic B-country
+republic B-country
 of I-country
 the I-country
-Congo I-country
+congo I-country
 . O
 
-I O
+i O
 want O
 to O
 book O
@@ -1022,22 +1022,22 @@ ten B-party_size_number
 people O
 . O
 
-Lets O
+lets O
 eat O
 near B-spatial_relation
-Oakfield B-city
+oakfield B-city
 17 B-timeRange
 seconds I-timeRange
 from I-timeRange
 now I-timeRange
 at O
-Ted B-restaurant_name
-Peters I-restaurant_name
-Famous I-restaurant_name
-Smoked I-restaurant_name
-Fish I-restaurant_name
+ted B-restaurant_name
+peters I-restaurant_name
+famous I-restaurant_name
+smoked I-restaurant_name
+fish I-restaurant_name
 
-Book O
+book O
 sot O
 for O
 7 B-party_size_number
@@ -1048,9 +1048,9 @@ that O
 serves O
 european B-cuisine
 in O
-Stringtown B-city
+stringtown B-city
 on O
-Feb B-timeRange
+feb B-timeRange
 . I-timeRange
 the I-timeRange
 28th I-timeRange
@@ -1067,9 +1067,9 @@ an O
 outdoor B-facility
 cafe O
 in O
-Åland B-country
+åland B-country
 
-Book O
+book O
 a O
 table O
 for O
@@ -1090,7 +1090,7 @@ distance I-spatial_relation
 for O
 one B-party_size_number
 
-Please O
+please O
 book O
 me O
 a O
@@ -1103,7 +1103,7 @@ a O
 parking B-facility
 facility O
 in O
-Ghana B-country
+ghana B-country
 . O
 
 book O
@@ -1119,18 +1119,18 @@ the I-spatial_relation
 same I-spatial_relation
 area I-spatial_relation
 of O
-Louisiana B-state
+louisiana B-state
 in B-timeRange
 one I-timeRange
 minute I-timeRange
 
-Please O
+please O
 book O
 me O
 a O
 restaurant B-restaurant_type
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -1140,19 +1140,19 @@ my I-party_size_description
 step I-party_size_description
 brother I-party_size_description
 at O
-AMT B-restaurant_name
-Coffee I-restaurant_name
+amt B-restaurant_name
+coffee I-restaurant_name
 in O
-Lakemoor B-city
+lakemoor B-city
 
-I O
+i O
 want O
 to O
 book O
 a O
 churrascaria B-restaurant_type
 in O
-Romeoville B-city
+romeoville B-city
 at O
 ten B-timeRange
 a I-timeRange
@@ -1166,18 +1166,18 @@ people O
 table O
 for O
 5 B-timeRange
-A I-timeRange
+a I-timeRange
 . I-timeRange
 m I-timeRange
 . O
 at O
-Baker B-restaurant_name
+baker B-restaurant_name
 ' I-restaurant_name
 s I-restaurant_name
-Keyboard I-restaurant_name
-Lounge I-restaurant_name
+keyboard I-restaurant_name
+lounge I-restaurant_name
 
-Please O
+please O
 book O
 me O
 a O
@@ -1191,7 +1191,7 @@ lorna B-served_dish
 doone I-served_dish
 . O
 
-I O
+i O
 want O
 to O
 book O
@@ -1201,11 +1201,11 @@ for O
 six B-party_size_number
 people O
 in O
-Wagstaff B-city
-AK B-state
+wagstaff B-city
+ak B-state
 . O
 
-I O
+i O
 would O
 like O
 to O
@@ -1221,7 +1221,7 @@ of O
 ten B-party_size_number
 . O
 
-I O
+i O
 want O
 to O
 book O
@@ -1230,7 +1230,7 @@ sundanese B-cuisine
 gastropub B-restaurant_type
 nearby B-spatial_relation
 in O
-Texas B-state
+texas B-state
 for O
 3 B-party_size_number
 people O
@@ -1248,20 +1248,20 @@ party O
 of O
 five B-party_size_number
 at O
-Seagoville B-city
+seagoville B-city
 for O
 06 B-timeRange
 : I-timeRange
 42 I-timeRange
 
-Book O
+book O
 spot O
 for O
 9 B-party_size_number
 at O
-Thurmont B-city
+thurmont B-city
 
-I O
+i O
 want O
 to O
 book O
@@ -1274,17 +1274,17 @@ for O
 5 B-party_size_number
 people O
 in O
-Gold B-city
-Point I-city
-Montana B-state
+gold B-city
+point I-city
+montana B-state
 . O
 
-I O
+i O
 want O
 to O
 eat O
 in O
-Ramona B-city
+ramona B-city
 
 book O
 a O
@@ -1299,7 +1299,7 @@ area I-spatial_relation
 for O
 churrascaria B-restaurant_type
 
-Book O
+book O
 me O
 a O
 reservation O
@@ -1312,11 +1312,11 @@ at O
 a O
 pub B-restaurant_type
 in O
-Northern B-country
-Mariana I-country
-Islands I-country
+northern B-country
+mariana I-country
+islands I-country
 
-I O
+i O
 want O
 to O
 book O
@@ -1327,13 +1327,13 @@ in O
 next B-timeRange
 year I-timeRange
 nearby B-spatial_relation
-Penn B-city
+penn B-city
 for O
 three B-party_size_number
 people O
 . O
 
-Book O
+book O
 a O
 reservation O
 for O
@@ -1344,7 +1344,7 @@ the O
 best B-sort
 pub B-restaurant_type
 nearby B-spatial_relation
-Tangier B-city
+tangier B-city
 in B-timeRange
 six I-timeRange
 months I-timeRange
@@ -1354,54 +1354,54 @@ a O
 table O
 somewhere O
 in O
-Quarryville B-city
+quarryville B-city
 14 B-timeRange
 hours I-timeRange
 from I-timeRange
 now I-timeRange
 
-Wish O
+wish O
 to O
 find O
 the O
 movie B-object_type
 the O
-Heart B-object_name
-Beat I-object_name
+heart B-object_name
+beat I-object_name
 
-Please O
+please O
 look O
 up O
 the O
-TV B-object_type
+tv B-object_type
 show I-object_type
 , O
-Vanity B-object_name
+vanity B-object_name
 . O
 
-Get O
+get O
 me O
 the O
-Elvis B-object_name
+elvis B-object_name
 ' I-object_name
-Christmas I-object_name
-Album I-object_name
-TV B-object_type
+christmas I-object_name
+album I-object_name
+tv B-object_type
 show I-object_type
 . O
 
-Please O
+please O
 find O
 me O
 the O
 saga B-object_type
 , O
-The B-object_name
-Deep I-object_name
-Six I-object_name
+the B-object_name
+deep I-object_name
+six I-object_name
 . O
 
-Wish O
+wish O
 to O
 see O
 the O
@@ -1409,241 +1409,241 @@ photograph B-object_type
 with O
 the O
 name O
-Live B-object_name
+live B-object_name
 : I-object_name
-Right I-object_name
-Here I-object_name
+right I-object_name
+here I-object_name
 
-Looking O
+looking O
 for O
 a O
 novel B-object_type
 called O
-Death B-object_name
-March I-object_name
+death B-object_name
+march I-object_name
 
-Can O
+can O
 you O
 find O
 me O
 the O
 work O
 , O
-The B-object_name
-Curse I-object_name
+the B-object_name
+curse I-object_name
 of I-object_name
-Oak I-object_name
-Island I-object_name
+oak I-object_name
+island I-object_name
 ? O
 
-Please O
+please O
 get O
 me O
-The B-object_name
-Sacred I-object_name
+the B-object_name
+sacred I-object_name
 and I-object_name
-Profane I-object_name
-Love I-object_name
-Machine I-object_name
+profane I-object_name
+love I-object_name
+machine I-object_name
 game B-object_type
 . O
 
-Need O
+need O
 a O
 creative O
 work O
 called O
-Hit B-object_name
+hit B-object_name
 by I-object_name
-Love I-object_name
+love I-object_name
 
 search O
 for O
 the O
 trailer B-object_type
 for O
-The B-object_name
-Office I-object_name
+the B-object_name
+office I-object_name
 
-Looking O
+looking O
 for O
 a O
 creative O
 work O
 called O
-Plant B-object_name
-Ecology I-object_name
+plant B-object_name
+ecology I-object_name
 
-Find O
+find O
 the O
 television B-object_type
 show I-object_type
-To B-object_name
-Me I-object_name
+to B-object_name
+me I-object_name
 
-Can O
+can O
 you O
 please O
 find O
 me O
 the O
 saga B-object_type
-Chump B-object_name
-Change I-object_name
+chump B-object_name
+change I-object_name
 ? O
 
-Can O
+can O
 you O
 find O
 me O
-The B-object_name
-Ridiculous I-object_name
+the B-object_name
+ridiculous I-object_name
 6 I-object_name
 book B-object_type
 ? O
 
-Please O
+please O
 fine O
 me O
 the O
-TV B-object_type
+tv B-object_type
 series I-object_type
 , O
-Now B-object_name
-We I-object_name
-Are I-object_name
-Married I-object_name
+now B-object_name
+we I-object_name
+are I-object_name
+married I-object_name
 . O
 
-Please O
+please O
 look O
 up O
 the O
 work O
 , O
-Bachelor B-object_name
-Pad I-object_name
+bachelor B-object_name
+pad I-object_name
 . O
 
-Please O
+please O
 help O
 me O
 find O
 the O
-Late B-object_name
-Night I-object_name
-Heartbroken I-object_name
-Blues I-object_name
+late B-object_name
+night I-object_name
+heartbroken I-object_name
+blues I-object_name
 television B-object_type
 show I-object_type
 . O
 
-Please O
+please O
 help O
 me O
 find O
 , O
-Bend B-object_name
-It I-object_name
-Like I-object_name
-Beckham I-object_name
+bend B-object_name
+it I-object_name
+like I-object_name
+beckham I-object_name
 the I-object_name
-Musical I-object_name
+musical I-object_name
 . O
 
-Please O
+please O
 look O
 up O
 the O
-TV B-object_type
+tv B-object_type
 series I-object_type
-Parables B-object_name
+parables B-object_name
 for I-object_name
-Wooden I-object_name
-Ears I-object_name
+wooden I-object_name
+ears I-object_name
 . O
 
-Can O
+can O
 you O
 find O
 me O
 , O
-Hey B-object_name
-Man I-object_name
+hey B-object_name
+man I-object_name
 ? O
 
-Please O
+please O
 search O
 for O
-Switched B-object_name
+switched B-object_name
 . O
 
-Can O
+can O
 you O
 get O
 me O
 the O
-Controlled B-object_name
-Conversations I-object_name
-TV B-object_type
+controlled B-object_name
+conversations I-object_name
+tv B-object_type
 series I-object_type
 ? O
 
-Please O
+please O
 look O
 up O
 the O
 song B-object_type
-The B-object_name
-Mad I-object_name
-Magician I-object_name
+the B-object_name
+mad I-object_name
+magician I-object_name
 . O
 
-Please O
+please O
 search O
 for O
 the O
-TV B-object_type
+tv B-object_type
 show I-object_type
 , O
-The B-object_name
-Best I-object_name
+the B-object_name
+best I-object_name
 of I-object_name
-White I-object_name
-Lion I-object_name
+white I-object_name
+lion I-object_name
 . O
 
-Please O
+please O
 find O
 me O
-Phineas B-object_name
-Redux I-object_name
+phineas B-object_name
+redux I-object_name
 . O
 
-Get O
+get O
 me O
 the O
-Procession B-object_name
+procession B-object_name
 of I-object_name
-Ants I-object_name
-TV B-object_type
+ants I-object_name
+tv B-object_type
 show I-object_type
 . O
 
-Looking O
+looking O
 for O
 a O
 game B-object_type
 called O
-Phinally B-object_name
-Phamous I-object_name
+phinally B-object_name
+phamous I-object_name
 
-Can O
+can O
 you O
 search O
 the O
-Daring B-object_name
-Youth I-object_name
+daring B-object_name
+youth I-object_name
 saga B-object_type
 ? O
 
@@ -1651,93 +1651,93 @@ look O
 for O
 the O
 book B-object_type
-The B-object_name
-Girl I-object_name
-Who I-object_name
-Was I-object_name
-Plugged I-object_name
-In I-object_name
+the B-object_name
+girl I-object_name
+who I-object_name
+was I-object_name
+plugged I-object_name
+in I-object_name
 
-Find O
+find O
 me O
 a O
-TV B-object_type
+tv B-object_type
 show I-object_type
 called O
-Baby B-object_name
-Blue I-object_name
+baby B-object_name
+blue I-object_name
 
-Search O
+search O
 for O
-Appalachian B-object_name
-Journey I-object_name
+appalachian B-object_name
+journey I-object_name
 
-Look O
+look O
 for O
 the O
 television B-object_type
 show I-object_type
-Meet B-object_name
+meet B-object_name
 the I-object_name
-Prince I-object_name
+prince I-object_name
 
-Can O
+can O
 you O
 find O
 me O
-Cracks B-object_name
+cracks B-object_name
 the I-object_name
-Safe I-object_name
+safe I-object_name
 ? O
 
-Please O
+please O
 help O
 me O
 search O
 the O
-Hell B-object_name
-Money I-object_name
+hell B-object_name
+money I-object_name
 saga B-object_type
 . O
 
-Get O
+get O
 me O
 the O
-Secret B-object_name
-South I-object_name
+secret B-object_name
+south I-object_name
 song B-object_type
 . O
 
-Can O
+can O
 you O
 find O
 me O
 the O
 work O
 titled O
-Music B-object_name
+music B-object_name
 for I-object_name
-Millions I-object_name
+millions I-object_name
 ? O
 
-Please O
+please O
 search O
 for O
 the O
 painting B-object_type
 titled O
-This B-object_name
-Is I-object_name
+this B-object_name
+is I-object_name
 the I-object_name
-Night I-object_name
+night I-object_name
 . O
 
-Could O
+could O
 you O
 locate O
 the O
-Epic B-object_name
-Conditions I-object_name
+epic B-object_name
+conditions I-object_name
 picture B-object_type
 ? O
 
@@ -1746,197 +1746,197 @@ me O
 the O
 trailer B-object_type
 of O
-Good B-object_name
-Morning I-object_name
-Sunshine I-object_name
+good B-object_name
+morning I-object_name
+sunshine I-object_name
 
-Please O
+please O
 search O
 the O
-An B-object_name
-Introduction I-object_name
+an B-object_name
+introduction I-object_name
 to I-object_name
-Karl I-object_name
-Marx I-object_name
+karl I-object_name
+marx I-object_name
 painting B-object_type
 . O
 
-Can O
+can O
 you O
 find O
 me O
 the O
-Blue B-object_name
-Spring I-object_name
+blue B-object_name
+spring I-object_name
 trailer B-object_type
 ? O
 
-Could O
+could O
 you O
 find O
 the O
-TV B-object_type
+tv B-object_type
 series I-object_type
-The B-object_name
-Approach I-object_name
+the B-object_name
+approach I-object_name
 
-Search O
+search O
 for O
 the O
-TV B-object_type
+tv B-object_type
 show I-object_type
 , O
-A B-object_name
-Lawless I-object_name
-Street I-object_name
+a B-object_name
+lawless I-object_name
+street I-object_name
 . O
 
-Please O
+please O
 look O
 up O
-Three B-object_name
-Essays I-object_name
+three B-object_name
+essays I-object_name
 on I-object_name
 the I-object_name
-Theory I-object_name
+theory I-object_name
 of I-object_name
-Sexuality I-object_name
+sexuality I-object_name
 show B-object_type
 . O
 
-Please O
+please O
 get O
 me O
 the O
-Compulsive B-object_name
-Disclosure I-object_name
+compulsive B-object_name
+disclosure I-object_name
 song B-object_type
 . O
 
-Can O
+can O
 you O
 look O
 up O
 the O
-Molecular B-object_name
-Oncology I-object_name
+molecular B-object_name
+oncology I-object_name
 saga B-object_type
 ? O
 
-Search O
+search O
 for O
-The B-object_name
-Sound I-object_name
+the B-object_name
+sound I-object_name
 of I-object_name
-One I-object_name
-Hand I-object_name
-Clapping I-object_name
+one I-object_name
+hand I-object_name
+clapping I-object_name
 
-Find O
+find O
 the O
 creative O
 work O
-Deadly B-object_name
-Weapons I-object_name
+deadly B-object_name
+weapons I-object_name
 
-Need O
+need O
 the O
 creative O
 work O
 called O
-The B-object_name
-Logic I-object_name
+the B-object_name
+logic I-object_name
 of I-object_name
-Scientific I-object_name
-Discovery I-object_name
+scientific I-object_name
+discovery I-object_name
 
-Can O
+can O
 you O
 find O
 me O
 the O
-National B-object_name
-Anthem I-object_name
+national B-object_name
+anthem I-object_name
 of I-object_name
 the I-object_name
-Ancient I-object_name
-Britons I-object_name
+ancient I-object_name
+britons I-object_name
 television B-object_type
 show I-object_type
 ? O
 
-Can O
+can O
 you O
 please O
 find O
 me O
 the O
-Harry B-object_name
-Hood I-object_name
+harry B-object_name
+hood I-object_name
 saga B-object_type
 ? O
 
-Can O
+can O
 you O
 find O
 me O
 the O
 work O
 , O
-Bible B-object_name
+bible B-object_name
 translations I-object_name
 into I-object_name
-Hawaii I-object_name
-Pidgin I-object_name
+hawaii I-object_name
+pidgin I-object_name
 ? O
 
-Please O
+please O
 look O
 up O
 and O
 find O
 me O
-Monty B-object_name
-Python I-object_name
-Live I-object_name
+monty B-object_name
+python I-object_name
+live I-object_name
 at I-object_name
 the I-object_name
-Hollywood I-object_name
-Bowl I-object_name
+hollywood I-object_name
+bowl I-object_name
 . O
 
-Please O
+please O
 search O
 for O
-Mary B-object_name
+mary B-object_name
 . O
 
-Please O
+please O
 search O
 the O
 game B-object_type
-ATLA B-object_name
+atla B-object_name
 : I-object_name
-All I-object_name
-This I-object_name
-Life I-object_name
-Allows I-object_name
+all I-object_name
+this I-object_name
+life I-object_name
+allows I-object_name
 . O
 
-Find O
+find O
 me O
 the O
 novel B-object_type
 with O
 the O
 name O
-To B-object_name
-Lose I-object_name
-My I-object_name
-Life I-object_name
+to B-object_name
+lose I-object_name
+my I-object_name
+life I-object_name
 … O
 
-Looking O
+looking O
 for O
 a O
 song B-object_type
@@ -1944,100 +1944,100 @@ with O
 the O
 title O
 of O
-Live B-object_name
+live B-object_name
 at I-object_name
 the I-object_name
-Kings I-object_name
-Center I-object_name
+kings I-object_name
+center I-object_name
 
-Can O
+can O
 you O
 find O
 the O
-American B-object_name
-Bison I-object_name
+american B-object_name
+bison I-object_name
 photograph B-object_type
 ? O
 
-Can O
+can O
 you O
 find O
 me O
 the O
-Free B-object_name
+free B-object_name
 for I-object_name
-All I-object_name
+all I-object_name
 show B-object_type
 ? O
 
-Please O
+please O
 find O
 me O
 the O
-Olympia B-object_name
+olympia B-object_name
 74 I-object_name
 soundtrack B-object_type
 . O
 
-Look O
+look O
 for O
 the O
 album B-object_type
-Slave B-object_name
+slave B-object_name
 to I-object_name
 the I-object_name
-Grind I-object_name
+grind I-object_name
 
-Please O
+please O
 find O
 me O
 the O
-Projekt B-object_name
+projekt B-object_name
 : I-object_name
-The I-object_name
-New I-object_name
-Face I-object_name
+the I-object_name
+new I-object_name
+face I-object_name
 of I-object_name
-Goth I-object_name
+goth I-object_name
 . O
 
-Can O
+can O
 you O
 get O
 me O
 the O
-Message B-object_name
+message B-object_name
 from I-object_name
-God I-object_name
+god I-object_name
 saga B-object_type
 ? O
 
-Find O
+find O
 me O
 the O
 soundtrack B-object_type
-A B-object_name
-Honeymoon I-object_name
-Adventure I-object_name
+a B-object_name
+honeymoon I-object_name
+adventure I-object_name
 
-Please O
+please O
 get O
 me O
-The B-object_name
-Henderson I-object_name
-Kids I-object_name
+the B-object_name
+henderson I-object_name
+kids I-object_name
 saga B-object_type
 . O
 
-Find O
+find O
 the O
 movie B-object_type
-Splendor B-object_name
+splendor B-object_name
 in I-object_name
 the I-object_name
-Grass I-object_name
+grass I-object_name
 
-Am O
+am O
 looking O
 for O
 a O
@@ -2045,105 +2045,105 @@ book B-object_type
 with O
 the O
 title O
-Free B-object_name
+free B-object_name
 to I-object_name
-Play I-object_name
+play I-object_name
 
-Look O
+look O
 for O
 the O
-TV B-object_type
+tv B-object_type
 series I-object_type
-Jersey B-object_name
-Boys I-object_name
+jersey B-object_name
+boys I-object_name
 
-Can O
+can O
 you O
 search O
 the O
 book B-object_type
 , O
-Paris B-object_name
+paris B-object_name
 - I-object_name
-When I-object_name
-It I-object_name
-Sizzles I-object_name
+when I-object_name
+it I-object_name
+sizzles I-object_name
 ? O
 
-Looking O
+looking O
 for O
 a O
 painting B-object_type
 with O
 the O
 title O
-With B-object_name
-You I-object_name
+with B-object_name
+you I-object_name
 
-Please O
+please O
 find O
 me O
 the O
-Classified B-object_name
+classified B-object_name
 book B-object_type
 . O
 
-Look O
+look O
 for O
 the O
 show B-object_type
-V B-object_name
+v B-object_name
 - I-object_name
-The I-object_name
-New I-object_name
-Mythology I-object_name
-Suite I-object_name
+the I-object_name
+new I-object_name
+mythology I-object_name
+suite I-object_name
 
-Find O
+find O
 the O
 creative O
 work O
-Face B-object_name
-Down I-object_name
+face B-object_name
+down I-object_name
 
-Find O
-Four B-object_name
-Songs I-object_name
+find O
+four B-object_name
+songs I-object_name
 
-Find O
+find O
 me O
 the O
 soundtrack B-object_type
-Live B-object_name
+live B-object_name
 at I-object_name
 the I-object_name
-Greek I-object_name
-Theatre I-object_name
+greek I-object_name
+theatre I-object_name
 
-Please O
+please O
 search O
 for O
 the O
 television B-object_type
 show I-object_type
 , O
-Episodi B-object_name
+episodi B-object_name
 di I-object_name
-The I-object_name
-Blacklist I-object_name
+the I-object_name
+blacklist I-object_name
 . O
 
-Find O
+find O
 a O
 creative O
 work O
 called O
-Fire B-object_name
+fire B-object_name
 in I-object_name
 the I-object_name
-Hole I-object_name
+hole I-object_name
 
-Looking O
+looking O
 for O
 the O
 picture B-object_type
@@ -2151,75 +2151,75 @@ with O
 the O
 name O
 of O
-Who B-object_name
-Made I-object_name
-Stevie I-object_name
-Crye I-object_name
+who B-object_name
+made I-object_name
+stevie I-object_name
+crye I-object_name
 ? O
 
-Look O
+look O
 for O
 the O
 album B-object_type
-Wolves B-object_name
-Within I-object_name
+wolves B-object_name
+within I-object_name
 
-Find O
+find O
 the O
 album B-object_type
-Orphan B-object_name
-Girl I-object_name
+orphan B-object_name
+girl I-object_name
 at I-object_name
 the I-object_name
-Cemetery I-object_name
+cemetery I-object_name
 
-Please O
+please O
 find O
 me O
 the O
-Journal B-object_name
+journal B-object_name
 of I-object_name
 the I-object_name
-British I-object_name
-Astronomical I-object_name
-Association I-object_name
+british I-object_name
+astronomical I-object_name
+association I-object_name
 movie B-object_type
 . O
 
-Find O
+find O
 the O
-TV B-object_type
+tv B-object_type
 show I-object_type
-The B-object_name
-Daydreamer I-object_name
+the B-object_name
+daydreamer I-object_name
 
-Can O
+can O
 you O
 please O
 get O
 me O
 the O
 book B-object_type
-Dracula B-object_name
+dracula B-object_name
 5 I-object_name
 : I-object_name
-The I-object_name
-Blood I-object_name
-Legacy I-object_name
+the I-object_name
+blood I-object_name
+legacy I-object_name
 ? O
 
-Please O
+please O
 look O
 up O
 the O
 novel B-object_type
 , O
-Live B-object_name
+live B-object_name
 to I-object_name
-Dance I-object_name
+dance I-object_name
 . O
 
-Please O
+please O
 find O
 me O
 the O
@@ -2227,70 +2227,70 @@ video B-object_type
 game I-object_type
 titled O
 20 B-object_name
-Hours I-object_name
+hours I-object_name
 in I-object_name
-America I-object_name
+america I-object_name
 . O
 
-Find O
+find O
 the O
 creative O
 work O
-The B-object_name
-Devil I-object_name
+the B-object_name
+devil I-object_name
 in I-object_name
-Stitches I-object_name
+stitches I-object_name
 
-Please O
+please O
 look O
 up O
 the O
 work O
 , O
-Prophets B-object_name
+prophets B-object_name
 . O
 
-I O
+i O
 ' O
 m O
 looking O
 for O
-Welcome B-object_name
+welcome B-object_name
 to I-object_name
 the I-object_name
-Canteen I-object_name
+canteen I-object_name
 
-Please O
+please O
 search O
 for O
 the O
-Journal B-object_name
+journal B-object_name
 of I-object_name
-Official I-object_name
-Statistics I-object_name
+official I-object_name
+statistics I-object_name
 show B-object_type
 . O
 
-Please O
+please O
 look O
 up O
-Show B-object_name
+show B-object_name
 - I-object_name
-Biz I-object_name
-Blues I-object_name
+biz I-object_name
+blues I-object_name
 photograph B-object_type
 . O
 
-Please O
+please O
 search O
 the O
-Woodsmen B-object_name
+woodsmen B-object_name
 of I-object_name
 the I-object_name
-West I-object_name
+west I-object_name
 . O
 
-Can O
+can O
 you O
 find O
 the O
@@ -2298,93 +2298,93 @@ creative O
 works O
 associated O
 with O
-Caryl B-object_name
+caryl B-object_name
 & I-object_name
-Marilyn I-object_name
+marilyn I-object_name
 : I-object_name
-Real I-object_name
-Friends I-object_name
+real I-object_name
+friends I-object_name
 
-Please O
+please O
 get O
 me O
 the O
-Dead B-object_name
-Soul I-object_name
+dead B-object_name
+soul I-object_name
 saga B-object_type
 . O
 
-Please O
+please O
 search O
 the O
-Live B-object_name
+live B-object_name
 from I-object_name
-Leeds I-object_name
+leeds I-object_name
 album B-object_type
 . O
 
-Please O
+please O
 look O
 up O
 the O
-Johnny B-object_name
-English I-object_name
+johnny B-object_name
+english I-object_name
 - I-object_name
-La I-object_name
+la I-object_name
 rinascita I-object_name
 painting B-object_type
 . O
 
-Can O
+can O
 you O
 find O
 me O
-The B-object_name
-Sword I-object_name
+the B-object_name
+sword I-object_name
 with I-object_name
-No I-object_name
-Name I-object_name
+no I-object_name
+name I-object_name
 trailer B-object_type
 ? O
 
-I O
+i O
 wish O
 to O
 watch O
-The B-object_name
-Fold I-object_name
+the B-object_name
+fold I-object_name
 trailer B-object_type
 , O
 please O
 search O
 . O
 
-Can O
+can O
 you O
 find O
 me O
 the O
-ALMOST B-object_name
-HUMAN I-object_name
+almost B-object_name
+human I-object_name
 painting B-object_type
 ? O
 
-Please O
+please O
 find O
 me O
 the O
 work O
 , O
-Serious B-object_name
-Awesomeness I-object_name
+serious B-object_name
+awesomeness I-object_name
 !. O
 
-Search O
+search O
 for O
 the O
 game B-object_type
-Difficult B-object_name
-Loves I-object_name
+difficult B-object_name
+loves I-object_name
 
 rate O
 this B-object_select
@@ -2395,7 +2395,7 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-Give O
+give O
 this B-object_select
 textbook B-object_type
 four B-rating_value
@@ -2403,22 +2403,22 @@ stars B-rating_unit
 . O
 
 rate O
-A B-object_name
-Twist I-object_name
+a B-object_name
+twist I-object_name
 in I-object_name
 the I-object_name
-Tale I-object_name
+tale I-object_name
 zero B-rating_value
 out O
 of O
 6 B-best_rating
 points B-rating_unit
 
-Rate O
-The B-object_name
+rate O
+the B-object_name
 children I-object_name
 of I-object_name
-Niobe I-object_name
+niobe I-object_name
 1 B-rating_value
 out O
 of O
@@ -2426,15 +2426,15 @@ of O
 points B-rating_unit
 . O
 
-Give O
+give O
 zero B-rating_value
 stars B-rating_unit
 to O
-Halo B-object_name
+halo B-object_name
 : I-object_name
-Ghosts I-object_name
+ghosts I-object_name
 of I-object_name
-Onyx I-object_name
+onyx I-object_name
 
 give O
 this B-object_select
@@ -2444,7 +2444,7 @@ score O
 of O
 5 B-rating_value
 
-Give O
+give O
 the O
 current B-object_select
 series B-object_part_of_series_type
@@ -2454,19 +2454,19 @@ of O
 points B-rating_unit
 . O
 
-Give O
+give O
 4 B-rating_value
 out O
 of O
 6 B-best_rating
 points B-rating_unit
 to O
-The B-object_name
-Spirit I-object_name
-Ring I-object_name
+the B-object_name
+spirit I-object_name
+ring I-object_name
 chronicle B-object_part_of_series_type
 
-Give O
+give O
 two B-rating_value
 stars B-rating_unit
 out O
@@ -2474,18 +2474,18 @@ of O
 6 B-best_rating
 to O
 36 B-object_name
-Children I-object_name
+children I-object_name
 
-Rate O
-The B-object_name
-Sneetches I-object_name
+rate O
+the B-object_name
+sneetches I-object_name
 and I-object_name
-Other I-object_name
-Stories I-object_name
+other I-object_name
+stories I-object_name
 a O
 three B-rating_value
 
-Rate O
+rate O
 the O
 current B-object_select
 series B-object_part_of_series_type
@@ -2511,13 +2511,13 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-Rate O
+rate O
 this B-object_select
 book B-object_type
 a O
 1 B-rating_value
 
-Give O
+give O
 zero B-rating_value
 out O
 of O
@@ -2527,26 +2527,26 @@ the O
 current B-object_select
 album B-object_type
 
-Give O
+give O
 this B-object_select
 album B-object_type
 5 B-rating_value
 points B-rating_unit
 . O
 
-Rate O
-The B-object_name
-Mystery I-object_name
+rate O
+the B-object_name
+mystery I-object_name
 of I-object_name
 the I-object_name
-Tolling I-object_name
-Bell I-object_name
+tolling I-object_name
+bell I-object_name
 series B-object_part_of_series_type
 4 B-rating_value
 stars B-rating_unit
 . O
 
-Give O
+give O
 the O
 current B-object_select
 novel B-object_type
@@ -2554,27 +2554,27 @@ two B-rating_value
 stars B-rating_unit
 . O
 
-Give O
+give O
 the O
 current B-object_select
 book B-object_type
 4 B-rating_value
 stars B-rating_unit
 
-Give O
-Joe B-object_name
-Magarac I-object_name
+give O
+joe B-object_name
+magarac I-object_name
 and I-object_name
-His I-object_name
-USA I-object_name
-Citizen I-object_name
-Papers I-object_name
+his I-object_name
+usa I-object_name
+citizen I-object_name
+papers I-object_name
 5 B-rating_value
 points B-rating_unit
 
-Rate O
-The B-object_name
-Guilty I-object_name
+rate O
+the B-object_name
+guilty I-object_name
 0 B-rating_value
 of O
 6 B-best_rating
@@ -2588,21 +2588,21 @@ out O
 of O
 6 B-best_rating
 
-Give O
+give O
 the O
-Catedral B-object_name
+catedral B-object_name
 series B-object_part_of_series_type
 four B-rating_value
 stars B-rating_unit
 . O
 
-Reminiscences B-object_name
+reminiscences B-object_name
 of I-object_name
 the I-object_name
-Anti I-object_name
+anti I-object_name
 - I-object_name
-Japanese I-object_name
-Guerillas I-object_name
+japanese I-object_name
+guerillas I-object_name
 chronicle B-object_part_of_series_type
 deserves O
 zero B-rating_value
@@ -2615,12 +2615,12 @@ a O
 rating O
 . O
 
-Give O
-Small B-object_name
-Screen I-object_name
+give O
+small B-object_name
+screen I-object_name
 , I-object_name
-Big I-object_name
-Picture I-object_name
+big I-object_name
+picture I-object_name
 a O
 0 B-rating_value
 out O
@@ -2629,22 +2629,22 @@ of O
 rating O
 . O
 
-Gods B-object_name
+gods B-object_name
 and I-object_name
-Pawns I-object_name
+pawns I-object_name
 should O
 get O
 a O
 three B-rating_value
 
-Give O
+give O
 zero B-rating_value
 stars B-rating_unit
 to O
 this B-object_select
 textbook B-object_type
 
-Rate O
+rate O
 the O
 current B-object_select
 novel B-object_type
@@ -2656,26 +2656,26 @@ of O
 stars B-rating_unit
 . O
 
-Rate O
+rate O
 the O
 book B-object_type
-The B-object_name
-Atmospheric I-object_name
-Railway I-object_name
+the B-object_name
+atmospheric I-object_name
+railway I-object_name
 5 B-rating_value
 out O
 of O
 6 B-best_rating
 
 rate O
-Black B-object_name
-Boy I-object_name
+black B-object_name
+boy I-object_name
 4 B-rating_value
 out O
 of O
 6 B-best_rating
 
-Rate O
+rate O
 the O
 chronicle B-object_part_of_series_type
 current B-object_select
@@ -2706,16 +2706,16 @@ novel B-object_type
 a O
 2 B-rating_value
 
-Give O
-The B-object_name
-Giant I-object_name
-Devil I-object_name
-Dingo I-object_name
+give O
+the B-object_name
+giant I-object_name
+devil I-object_name
+dingo I-object_name
 4 B-rating_value
 points B-rating_unit
 . O
 
-Rate O
+rate O
 this B-object_select
 current I-object_select
 novel B-object_type
@@ -2725,12 +2725,12 @@ of O
 6 B-best_rating
 . O
 
-Give O
-Monthly B-object_name
-Index I-object_name
+give O
+monthly B-object_name
+index I-object_name
 of I-object_name
-Medical I-object_name
-Specialities I-object_name
+medical I-object_name
+specialities I-object_name
 a O
 two B-rating_value
 out O
@@ -2748,7 +2748,7 @@ of O
 6 B-best_rating
 points B-rating_unit
 
-Rate O
+rate O
 the O
 current B-object_select
 novel B-object_type
@@ -2772,22 +2772,22 @@ album B-object_type
 0 B-rating_value
 stars B-rating_unit
 
-Give O
-A B-object_name
-Brief I-object_name
-Stop I-object_name
+give O
+a B-object_name
+brief I-object_name
+stop I-object_name
 on I-object_name
 the I-object_name
-Road I-object_name
+road I-object_name
 from I-object_name
-Auschwitz I-object_name
+auschwitz I-object_name
 1 B-rating_value
 out O
 of O
 6 B-best_rating
 stars B-rating_unit
 
-Rate O
+rate O
 this B-object_select
 album B-object_type
 4 B-rating_value
@@ -2796,10 +2796,10 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-Rate O
-Hate B-object_name
-That I-object_name
-Cat I-object_name
+rate O
+hate B-object_name
+that I-object_name
+cat I-object_name
 1 B-rating_value
 out O
 of O
@@ -2816,14 +2816,14 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-Rate O
+rate O
 current B-object_select
 novel B-object_type
 one B-rating_value
 stars B-rating_unit
 . O
 
-Give O
+give O
 five B-rating_value
 out O
 of O
@@ -2833,17 +2833,17 @@ to O
 this B-object_select
 album B-object_type
 
-Give O
+give O
 a O
 rating O
 of O
 2 B-rating_value
 to O
-Juneteenth B-object_name
+juneteenth B-object_name
 . O
 
-Rate O
-Ruth B-object_name
+rate O
+ruth B-object_name
 five B-rating_value
 out O
 of O
@@ -2852,10 +2852,10 @@ points B-rating_unit
 . O
 
 rate O
-The B-object_name
-Sea I-object_name
+the B-object_name
+sea I-object_name
 of I-object_name
-Trolls I-object_name
+trolls I-object_name
 1 B-rating_value
 stars B-rating_unit
 out O
@@ -2863,22 +2863,22 @@ of O
 6 B-best_rating
 
 give O
-The B-object_name
-Zenith I-object_name
-Angle I-object_name
+the B-object_name
+zenith I-object_name
+angle I-object_name
 one B-rating_value
 out O
 of O
 6 B-best_rating
 points B-rating_unit
 
-Give O
+give O
 zero B-rating_value
 stars B-rating_unit
 to O
-Rhialto B-object_name
+rhialto B-object_name
 the I-object_name
-Marvellous I-object_name
+marvellous I-object_name
 
 give O
 the O
@@ -2890,35 +2890,35 @@ of O
 6 B-best_rating
 
 rate O
-Personal B-object_name
-Demons I-object_name
+personal B-object_name
+demons I-object_name
 0 B-rating_value
 out O
 of O
 6 B-best_rating
 points B-rating_unit
 
-Rate O
+rate O
 the O
 current B-object_select
 series B-object_part_of_series_type
 a O
 4 B-rating_value
 
-Give O
+give O
 one B-rating_value
 of O
 6 B-best_rating
 points B-rating_unit
 to O
-Who B-object_name
-Will I-object_name
-Cry I-object_name
-When I-object_name
-You I-object_name
-Die I-object_name
+who B-object_name
+will I-object_name
+cry I-object_name
+when I-object_name
+you I-object_name
+die I-object_name
 
-Give O
+give O
 zero B-rating_value
 out O
 of O
@@ -2928,19 +2928,19 @@ to O
 this B-object_select
 album B-object_type
 
-Give O
+give O
 this B-object_select
 novel B-object_type
 2 B-rating_value
 stars B-rating_unit
 
-Rate O
-The B-object_name
+rate O
+the B-object_name
 8 I-object_name
 - I-object_name
-Week I-object_name
-Cholesterol I-object_name
-Cure I-object_name
+week I-object_name
+cholesterol I-object_name
+cure I-object_name
 three B-rating_value
 out O
 of O
@@ -2957,40 +2957,40 @@ of O
 points B-rating_unit
 
 rate O
-The B-object_name
-Lives I-object_name
+the B-object_name
+lives I-object_name
 of I-object_name
-John I-object_name
-Lennon I-object_name
+john I-object_name
+lennon I-object_name
 five B-rating_value
 points B-rating_unit
 
-Give O
-The B-object_name
-American I-object_name
-Scene I-object_name
+give O
+the B-object_name
+american I-object_name
+scene I-object_name
 2 B-rating_value
 of O
 6 B-best_rating
 stars B-rating_unit
 
-Rate O
+rate O
 this B-object_select
 textbook B-object_type
 a O
 one B-rating_value
 . O
 
-Give O
-Summer B-object_name
+give O
+summer B-object_name
 of I-object_name
 the I-object_name
-Swans I-object_name
+swans I-object_name
 1 B-rating_value
 points B-rating_unit
 . O
 
-Give O
+give O
 the O
 current B-object_select
 textbook B-object_type
@@ -3000,25 +3000,25 @@ of O
 five B-rating_value
 . O
 
-Give O
+give O
 4 B-rating_value
 points B-rating_unit
 to O
-The B-object_name
-Person I-object_name
+the B-object_name
+person I-object_name
 and I-object_name
 the I-object_name
-Common I-object_name
-Good I-object_name
+common I-object_name
+good I-object_name
 
-Give O
+give O
 a O
 four B-rating_value
 rating O
 to O
-A B-object_name
-World I-object_name
-Apart I-object_name
+a B-object_name
+world I-object_name
+apart I-object_name
 . O
 
 rate O
@@ -3027,13 +3027,13 @@ chronicle B-object_part_of_series_type
 0 B-rating_value
 points B-rating_unit
 
-Give O
-Wilco B-object_name
+give O
+wilco B-object_name
 : I-object_name
-Learning I-object_name
-How I-object_name
+learning I-object_name
+how I-object_name
 to I-object_name
-Die I-object_name
+die I-object_name
 a O
 rating O
 of O
@@ -3041,7 +3041,7 @@ four B-rating_value
 points B-rating_unit
 . O
 
-Rate O
+rate O
 this B-object_select
 saga B-object_part_of_series_type
 two B-rating_value
@@ -3051,40 +3051,40 @@ of O
 . O
 
 rate O
-The B-object_name
-Gift I-object_name
+the B-object_name
+gift I-object_name
 : I-object_name
-Imagination I-object_name
+imagination I-object_name
 and I-object_name
 the I-object_name
-Erotic I-object_name
-Life I-object_name
+erotic I-object_name
+life I-object_name
 of I-object_name
-Property I-object_name
+property I-object_name
 five B-rating_value
 stars B-rating_unit
 
 rate O
-Neverwhere B-object_name
+neverwhere B-object_name
 four B-rating_value
 out O
 of O
 6 B-best_rating
 
-Rate O
-In B-object_name
+rate O
+in B-object_name
 the I-object_name
-Company I-object_name
+company I-object_name
 of I-object_name
-Cheerful I-object_name
-Ladies I-object_name
+cheerful I-object_name
+ladies I-object_name
 a O
 zero B-rating_value
 out O
 of O
 6 B-best_rating
 
-Give O
+give O
 one B-rating_value
 start O
 to O
@@ -3092,7 +3092,7 @@ the O
 current B-object_select
 book B-object_type
 
-Give O
+give O
 this B-object_select
 chronicle B-object_part_of_series_type
 a O
@@ -3106,39 +3106,39 @@ essay B-object_type
 a O
 1 B-rating_value
 
-Out O
+out O
 of O
 6 B-best_rating
 , O
 give O
-Rivers B-object_name
+rivers B-object_name
 of I-object_name
-Babylon I-object_name
+babylon I-object_name
 a O
 1 B-rating_value
 
-Give O
+give O
 5 B-rating_value
 of O
 6 B-best_rating
 stars B-rating_unit
 to O
-Expressive B-object_name
-Processing I-object_name
+expressive B-object_name
+processing I-object_name
 
 rate O
-The B-object_name
-Ghost I-object_name
-House I-object_name
+the B-object_name
+ghost I-object_name
+house I-object_name
 series B-object_part_of_series_type
 a O
 one B-rating_value
 
 rate O
-Know B-object_name
-Ye I-object_name
-Not I-object_name
-Agincourt I-object_name
+know B-object_name
+ye I-object_name
+not I-object_name
+agincourt I-object_name
 ? O
 2 B-rating_value
 out O
@@ -3146,14 +3146,14 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-I O
+i O
 would O
 rate O
-Theft B-object_name
+theft B-object_name
 : I-object_name
-A I-object_name
-Love I-object_name
-Story I-object_name
+a I-object_name
+love I-object_name
+story I-object_name
 four B-rating_value
 out O
 of O
@@ -3161,28 +3161,28 @@ of O
 stars B-rating_unit
 . O
 
-Rate O
-The B-object_name
-Further I-object_name
-Adventures I-object_name
+rate O
+the B-object_name
+further I-object_name
+adventures I-object_name
 of I-object_name
-The I-object_name
-Joker I-object_name
+the I-object_name
+joker I-object_name
 four B-rating_value
 stars B-rating_unit
 
-Give O
+give O
 0 B-rating_value
 rating O
 to O
-In B-object_name
+in B-object_name
 the I-object_name
-Heart I-object_name
+heart I-object_name
 of I-object_name
 the I-object_name
-Country I-object_name
+country I-object_name
 
-Give O
+give O
 1 B-rating_value
 out O
 of O
@@ -3202,44 +3202,44 @@ of O
 6 B-best_rating
 points B-rating_unit
 
-Rate O
-Cotton B-object_name
-Comes I-object_name
+rate O
+cotton B-object_name
+comes I-object_name
 to I-object_name
-Harlem I-object_name
+harlem I-object_name
 a O
 2 B-rating_value
 
-Give O
+give O
 this B-object_select
 album B-object_type
 one B-rating_value
 stars B-rating_unit
 
 rate O
-The B-object_name
-Adventures I-object_name
+the B-object_name
+adventures I-object_name
 of I-object_name
-Augie I-object_name
-March I-object_name
+augie I-object_name
+march I-object_name
 one B-rating_value
 points B-rating_unit
 
-Rate O
-Soul B-object_name
-Music I-object_name
+rate O
+soul B-object_name
+music I-object_name
 a O
 0 B-rating_value
 . O
 
-Give O
-Hindu B-object_name
-Temples I-object_name
+give O
+hindu B-object_name
+temples I-object_name
 : I-object_name
-What I-object_name
-Happened I-object_name
+what I-object_name
+happened I-object_name
 to I-object_name
-Them I-object_name
+them I-object_name
 a O
 5 B-rating_value
 out O
@@ -3248,7 +3248,7 @@ of O
 stars B-rating_unit
 . O
 
-Give O
+give O
 this B-object_select
 novel B-object_type
 a O
@@ -3264,7 +3264,7 @@ out O
 of O
 6 B-best_rating
 
-Give O
+give O
 this B-object_select
 textbook B-object_type
 0 B-rating_value
@@ -3273,14 +3273,14 @@ of O
 6 B-best_rating
 stars B-rating_unit
 
-Give O
-The B-object_name
-Crystal I-object_name
-Snare I-object_name
+give O
+the B-object_name
+crystal I-object_name
+snare I-object_name
 5 B-rating_value
 stars B-rating_unit
 
-Rate O
+rate O
 this B-object_select
 saga B-object_part_of_series_type
 two B-rating_value
@@ -3289,13 +3289,13 @@ of O
 6 B-best_rating
 . O
 
-Give O
-Wilco B-object_name
+give O
+wilco B-object_name
 : I-object_name
-Learning I-object_name
-How I-object_name
+learning I-object_name
+how I-object_name
 to I-object_name
-Die I-object_name
+die I-object_name
 a O
 rating O
 of O
@@ -3303,7 +3303,7 @@ four B-rating_value
 points B-rating_unit
 . O
 
-Rate O
+rate O
 this B-object_select
 book B-object_type
 3 B-rating_value
@@ -3314,29 +3314,29 @@ of O
 
 rate O
 the O
-Three B-object_name
-Junes I-object_name
+three B-object_name
+junes I-object_name
 one B-rating_value
 out O
 of O
 6 B-best_rating
 
-Give O
+give O
 four B-rating_value
 stars B-rating_unit
 to O
-The B-object_name
-Broken I-object_name
-Window I-object_name
+the B-object_name
+broken I-object_name
+window I-object_name
 
-Rate O
+rate O
 the O
 current B-object_select
 series B-object_part_of_series_type
 4 B-rating_value
 points B-rating_unit
 
-What O
+what O
 will O
 the O
 weather O
@@ -3346,63 +3346,63 @@ from O
 here B-current_location
 ? O
 
-Will O
+will O
 there O
 be O
 fog B-condition_description
 in O
-Tahquamenon B-geographic_poi
-Falls I-geographic_poi
-State I-geographic_poi
-Park I-geographic_poi
+tahquamenon B-geographic_poi
+falls I-geographic_poi
+state I-geographic_poi
+park I-geographic_poi
 ? O
 
-Tell O
+tell O
 me O
 the O
 weather O
 forecast O
 for O
-Gibsland B-city
+gibsland B-city
 
-Is O
+is O
 there O
 a O
 storm B-condition_description
 now B-timeRange
 in O
-NC B-state
+nc B-state
 ? O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Monument B-geographic_poi
+monument B-geographic_poi
 of I-geographic_poi
-Lihula I-geographic_poi
+lihula I-geographic_poi
 on O
 december B-timeRange
 the I-timeRange
 5th I-timeRange
 ? O
 
-Weather O
+weather O
 next B-timeRange
 year I-timeRange
 in O
-Dominica B-country
+dominica B-country
 
-When O
+when O
 will O
 it O
 be O
 hot B-condition_temperature
 here B-current_location
 
-What O
+what O
 will O
 the O
 weather O
@@ -3411,17 +3411,17 @@ in B-timeRange
 1 I-timeRange
 day I-timeRange
 in O
-Kuwait B-country
+kuwait B-country
 ? O
 
-What O
+what O
 kind O
 of O
 weather O
 will O
 be O
 in O
-Ukraine B-country
+ukraine B-country
 one B-timeRange
 minute I-timeRange
 from I-timeRange
@@ -3430,11 +3430,11 @@ now I-timeRange
 
 humidity B-condition_description
 in O
-Olvey B-city
-New B-state
-Hampshire I-state
+olvey B-city
+new B-state
+hampshire I-state
 
-What O
+what O
 ' O
 s O
 the O
@@ -3443,42 +3443,42 @@ going O
 to O
 be O
 in O
-UT B-state
+ut B-state
 ? O
 
 humidity B-condition_description
 not B-spatial_relation
 far I-spatial_relation
 from O
-Colorado B-city
-City I-city
+colorado B-city
+city I-city
 on O
-November B-timeRange
+november B-timeRange
 the I-timeRange
 7th I-timeRange
 , I-timeRange
 2024 I-timeRange
 
-What O
+what O
 is O
 the O
 forecast O
 for O
-Wyoming B-state
+wyoming B-state
 at O
-Stanardsville B-city
+stanardsville B-city
 during O
 the O
 storm B-condition_description
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-North B-state
-Carolina I-state
+north B-state
+carolina I-state
 ? O
 
 what O
@@ -3494,41 +3494,41 @@ nearby B-spatial_relation
 the O
 state O
 of O
-Wisconsin B-state
+wisconsin B-state
 
-Will O
+will O
 it O
 be O
 rainy B-condition_description
 at O
-Sunrise B-timeRange
+sunrise B-timeRange
 in O
-Ramey B-city
-Saudi B-country
-Arabia I-country
+ramey B-city
+saudi B-country
+arabia I-country
 ? O
 
-Check O
+check O
 the O
 forecast O
 for O
-Nebraska B-state
+nebraska B-state
 . O
 
-Will O
+will O
 it O
 be O
 warmer B-condition_temperature
 in O
-North B-country
-Korea I-country
+north B-country
+korea I-country
 at O
 nineteen B-timeRange
 o I-timeRange
 ' I-timeRange
 clock I-timeRange
 
-Let O
+let O
 me O
 know O
 the O
@@ -3536,30 +3536,30 @@ weather O
 forecast O
 around O
 ten B-timeRange
-Pm I-timeRange
+pm I-timeRange
 faraway B-spatial_relation
 from O
 here B-current_location
 in O
-Park B-geographic_poi
-Narodowy I-geographic_poi
-Brimstone I-geographic_poi
-Hill I-geographic_poi
-Fortress I-geographic_poi
+park B-geographic_poi
+narodowy I-geographic_poi
+brimstone I-geographic_poi
+hill I-geographic_poi
+fortress I-geographic_poi
 . O
 
-Will O
+will O
 it O
 be O
 stormy B-condition_description
 in O
 the O
-Ouachita B-geographic_poi
-National I-geographic_poi
-Forest I-geographic_poi
+ouachita B-geographic_poi
+national I-geographic_poi
+forest I-geographic_poi
 ? O
 
-Tell O
+tell O
 me O
 if O
 it O
@@ -3571,12 +3571,12 @@ hours I-timeRange
 from I-timeRange
 now I-timeRange
 in O
-Mount B-city
-Airy I-city
+mount B-city
+airy I-city
 , O
-VI B-state
+vi B-state
 
-What O
+what O
 will O
 the O
 weather O
@@ -3586,13 +3586,13 @@ hours I-timeRange
 from I-timeRange
 now I-timeRange
 neighboring B-spatial_relation
-Saint B-country
-Kitts I-country
+saint B-country
+kitts I-country
 and I-country
-Nevis I-country
+nevis I-country
 ? O
 
-Will O
+will O
 there O
 be O
 hail B-condition_description
@@ -3603,9 +3603,9 @@ on O
 / I-timeRange
 2036 I-timeRange
 in O
-Singapore B-country
+singapore B-country
 
-Will O
+will O
 it O
 be O
 colder B-condition_temperature
@@ -3617,7 +3617,7 @@ a I-timeRange
 half I-timeRange
 weeks I-timeRange
 
-What O
+what O
 ' O
 s O
 the O
@@ -3626,16 +3626,16 @@ going O
 to O
 be O
 in O
-Knobel B-city
+knobel B-city
 ? O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Dane B-city
+dane B-city
 on O
 sep B-timeRange
 . I-timeRange
@@ -3645,44 +3645,44 @@ fifth I-timeRange
 2030 I-timeRange
 ? O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Ohio B-state
+ohio B-state
 ? O
 
-I O
+i O
 need O
 to O
 know O
 the O
 weather O
 for O
-Jan B-timeRange
+jan B-timeRange
 . I-timeRange
 the I-timeRange
 3rd I-timeRange
 in O
-Mexico B-country
+mexico B-country
 when O
-I O
+i O
 go O
 to O
-Port B-city
-Vue I-city
+port B-city
+vue I-city
 
 what O
 is O
 the O
 forecast O
 for O
-Ōtone B-geographic_poi
-Prefectural I-geographic_poi
-Natural I-geographic_poi
-Park I-geographic_poi
+ōtone B-geographic_poi
+prefectural I-geographic_poi
+natural I-geographic_poi
+park I-geographic_poi
 in B-timeRange
 1 I-timeRange
 hour I-timeRange
@@ -3692,7 +3692,7 @@ the I-spatial_relation
 same I-spatial_relation
 area I-spatial_relation
 
-What O
+what O
 kind O
 of O
 weather O
@@ -3701,29 +3701,29 @@ forecast O
 around O
 one B-timeRange
 pmnear I-timeRange
-Vatican B-country
+vatican B-country
 ? O
 
-Will O
+will O
 it O
 be O
 chilly B-condition_temperature
 in O
-Weldona B-city
+weldona B-city
 ? O
 
-Will O
+will O
 it O
 be O
 colder B-condition_temperature
 in O
-Virgin B-geographic_poi
-Islands I-geographic_poi
-National I-geographic_poi
-Park I-geographic_poi
+virgin B-geographic_poi
+islands I-geographic_poi
+national I-geographic_poi
+park I-geographic_poi
 ? O
 
-Will O
+will O
 it O
 be O
 hot B-condition_temperature
@@ -3732,15 +3732,15 @@ at O
 : I-timeRange
 19 I-timeRange
 in O
-De B-city
-Funiak I-city
-Springs I-city
-Serbia B-country
+de B-city
+funiak I-city
+springs I-city
+serbia B-country
 and I-country
-Montenegro I-country
+montenegro I-country
 ? O
 
-What O
+what O
 is O
 the O
 weather O
@@ -3749,7 +3749,7 @@ to O
 be O
 like O
 in O
-Virginia B-state
+virginia B-state
 on O
 st B-timeRange
 . I-timeRange
@@ -3759,18 +3759,18 @@ s I-timeRange
 day I-timeRange
 ? O
 
-Weather O
+weather O
 in O
-Kaneville B-city
-Maryland B-state
+kaneville B-city
+maryland B-state
 
-When O
+when O
 is O
 sunrise B-timeRange
 for O
-AR B-state
+ar B-state
 
-What O
+what O
 will O
 the O
 weather O
@@ -3780,7 +3780,7 @@ far I-spatial_relation
 from O
 here B-current_location
 on O
-October B-timeRange
+october B-timeRange
 the I-timeRange
 nineteenth I-timeRange
 , I-timeRange
@@ -3792,26 +3792,26 @@ is O
 the O
 forecast O
 for O
-Waurika B-city
+waurika B-city
 in O
-Samoa B-country
+samoa B-country
 
-Tell O
+tell O
 me O
 the O
 weather O
 forecast O
 here B-current_location
 
-What O
+what O
 is O
 the O
 weather O
 forecast O
 nearby B-spatial_relation
-Nicodemus B-city
+nicodemus B-city
 
-What O
+what O
 will O
 the O
 weather O
@@ -3820,10 +3820,10 @@ in O
 nov B-timeRange
 . I-timeRange
 in O
-Brookneal B-city
+brookneal B-city
 ? O
 
-Will O
+will O
 it O
 be O
 colder B-condition_temperature
@@ -3832,43 +3832,43 @@ months I-timeRange
 from I-timeRange
 now I-timeRange
 in O
-Suwanee B-city
-AK B-state
+suwanee B-city
+ak B-state
 
-What O
+what O
 is O
 the O
 weather O
 forecast O
 for O
-Burundi B-country
+burundi B-country
 
-What O
+what O
 ' O
 s O
 the O
 weather O
 in O
-Benton B-city
-City I-city
+benton B-city
+city I-city
 ? O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-KY B-state
+ky B-state
 on O
-Oct B-timeRange
+oct B-timeRange
 . I-timeRange
 16 I-timeRange
 , I-timeRange
 2036 I-timeRange
 ? O
 
-Will O
+will O
 the O
 sun B-condition_description
 be O
@@ -3877,9 +3877,9 @@ in B-timeRange
 1 I-timeRange
 minute I-timeRange
 in O
-Searcy B-city
+searcy B-city
 , O
-Uganda B-country
+uganda B-country
 
 what O
 is O
@@ -3887,7 +3887,7 @@ the O
 weather O
 here B-current_location
 
-What O
+what O
 will O
 the O
 weather O
@@ -3897,17 +3897,17 @@ second I-timeRange
 from I-timeRange
 now I-timeRange
 in O
-Chad B-country
+chad B-country
 ? O
 
-What O
+what O
 kind O
 of O
 weather O
 is O
 forecast O
 in O
-MS B-state
+ms B-state
 now B-timeRange
 ? O
 
@@ -3916,7 +3916,7 @@ is O
 the O
 forecast O
 for O
-LA B-state
+la B-state
 for O
 freezing B-condition_temperature
 
@@ -3938,10 +3938,10 @@ for O
 hotter B-condition_temperature
 weather O
 at O
-Southford B-geographic_poi
-Falls I-geographic_poi
-State I-geographic_poi
-Park I-geographic_poi
+southford B-geographic_poi
+falls I-geographic_poi
+state I-geographic_poi
+park I-geographic_poi
 
 what O
 is O
@@ -3965,17 +3965,17 @@ is O
 the O
 forecast O
 for O
-Morocco B-country
+morocco B-country
 at O
-Lake B-city
-Ozark I-city
+lake B-city
+ozark I-city
 on O
-December B-timeRange
+december B-timeRange
 seventeenth I-timeRange
 , I-timeRange
 2022 I-timeRange
 
-What O
+what O
 will O
 the O
 humidity B-condition_description
@@ -3997,11 +3997,11 @@ is O
 the O
 forecast O
 in O
-Nicodemus B-city
+nicodemus B-city
 and O
 nearby B-spatial_relation
 
-What O
+what O
 is O
 the O
 weather O
@@ -4010,8 +4010,8 @@ to O
 be O
 like O
 in O
-Benton B-city
-Colorado B-state
+benton B-city
+colorado B-state
 in B-timeRange
 2 I-timeRange
 and I-timeRange
@@ -4019,19 +4019,19 @@ a I-timeRange
 half I-timeRange
 months I-timeRange
 
-What O
+what O
 ' O
 s O
 the O
 weather O
 forecast O
 for O
-Bothe B-geographic_poi
+bothe B-geographic_poi
 - I-geographic_poi
-Napa I-geographic_poi
-Valley I-geographic_poi
-State I-geographic_poi
-Park I-geographic_poi
+napa I-geographic_poi
+valley I-geographic_poi
+state I-geographic_poi
+park I-geographic_poi
 close B-spatial_relation
 by I-spatial_relation
 february B-timeRange
@@ -4049,7 +4049,7 @@ nov B-timeRange
 . I-timeRange
 17 I-timeRange
 for O
-Franklinville B-city
+franklinville B-city
 
 what O
 ' O
@@ -4061,13 +4061,13 @@ sep B-timeRange
 . I-timeRange
 26 I-timeRange
 in O
-Emerado B-city
-Saint B-country
-Pierre I-country
+emerado B-city
+saint B-country
+pierre I-country
 and I-country
-Miquelon I-country
+miquelon I-country
 
-Will O
+will O
 there O
 be O
 a O
@@ -4075,19 +4075,19 @@ blizzard B-condition_description
 next B-timeRange
 winter I-timeRange
 in O
-Visalia B-city
+visalia B-city
 , O
-Idaho B-state
+idaho B-state
 
-Will O
+will O
 it O
 be O
 warmer B-condition_temperature
 in O
 the O
-District B-state
-Of I-state
-Columbia I-state
+district B-state
+of I-state
+columbia I-state
 on O
 may B-timeRange
 25 I-timeRange
@@ -4095,7 +4095,7 @@ may B-timeRange
 2033 I-timeRange
 ? O
 
-What O
+what O
 will O
 the O
 weather O
@@ -4116,21 +4116,21 @@ colder B-condition_temperature
 temps O
 beginning O
 on O
-Law B-timeRange
-Day I-timeRange
+law B-timeRange
+day I-timeRange
 here B-current_location
 
-What O
+what O
 ' O
 s O
 the O
 weather O
 like O
 in O
-Tyonek B-city
+tyonek B-city
 , O
-New B-state
-Jersey I-state
+new B-state
+jersey I-state
 
 what O
 is O
@@ -4145,13 +4145,13 @@ at O
 five B-timeRange
 pm I-timeRange
 
-Will O
+will O
 there O
 be O
 a O
 storm B-condition_description
 in O
-Gibsonia B-city
+gibsonia B-city
 at O
 8 B-timeRange
 p I-timeRange
@@ -4171,32 +4171,32 @@ position I-current_location
 for O
 tomorrow B-timeRange
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Hialeah B-city
-Gardens I-city
+hialeah B-city
+gardens I-city
 on O
-October B-timeRange
+october B-timeRange
 the I-timeRange
 24th I-timeRange
 ? O
 
-Will O
+will O
 it O
 be O
 freezing B-condition_temperature
 today B-timeRange
 in O
-Delaware B-geographic_poi
+delaware B-geographic_poi
 and I-geographic_poi
-Lehigh I-geographic_poi
-National I-geographic_poi
-Heritage I-geographic_poi
-Corridor I-geographic_poi
+lehigh I-geographic_poi
+national I-geographic_poi
+heritage I-geographic_poi
+corridor I-geographic_poi
 ? O
 
 what O
@@ -4204,9 +4204,9 @@ is O
 the O
 forecast O
 in O
-Admire B-city
+admire B-city
 in O
-TX B-state
+tx B-state
 starting O
 at O
 seventeen B-timeRange
@@ -4216,25 +4216,25 @@ is O
 the O
 forecast O
 in O
-North B-state
-Carolina I-state
+north B-state
+carolina I-state
 for O
-Edgemoor B-city
+edgemoor B-city
 
 what O
 is O
 the O
 forecast O
 for O
-Costa B-country
-Rica I-country
+costa B-country
+rica I-country
 
-Need O
+need O
 weather O
 for O
-Parc B-geographic_poi
+parc B-geographic_poi
 national I-geographic_poi
-Tolhuaca I-geographic_poi
+tolhuaca I-geographic_poi
 to O
 see O
 if O
@@ -4244,10 +4244,10 @@ be O
 fog B-condition_description
 today O
 
-Weather O
+weather O
 in O
-Walden B-city
-Russia B-country
+walden B-city
+russia B-country
 on O
 12 B-timeRange
 / I-timeRange
@@ -4255,7 +4255,7 @@ on O
 / I-timeRange
 2018 I-timeRange
 
-What O
+what O
 ' O
 s O
 the O
@@ -4265,17 +4265,17 @@ right O
 now B-timeRange
 ? O
 
-How O
+how O
 ' O
 s O
 the O
 weather O
 at O
-Petit B-geographic_poi
-Manan I-geographic_poi
-National I-geographic_poi
-Wildlife I-geographic_poi
-Refuge I-geographic_poi
+petit B-geographic_poi
+manan I-geographic_poi
+national I-geographic_poi
+wildlife I-geographic_poi
+refuge I-geographic_poi
 and O
 nearby B-spatial_relation
 right O
@@ -4286,31 +4286,31 @@ is O
 the O
 forecast O
 for O
-Lansford B-city
+lansford B-city
 for O
 temperate B-condition_temperature
 weather O
 
 overcast B-condition_description
 on O
-State B-timeRange
-Holiday I-timeRange
+state B-timeRange
+holiday I-timeRange
 in O
-Pawling B-geographic_poi
-Nature I-geographic_poi
-Reserve I-geographic_poi
+pawling B-geographic_poi
+nature I-geographic_poi
+reserve I-geographic_poi
 and O
 neighboring B-spatial_relation
 places O
 
-I O
+i O
 need O
 the O
 weather O
 in O
-Wakarusa B-city
+wakarusa B-city
 
-Tell O
+tell O
 me O
 the O
 forecast O
@@ -4318,17 +4318,17 @@ for O
 6 B-timeRange
 am I-timeRange
 in O
-Tatra B-geographic_poi
+tatra B-geographic_poi
 - I-geographic_poi
-Nationalpark I-geographic_poi
+nationalpark I-geographic_poi
 
-Tell O
+tell O
 me O
 the O
 weather O
 forecast O
 for O
-UT B-state
+ut B-state
 on O
 thursday B-timeRange
 
@@ -4337,17 +4337,17 @@ is O
 the O
 forecast O
 for O
-Turtle B-geographic_poi
-Islands I-geographic_poi
-National I-geographic_poi
-Park I-geographic_poi
+turtle B-geographic_poi
+islands I-geographic_poi
+national I-geographic_poi
+park I-geographic_poi
 
-Will O
+will O
 it O
 be O
 hotter B-condition_temperature
 in O
-PR B-state
+pr B-state
 at O
 23 B-timeRange
 o I-timeRange
@@ -4355,14 +4355,14 @@ o I-timeRange
 clock I-timeRange
 ? O
 
-Weather O
+weather O
 in B-timeRange
 two I-timeRange
 hours I-timeRange
 in O
-Uzbekistan B-country
+uzbekistan B-country
 
-What O
+what O
 is O
 the O
 forecast O
@@ -4373,8 +4373,8 @@ for O
 blizzard B-condition_description
 conditions O
 in O
-Dieterich B-city
-Chad B-country
+dieterich B-city
+chad B-country
 
 how O
 ' O
@@ -4384,17 +4384,17 @@ weather O
 here B-current_location
 at O
 two B-timeRange
-Am I-timeRange
+am I-timeRange
 
 will O
-Custer B-geographic_poi
-National I-geographic_poi
-Forest I-geographic_poi
+custer B-geographic_poi
+national I-geographic_poi
+forest I-geographic_poi
 be O
 chillier B-condition_temperature
 at O
 seven B-timeRange
-Pm I-timeRange
+pm I-timeRange
 
 what O
 is O
@@ -4408,23 +4408,23 @@ a I-timeRange
 . I-timeRange
 m I-timeRange
 in O
-Two B-city
-Buttes I-city
+two B-city
+buttes I-city
 for O
 warm B-condition_temperature
 weather O
 
-What O
+what O
 ' O
 s O
 the O
 weather O
 in O
-Fox B-city
-Chapel I-city
+fox B-city
+chapel I-city
 ? O
 
-What O
+what O
 is O
 the O
 rain B-condition_description
@@ -4435,29 +4435,29 @@ hour I-timeRange
 from I-timeRange
 now I-timeRange
 in O
-South B-country
-Korea I-country
+south B-country
+korea I-country
 
-Tell O
+tell O
 me O
 the O
 weather O
 forecast O
 here B-current_location
 
-Will O
+will O
 there O
 be O
 a O
 cloud B-condition_description
 in O
-VI B-state
+vi B-state
 in B-timeRange
 14 I-timeRange
 minutes I-timeRange
 ? O
 
-How O
+how O
 much O
 colder B-condition_temperature
 will O
@@ -4466,30 +4466,30 @@ be O
 not B-spatial_relation
 far I-spatial_relation
 from O
-Utah B-state
+utah B-state
 around O
 3 B-timeRange
-Am I-timeRange
+am I-timeRange
 ? O
 
-Will O
+will O
 it O
 be O
 chilly B-condition_temperature
 midday B-timeRange
 in O
-Cresbard B-city
-Afghanistan B-country
+cresbard B-city
+afghanistan B-country
 ? O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Sarygamyş B-geographic_poi
-Sanctuary I-geographic_poi
+sarygamyş B-geographic_poi
+sanctuary I-geographic_poi
 on O
 august B-timeRange
 21 I-timeRange
@@ -4497,122 +4497,122 @@ august B-timeRange
 2035 I-timeRange
 ? O
 
-Will O
+will O
 it O
 be O
 rainy B-condition_description
 in O
-Tenino B-city
+tenino B-city
 ? O
 
-Will O
+will O
 it O
 be O
 hot B-condition_temperature
 in O
 the O
-Netherlands B-country
+netherlands B-country
 on O
-February B-timeRange
+february B-timeRange
 16th I-timeRange
 ? O
 
-Where O
+where O
 is O
-Belgium B-country
+belgium B-country
 located O
 
-What O
+what O
 will O
 the O
 weather O
 be O
 in O
-Milleville B-city
-Beach I-city
+milleville B-city
+beach I-city
 ? O
 
 can O
 you O
 put O
 on O
-Like B-album
-A I-album
-Hurricane I-album
+like B-album
+a I-album
+hurricane I-album
 by O
-Paul B-artist
-Landers I-artist
+paul B-artist
+landers I-artist
 
-Play O
-The B-album
-Happy I-album
-Blues I-album
+play O
+the B-album
+happy I-album
+blues I-album
 by O
-Ronnie B-artist
-Wood I-artist
+ronnie B-artist
+wood I-artist
 . O
 
-Play O
+play O
 the O
 newest B-sort
 melody B-music_item
 on O
-Last B-service
-Fm I-service
+last B-service
+fm I-service
 by O
-Eddie B-artist
-Vinson I-artist
+eddie B-artist
+vinson I-artist
 . O
 
-Use O
-Groove B-service
-Shark I-service
+use O
+groove B-service
+shark I-service
 to O
 play O
 music O
 
-Please O
+please O
 play O
 something O
 good B-sort
 from O
-U B-artist
+u B-artist
 - I-artist
 roy I-artist
 . O
-Any O
+any O
 song B-music_item
 from O
 1975 B-year
 on O
-Zvooq B-service
+zvooq B-service
 will O
 do O
 . O
 
-Play O
+play O
 a O
 symphony B-music_item
 from O
 2013 B-year
 . O
 
-Let O
+let O
 me O
 hear O
 the O
 good B-sort
 songs O
 from O
-James B-artist
-Iha I-artist
+james B-artist
+iha I-artist
 
-Play O
+play O
 my O
 inventive B-playlist
 playlist O
 
-I O
+i O
 want O
 to O
 play O
@@ -4620,15 +4620,15 @@ music O
 from O
 iheart B-service
 
-Play O
-Subconscious B-album
-Lobotomy I-album
+play O
+subconscious B-album
+lobotomy I-album
 from O
-Jennifer B-artist
-Paull I-artist
+jennifer B-artist
+paull I-artist
 . O
 
-I O
+i O
 want O
 to O
 hear O
@@ -4644,12 +4644,12 @@ john B-artist
 maher I-artist
 track B-music_item
 
-Please O
+please O
 play O
 something O
 from O
-Dihan B-artist
-Slabbert I-artist
+dihan B-artist
+slabbert I-artist
 that O
 ' O
 s O
@@ -4658,30 +4658,30 @@ the O
 top B-sort
 fifty I-sort
 
-Please O
+please O
 play O
 something O
 catchy B-playlist
 on O
-Youtube B-service
+youtube B-service
 
-Play O
+play O
 something O
 from O
 2004 B-year
 by O
-Imogen B-artist
-Heap I-artist
+imogen B-artist
+heap I-artist
 on O
 spotify B-service
 
-Play O
+play O
 seventies B-year
 music O
 please O
 . O
 
-Play O
+play O
 music O
 from O
 the O
@@ -4696,126 +4696,126 @@ top B-sort
 - I-sort
 50 I-sort
 
-Play O
+play O
 anything O
-Jd B-artist
-Natasha I-artist
+jd B-artist
+natasha I-artist
 did O
 in O
 the O
 thirties B-year
 
-Play O
+play O
 music O
 off O
-Netflix B-service
+netflix B-service
 . O
 
 nineties B-year
 songs O
 on O
-Zvooq B-service
+zvooq B-service
 
-Open O
+open O
 itunes B-service
 and O
 play O
-Ben B-artist
-Burnley I-artist
-Ready B-album
-To I-album
-Die I-album
+ben B-artist
+burnley I-artist
+ready B-album
+to I-album
+die I-album
 
-Play O
+play O
 an O
 ep B-music_item
 by O
-Zak B-artist
-Starkey I-artist
+zak B-artist
+starkey I-artist
 . O
 
-Play O
+play O
 an O
 album B-music_item
 from O
-Nithyasree B-artist
-Mahadevan I-artist
+nithyasree B-artist
+mahadevan I-artist
 . O
 
-I O
+i O
 want O
 to O
 listen O
 to O
 something O
 on O
-Youtube B-service
+youtube B-service
 
-Start O
+start O
 playing O
 something O
 from O
-Iheart B-service
+iheart B-service
 
-Play O
-Trance B-playlist
-Life I-playlist
+play O
+trance B-playlist
+life I-playlist
 on O
-Zvooq B-service
+zvooq B-service
 . O
 
-Find O
+find O
 and O
 play O
 a O
 concerto B-music_item
 on O
-Zvooq B-service
+zvooq B-service
 from O
 1978 B-year
 by O
-Ginger B-artist
-Pooley I-artist
+ginger B-artist
+pooley I-artist
 
-Play O
-All B-track
-Things I-track
-Must I-track
-Pass I-track
+play O
+all B-track
+things I-track
+must I-track
+pass I-track
 . O
 
-I O
+i O
 want O
 to O
 hear O
 music O
 from O
-Allen B-artist
-Toussaint I-artist
+allen B-artist
+toussaint I-artist
 from O
 the O
 fifties B-year
 
-Turn O
+turn O
 on O
-Last B-service
-Fm I-service
+last B-service
+fm I-service
 
-Play O
+play O
 a O
 song B-music_item
 by O
-Rahsaan B-artist
-Patterson I-artist
+rahsaan B-artist
+patterson I-artist
 . O
 
 play O
-Femme B-track
-Fatale I-track
+femme B-track
+fatale I-track
 by O
-Bonobo B-artist
+bonobo B-artist
 
-Play O
+play O
 some O
 anneliese B-artist
 van I-artist
@@ -4825,10 +4825,10 @@ from O
 the O
 thirties B-year
 on O
-Groove B-service
-Shark I-service
+groove B-service
+shark I-service
 
-I O
+i O
 want O
 to O
 listen O
@@ -4839,16 +4839,16 @@ from O
 1998 B-year
 . O
 
-Play O
-Paul B-artist
-Mccartney I-artist
+play O
+paul B-artist
+mccartney I-artist
 
 play O
-Jill B-album
-Sobule I-album
+jill B-album
+sobule I-album
 album B-music_item
 
-Play O
+play O
 chant B-music_item
 ' O
 s O
@@ -4856,85 +4856,85 @@ from O
 1973 B-year
 . O
 
-Play O
+play O
 something O
 from O
 90s B-playlist
-Pop I-playlist
-Rock I-playlist
-Essentials I-playlist
+pop I-playlist
+rock I-playlist
+essentials I-playlist
 
-Play O
-Have B-track
-You I-track
-Met I-track
-Miss I-track
-Jones I-track
+play O
+have B-track
+you I-track
+met I-track
+miss I-track
+jones I-track
 by O
-Nicole B-artist
+nicole B-artist
 from O
-Google B-service
-Music I-service
+google B-service
+music I-service
 . O
 
 play O
 chant B-music_item
 by O
-Nigger B-artist
-Kojak I-artist
+nigger B-artist
+kojak I-artist
 on O
-Itunes B-service
+itunes B-service
 
-Play O
+play O
 some O
 sixties B-year
 songs O
 on O
-Google B-service
-Music I-service
+google B-service
+music I-service
 
-Play O
+play O
 a O
 fifties B-year
 album B-music_item
 from O
-Dj B-artist
-Yoda I-artist
+dj B-artist
+yoda I-artist
 on O
-Last B-service
-Fm I-service
+last B-service
+fm I-service
 . O
 
-Please O
+please O
 play O
 my O
 ecstatic B-playlist
 playlist O
 . O
 
-Open O
+open O
 deezer B-service
 and O
 play O
-Curtain B-album
-Call I-album
+curtain B-album
+call I-album
 : I-album
-The I-album
-Hits I-album
+the I-album
+hits I-album
 by O
-Junichi B-artist
-Okada I-artist
+junichi B-artist
+okada I-artist
 . O
 
-Let O
+let O
 ' O
 s O
 play O
-Jamie B-artist
-Robertson I-artist
+jamie B-artist
+robertson I-artist
 ' O
 s O
-Handover B-album
+handover B-album
 on O
 
 play O
@@ -4942,111 +4942,111 @@ a O
 sixties B-year
 soundtrack B-music_item
 
-Play O
-This B-playlist
-Is I-playlist
+play O
+this B-playlist
+is I-playlist
 : I-playlist
-Miles I-playlist
-Davis I-playlist
+miles I-playlist
+davis I-playlist
 on O
-Lastfm B-service
+lastfm B-service
 . O
 
-Live B-album
-In I-album
-L I-album
+live B-album
+in I-album
+l I-album
 . I-album
-aJoseph I-album
-Meyer O
+ajoseph I-album
+meyer O
 
-Play O
+play O
 the O
 top B-sort
 twenty I-sort
-Hisham B-artist
-Abbas I-artist
+hisham B-artist
+abbas I-artist
 on O
-Youtube B-service
+youtube B-service
 
 play O
 some O
 seventies B-year
-Filipp B-artist
-Kirkorow I-artist
+filipp B-artist
+kirkorow I-artist
 
-Play O
+play O
 the O
 most B-sort
 popular I-sort
-Puretone B-artist
+puretone B-artist
 
-Play O
+play O
 music O
 from O
-E B-artist
+e B-artist
 - I-artist
 type I-artist
 . O
 
-Can O
+can O
 you O
 play O
-A B-artist
+a B-artist
 . I-artist
 j I-artist
 . I-artist
-Pero I-artist
+pero I-artist
 on O
-Groove B-service
-Shark I-service
+groove B-service
+shark I-service
 ? O
 
-Play O
+play O
 a O
-Bob B-artist
-Burns I-artist
+bob B-artist
+burns I-artist
 song B-music_item
 
-I O
+i O
 want O
 to O
 hear O
-Leroi B-artist
-Moore I-artist
+leroi B-artist
+moore I-artist
 on O
 vimeo B-service
 , O
 play O
 the O
 song B-music_item
-Chance B-track
-Of I-track
-A I-track
-Lifetime I-track
+chance B-track
+of I-track
+a I-track
+lifetime I-track
 . O
 
-Play O
+play O
 some O
 symphony B-music_item
 music O
 from O
-David B-artist
-Lindley I-artist
+david B-artist
+lindley I-artist
 . O
 
-Please O
+please O
 play O
 something O
 on O
-Iheart B-service
+iheart B-service
 from O
 artist O
-Ari B-artist
-Gold I-artist
+ari B-artist
+gold I-artist
 last B-sort
 album B-music_item
 
-I O
+i O
 want O
 to O
 hear O
@@ -5054,9 +5054,9 @@ them B-music_item
 from O
 the O
 artist O
-Murcof B-artist
+murcof B-artist
 
-Play O
+play O
 sound B-music_item
 track I-music_item
 music O
@@ -5064,36 +5064,36 @@ from O
 the O
 twenties B-year
 
-Play O
-Dance B-track
-With I-track
-The I-track
-Devil I-track
+play O
+dance B-track
+with I-track
+the I-track
+devil I-track
 by O
-Mr B-artist
+mr B-artist
 . I-artist
-Lordi I-artist
+lordi I-artist
 
-Play O
+play O
 music O
 from O
 1996 B-year
 . O
 
-Go O
+go O
 to O
-Itunes B-service
+itunes B-service
 and O
 play O
-Dr B-album
+dr B-album
 . I-album
-Lecter I-album
+lecter I-album
 by O
-David B-artist
-Hodges I-artist
+david B-artist
+hodges I-artist
 
-Play O
-S B-album
+play O
+s B-album
 . I-album
 t I-album
 . I-album
@@ -5105,78 +5105,78 @@ e I-album
 . I-album
 t I-album
 . I-album
-D I-album
+d I-album
 . I-album
 a I-album
 . I-album
 d I-album
 . O
 from O
-Hiromitsu B-artist
-Agatsuma I-artist
+hiromitsu B-artist
+agatsuma I-artist
 through O
-Pandora B-service
+pandora B-service
 . O
 
-Play O
+play O
 some O
 movement B-music_item
 from O
 the O
 fourties B-year
 
-Please O
+please O
 tune B-music_item
 into O
-Chieko B-artist
-Ochi I-artist
+chieko B-artist
+ochi I-artist
 ' O
 s O
 good B-sort
 music O
 
-Play O
+play O
 the O
 greatest B-sort
 music O
 from O
-Bryan B-artist
-Maclean I-artist
+bryan B-artist
+maclean I-artist
 . O
 
-Play O
+play O
 something O
 on O
-Last B-service
-Fm I-service
+last B-service
+fm I-service
 
-Play O
+play O
 music O
 by O
-Joy B-artist
-Nilo I-artist
+joy B-artist
+nilo I-artist
 . O
 
 play O
 some O
-Gary B-artist
-Lee I-artist
-Conner I-artist
+gary B-artist
+lee I-artist
+conner I-artist
 
-Play O
+play O
 music O
 by O
-Brian B-artist
-Chase I-artist
+brian B-artist
+chase I-artist
 . O
 
-Can O
+can O
 you O
 play O
 top B-sort
-Zvooq B-service
+zvooq B-service
 by O
-Fink B-artist
+fink B-artist
 ? O
 
 play O
@@ -5184,21 +5184,21 @@ the O
 top B-sort
 - I-sort
 20 I-sort
-Nawang B-artist
-Khechog I-artist
+nawang B-artist
+khechog I-artist
 soundtrack B-music_item
 
-Let O
+let O
 ' O
 s O
 hear O
 stuff O
 from O
-Andrew B-artist
-Hewitt I-artist
+andrew B-artist
+hewitt I-artist
 . O
 
-Play O
+play O
 a O
 good B-sort
 ep B-music_item
@@ -5206,113 +5206,113 @@ from O
 the O
 eighties B-year
 by O
-Peter B-artist
-Murphy I-artist
+peter B-artist
+murphy I-artist
 . O
 
-Play O
-Another B-album
-Passenger I-album
+play O
+another B-album
+passenger I-album
 from O
-Louis B-artist
-Nelson I-artist
-Delisle I-artist
+louis B-artist
+nelson I-artist
+delisle I-artist
 . O
 
-Play O
+play O
 the O
 top B-sort
 music O
 from O
-The B-artist
-Railway I-artist
-Children I-artist
+the B-artist
+railway I-artist
+children I-artist
 off O
-Last B-service
-Fm I-service
+last B-service
+fm I-service
 . O
 
 play O
 the O
 best B-sort
-Becca B-artist
+becca B-artist
 
-Play O
+play O
 something O
 by O
-Duke B-artist
-Ellington I-artist
+duke B-artist
+ellington I-artist
 from O
 the O
 seventies B-year
 
-Use O
+use O
 the O
 last B-service
 fm I-service
 service O
 to O
 play O
-A B-playlist
-Mis I-playlist
-Niños I-playlist
+a B-playlist
+mis I-playlist
+niños I-playlist
 de I-playlist
 30 I-playlist
 
-Play O
+play O
 my O
-Black B-playlist
-Sabbath I-playlist
+black B-playlist
+sabbath I-playlist
 : I-playlist
-The I-playlist
-Dio I-playlist
-Years I-playlist
+the I-playlist
+dio I-playlist
+years I-playlist
 playlist O
 . O
 
-Play O
+play O
 an O
 ep B-music_item
 from O
-Mike B-artist
-Harding I-artist
+mike B-artist
+harding I-artist
 . O
 
-I O
+i O
 want O
 to O
 hear O
 anything O
 from O
 the O
-Rock B-genre
-Symphonique I-genre
+rock B-genre
+symphonique I-genre
 genre O
 please O
 . O
 
-Please O
+please O
 play O
 a O
 1997 B-year
 record B-music_item
 . O
 
-Put O
-What B-album
-Color I-album
-Is I-album
-Your I-album
-Sky I-album
+put O
+what B-album
+color I-album
+is I-album
+your I-album
+sky I-album
 by O
-Alana B-artist
-Davis I-artist
+alana B-artist
+davis I-artist
 on O
 the O
 stereo O
 . O
 
-Please O
+please O
 play O
 a O
 movement B-music_item
@@ -5325,90 +5325,90 @@ jr I-artist
 play O
 some O
 new B-sort
-Les B-artist
-Vandyke I-artist
+les B-artist
+vandyke I-artist
 on O
-Slacker B-service
+slacker B-service
 
-Please O
+please O
 open O
-Zvooq B-service
+zvooq B-service
 
-Play O
-Progressive B-genre
-Metal I-genre
+play O
+progressive B-genre
+metal I-genre
 . O
 
-I O
+i O
 want O
 to O
 hear O
 soundtrack B-music_item
 music O
 on O
-Youtube B-service
+youtube B-service
 from O
-Helena B-artist
-Iren I-artist
-Michaelsen I-artist
+helena B-artist
+iren I-artist
+michaelsen I-artist
 
 play O
 a O
 song B-music_item
 by O
-Ramesh B-artist
-Narayan I-artist
+ramesh B-artist
+narayan I-artist
 from O
 1960 B-year
 
-Play O
+play O
 some O
 blues B-genre
 britânico I-genre
 . O
 
-Proceed O
+proceed O
 with O
-Hitomi B-artist
-Nabatame I-artist
+hitomi B-artist
+nabatame I-artist
 music O
 from O
 2003 B-year
 . O
 
-Play O
+play O
 something O
 on O
-Zvooq B-service
+zvooq B-service
 
-Play O
+play O
 music O
 from O
-Lynn B-artist
+lynn B-artist
 & I-artist
-Wade I-artist
-Llp I-artist
+wade I-artist
+llp I-artist
 . O
 
-Let O
+let O
 me O
 hear O
-Chris B-artist
-Knight I-artist
+chris B-artist
+knight I-artist
 music O
 
-Let O
+let O
 ' O
 s O
 hear O
 good B-sort
-Mohammad B-artist
-Mamle I-artist
+mohammad B-artist
+mamle I-artist
 on O
-Vimeo B-service
+vimeo B-service
 . O
 
-Please O
+please O
 play O
 a O
 sound B-music_item
@@ -5420,31 +5420,31 @@ that O
 ' O
 s O
 on O
-Iheart B-service
+iheart B-service
 
-Play O
-Music B-album
-From I-album
-Van I-album
+play O
+music B-album
+from I-album
+van I-album
 - I-album
 pires I-album
 by O
-Dmitry B-artist
-Malikov I-artist
+dmitry B-artist
+malikov I-artist
 . O
 
-Play O
+play O
 rich B-track
 sex I-track
 on O
-Iheart B-service
+iheart B-service
 
-Play O
-Modern B-playlist
-Psychedelia I-playlist
+play O
+modern B-playlist
+psychedelia I-playlist
 . O
 
-I O
+i O
 ' O
 d O
 like O
@@ -5454,18 +5454,18 @@ this O
 track B-music_item
 onto O
 my B-playlist_owner
-Classical B-playlist
-Relaxations I-playlist
+classical B-playlist
+relaxations I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 album B-music_item
 to O
 my B-playlist_owner
-Flow B-playlist
-Español I-playlist
+flow B-playlist
+español I-playlist
 playlist O
 . O
 
@@ -5474,33 +5474,33 @@ digging B-playlist
 now I-playlist
 to O
 my B-playlist_owner
-Young B-entity_name
+young B-entity_name
 at I-entity_name
-Heart I-entity_name
+heart I-entity_name
 playlist O
 
 add O
 this O
 song B-music_item
 by O
-Too B-artist
-Poetic I-artist
+too B-artist
+poetic I-artist
 to O
 my B-playlist_owner
-Piano B-playlist
-Ballads I-playlist
+piano B-playlist
+ballads I-playlist
 playlist O
 
-Add O
+add O
 this O
 album B-music_item
 to O
-Old B-playlist
-School I-playlist
-Death I-playlist
-Metal I-playlist
+old B-playlist
+school I-playlist
+death I-playlist
+metal I-playlist
 
-I O
+i O
 need O
 to O
 add O
@@ -5508,26 +5508,26 @@ baro B-artist
 ferret I-artist
 to O
 the O
-Urban B-playlist
-Hits I-playlist
+urban B-playlist
+hits I-playlist
 under O
 my B-playlist_owner
 name O
 
-Add O
+add O
 the O
 album B-music_item
 to O
 the O
-Might B-playlist
+might B-playlist
 and I-playlist
-Myth I-playlist
-Power I-playlist
-Metal I-playlist
+myth I-playlist
+power I-playlist
+metal I-playlist
 playlist O
 . O
 
-To O
+to O
 the O
 travelling B-playlist
 playlist O
@@ -5535,31 +5535,31 @@ playlist O
 please O
 add O
 this O
-David B-artist
-Gahan I-artist
+david B-artist
+gahan I-artist
 song B-music_item
 . O
 
-Please O
+please O
 add O
 some O
-Pete B-artist
-Townshend I-artist
+pete B-artist
+townshend I-artist
 to O
 my B-playlist_owner
 playlist O
-Fiesta B-playlist
-Hits I-playlist
+fiesta B-playlist
+hits I-playlist
 con I-playlist
-Lali I-playlist
+lali I-playlist
 
-I O
+i O
 ' O
 d O
 like O
 for O
-Kasey B-artist
-Chambers I-artist
+kasey B-artist
+chambers I-artist
 ' O
 s O
 tune B-music_item
@@ -5569,31 +5569,31 @@ an O
 addition O
 to O
 my B-playlist_owner
-Chips B-playlist
+chips B-playlist
 and I-playlist
-Salsa I-playlist
+salsa I-playlist
 playlist O
 . O
 
-Add O
-Recalled B-entity_name
+add O
+recalled B-entity_name
 to I-entity_name
-Life I-entity_name
+life I-entity_name
 to O
-This B-playlist
-Is I-playlist
-Alejandro I-playlist
-Fernández I-playlist
+this B-playlist
+is I-playlist
+alejandro I-playlist
+fernández I-playlist
 
 add O
 nuba B-entity_name
 to O
 my B-playlist_owner
-Metal B-playlist
-Party I-playlist
+metal B-playlist
+party I-playlist
 playlist O
 
-Add O
+add O
 jo B-artist
 stafford I-artist
 music O
@@ -5603,10 +5603,10 @@ workout B-playlist
 twerkout I-playlist
 playlist O
 
-Put O
-Jean B-artist
-Philippe I-artist
-Goncalves I-artist
+put O
+jean B-artist
+philippe I-artist
+goncalves I-artist
 onto O
 my B-playlist_owner
 running B-playlist
@@ -5618,7 +5618,7 @@ to I-playlist
 bpm I-playlist
 . O
 
-Add O
+add O
 the O
 song B-music_item
 virales B-playlist
@@ -5634,14 +5634,14 @@ gym O
 playlist O
 . O
 
-Onto O
+onto O
 jerry B-playlist_owner
 ' I-playlist_owner
 s I-playlist_owner
-Classical B-playlist
-Moments I-playlist
+classical B-playlist
+moments I-playlist
 in I-playlist
-Movies I-playlist
+movies I-playlist
 , O
 please O
 add O
@@ -5650,115 +5650,115 @@ album B-music_item
 . O
 
 add O
-Beyond B-entity_name
+beyond B-entity_name
 the I-entity_name
-Valley I-entity_name
+valley I-entity_name
 of I-entity_name
 1984 I-entity_name
 in O
 playlist O
-Folk B-playlist
-Music I-playlist
-At I-playlist
-The I-playlist
-Gaslight I-playlist
-Café I-playlist
+folk B-playlist
+music I-playlist
+at I-playlist
+the I-playlist
+gaslight I-playlist
+café I-playlist
 
-Add O
-Jerry B-artist
-Calliste I-artist
+add O
+jerry B-artist
+calliste I-artist
 , I-artist
-Jr I-artist
+jr I-artist
 to O
 my B-playlist_owner
-Te B-playlist
+te B-playlist
 quiero I-playlist
 playlist O
 . O
 
-Add O
+add O
 porter B-artist
 wagoner I-artist
 to O
 the O
-The B-playlist
-Sleep I-playlist
-Machine I-playlist
-Waterscapes I-playlist
+the B-playlist
+sleep I-playlist
+machine I-playlist
+waterscapes I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 artist B-music_item
 mike B-artist
 to O
 the O
-Sexy B-playlist
+sexy B-playlist
 as I-playlist
-Folk I-playlist
+folk I-playlist
 playlist O
 . O
 
-Add O
-Brazilian B-entity_name
-Flag I-entity_name
-Anthem I-entity_name
+add O
+brazilian B-entity_name
+flag I-entity_name
+anthem I-entity_name
 to O
-Top B-playlist
+top B-playlist
 100 I-playlist
-Alternative I-playlist
-Tracks I-playlist
+alternative I-playlist
+tracks I-playlist
 on I-playlist
-Spotify I-playlist
+spotify I-playlist
 
-Add O
-Andy B-artist
-Hunter I-artist
+add O
+andy B-artist
+hunter I-artist
 to O
 my B-playlist_owner
-Evening B-playlist
-Commute I-playlist
+evening B-playlist
+commute I-playlist
 playlist O
 . O
 
-Put O
+put O
 petar B-artist
 georgiev I-artist
 kalica I-artist
 onto O
 the O
-Old B-playlist
-School I-playlist
-Hip I-playlist
-Hop I-playlist
+old B-playlist
+school I-playlist
+hip I-playlist
+hop I-playlist
 playlist O
 . O
 
-Can O
+can O
 you O
 add O
-Larry B-artist
-Heard I-artist
+larry B-artist
+heard I-artist
 to O
 my B-playlist_owner
 laundry B-playlist
 playlist O
 ? O
 
-Put O
-Vandemataram B-artist
-Srinivas I-artist
+put O
+vandemataram B-artist
+srinivas I-artist
 ' O
 s O
 track B-music_item
 onto O
-HipHop B-playlist
-Hot I-playlist
+hiphop B-playlist
+hot I-playlist
 50 I-playlist
 . O
 
-Add O
+add O
 millie B-artist
 corretjer I-artist
 to O
@@ -5766,15 +5766,15 @@ the B-playlist
 rhythm I-playlist
 playlist O
 
-Add O
+add O
 give B-entity_name
 us I-entity_name
 rest I-entity_name
 to O
 my B-playlist_owner
 70s B-playlist
-Smash I-playlist
-Hits I-playlist
+smash I-playlist
+hits I-playlist
 playlist O
 . O
 
@@ -5783,11 +5783,11 @@ this O
 track B-music_item
 to O
 my B-playlist_owner
-Hands B-playlist
-Up I-playlist
+hands B-playlist
+up I-playlist
 playlist O
 
-I O
+i O
 ' O
 d O
 like O
@@ -5804,8 +5804,8 @@ playlist O
 . O
 
 add O
-Jonathan B-artist
-Sprout I-artist
+jonathan B-artist
+sprout I-artist
 album B-music_item
 to O
 my B-playlist_owner
@@ -5826,41 +5826,41 @@ contest I-entity_name
 2015 I-entity_name
 to O
 my B-playlist_owner
-Jazzy B-playlist
-Dinner I-playlist
+jazzy B-playlist
+dinner I-playlist
 playlist O
 
-Add O
+add O
 the O
 album B-music_item
 to O
 the O
-The B-playlist
-Sweet I-playlist
-Suite I-playlist
+the B-playlist
+sweet I-playlist
+suite I-playlist
 playlist O
 . O
 
-Add O
+add O
 sarah B-artist
 slean I-artist
 to O
 my B-playlist_owner
 playlist O
-Mellowed B-playlist
-Out I-playlist
-Gaming I-playlist
+mellowed B-playlist
+out I-playlist
+gaming I-playlist
 
-Add O
+add O
 this O
 album B-music_item
 to O
 the O
-Spanish B-playlist
-Beat I-playlist
+spanish B-playlist
+beat I-playlist
 playlist O
 
-Add O
+add O
 lofty B-entity_name
 fake I-entity_name
 anagram I-entity_name
@@ -5874,7 +5874,7 @@ bso I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 track B-music_item
 to O
@@ -5883,7 +5883,7 @@ work B-playlist
 playlist O
 . O
 
-Add O
+add O
 a O
 song B-music_item
 to O
@@ -5900,17 +5900,17 @@ in O
 my B-playlist_owner
 playlist O
 called O
-Hands B-playlist
-Up I-playlist
+hands B-playlist
+up I-playlist
 
-Can O
+can O
 you O
 put O
 this O
 song B-music_item
 from O
-Yutaka B-artist
-Ozaki I-artist
+yutaka B-artist
+ozaki I-artist
 onto O
 my B-playlist_owner
 this B-playlist
@@ -5920,23 +5920,23 @@ davis I-playlist
 playlist O
 ? O
 
-Add O
+add O
 a O
 track B-music_item
 to O
 playlist O
-Cena B-playlist
+cena B-playlist
 con I-playlist
-Amigos I-playlist
+amigos I-playlist
 
-Add O
-The B-entity_name
-Famous I-entity_name
-Flower I-entity_name
+add O
+the B-entity_name
+famous I-entity_name
+flower I-entity_name
 of I-entity_name
-Serving I-entity_name
+serving I-entity_name
 - I-entity_name
-Men I-entity_name
+men I-entity_name
 to O
 my B-playlist_owner
 evening B-playlist
@@ -5944,14 +5944,14 @@ acoustic I-playlist
 playlist O
 . O
 
-Add O
+add O
 a O
 song B-music_item
 to O
-Indie B-playlist
-Hipster I-playlist
+indie B-playlist
+hipster I-playlist
 
-Add O
+add O
 the O
 40 B-artist
 cal I-artist
@@ -5962,41 +5962,41 @@ laundry B-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 album B-music_item
 to O
 my B-playlist_owner
-Perfect B-playlist
-Concentration I-playlist
-playlist O
-. O
-
-Add O
-the O
-Matt B-artist
-Murphy I-artist
-tune B-music_item
-to O
-the O
-Flow B-playlist
-Español I-playlist
+perfect B-playlist
+concentration I-playlist
 playlist O
 . O
 
 add O
-A B-entity_name
-Very I-entity_name
-Cellular I-entity_name
-Song I-entity_name
+the O
+matt B-artist
+murphy I-artist
+tune B-music_item
+to O
+the O
+flow B-playlist
+español I-playlist
+playlist O
+. O
+
+add O
+a B-entity_name
+very I-entity_name
+cellular I-entity_name
+song I-entity_name
 to O
 masters B-playlist
 of I-playlist
 metal I-playlist
 playlist O
 
-Can O
-I O
+can O
+i O
 put O
 this O
 tune B-music_item
@@ -6007,7 +6007,7 @@ estrés I-playlist
 playlist O
 ? O
 
-I O
+i O
 ' O
 d O
 like O
@@ -6017,13 +6017,13 @@ jordan B-artist
 rudess I-artist
 onto O
 the O
-Divertido B-playlist
+divertido B-playlist
 para I-playlist
 niños I-playlist
 playlist O
 . O
 
-Add O
+add O
 kent B-artist
 james I-artist
 to O
@@ -6032,35 +6032,35 @@ disney B-playlist
 soundtrack O
 . O
 
-Add O
+add O
 the O
 artist B-music_item
-Adam B-artist
-Deibert I-artist
+adam B-artist
+deibert I-artist
 to O
 my B-playlist_owner
-Perfect B-playlist
-Concentration I-playlist
+perfect B-playlist
+concentration I-playlist
 playlist O
 . O
 
-Can O
+can O
 you O
 put O
 the O
 artist B-music_item
-Giovanni B-artist
-Giacomo I-artist
-Gastoldi I-artist
+giovanni B-artist
+giacomo I-artist
+gastoldi I-artist
 onto O
 the O
-Chill B-playlist
-Out I-playlist
-Music I-playlist
+chill B-playlist
+out I-playlist
+music I-playlist
 playlist O
 ? O
 
-Add O
+add O
 the O
 album B-music_item
 to O
@@ -6073,14 +6073,14 @@ playlist O
 add O
 the O
 artist B-music_item
-Pete B-artist
-Murray I-artist
+pete B-artist
+murray I-artist
 to O
 my B-playlist_owner
 relaxing B-playlist
 playlist O
 
-Add O
+add O
 the O
 track B-music_item
 to O
@@ -6091,7 +6091,7 @@ breaks I-playlist
 playlist O
 . O
 
-For O
+for O
 my B-playlist_owner
 fantastic B-playlist
 workout I-playlist
@@ -6102,21 +6102,21 @@ sara B-artist
 bareilles I-artist
 ? O
 
-Add O
+add O
 the O
 boy B-artist
 george I-artist
 track B-music_item
 to O
 the O
-Emo B-playlist
-Forever I-playlist
+emo B-playlist
+forever I-playlist
 playlist O
 . O
 
-Add O
-Ted B-artist
-Heath I-artist
+add O
+ted B-artist
+heath I-artist
 to O
 the O
 road B-playlist
@@ -6124,7 +6124,7 @@ trip I-playlist
 playlist O
 . O
 
-Can O
+can O
 you O
 add O
 last B-entity_name
@@ -6143,36 +6143,36 @@ dio I-playlist
 years I-playlist
 ? O
 
-Add O
+add O
 this O
 artist B-music_item
 to O
-Showstopper B-playlist
-Being I-playlist
-Mary I-playlist
-Jane I-playlist
+showstopper B-playlist
+being I-playlist
+mary I-playlist
+jane I-playlist
 
 put O
 the O
 artist B-music_item
 onto O
-Top B-playlist
-Latin I-playlist
-Alternative I-playlist
+top B-playlist
+latin I-playlist
+alternative I-playlist
 . O
 
-Add O
-Michael B-artist
-Wittig I-artist
+add O
+michael B-artist
+wittig I-artist
 music O
 to O
-Country B-playlist
-Icon I-playlist
+country B-playlist
+icon I-playlist
 playlist O
 
 add O
-Highway B-entity_name
-Patrolman I-entity_name
+highway B-entity_name
+patrolman I-entity_name
 in O
 my B-playlist_owner
 playlist O
@@ -6181,26 +6181,26 @@ is I-playlist
 al I-playlist
 green I-playlist
 
-Add O
-Richard B-artist
-McNamara I-artist
+add O
+richard B-artist
+mcnamara I-artist
 newest O
 song B-music_item
 to O
 the O
-Just B-playlist
-Smile I-playlist
+just B-playlist
+smile I-playlist
 playlist O
 
-Add O
-Annesley B-artist
-Malewana I-artist
+add O
+annesley B-artist
+malewana I-artist
 album B-music_item
 to O
 playlist O
 indietronic B-playlist
 
-Add O
+add O
 the O
 artist B-music_item
 to O
@@ -6209,7 +6209,7 @@ dishwashing B-playlist
 playlist O
 . O
 
-Add O
+add O
 this O
 artist B-music_item
 to O
@@ -6218,27 +6218,27 @@ tales I-playlist
 playlist O
 
 add O
-Muzika B-entity_name
+muzika B-entity_name
 za I-entity_name
 decu I-entity_name
 to O
 my B-playlist_owner
-Crash B-playlist
-Course I-playlist
+crash B-playlist
+course I-playlist
 playlist O
 
-Add O
+add O
 a O
 derek B-artist
 watkins I-artist
 tune B-music_item
 to O
-This B-playlist
-Is I-playlist
-Johnny I-playlist
-Cash I-playlist
+this B-playlist
+is I-playlist
+johnny I-playlist
+cash I-playlist
 
-Add O
+add O
 our B-entity_name
 little I-entity_name
 corner I-entity_name
@@ -6251,12 +6251,12 @@ gilmore I-entity_name
 girls I-entity_name
 to O
 my B-playlist_owner
-The B-playlist
-Funny I-playlist
-Thing I-playlist
-About I-playlist
-Football I-playlist
-Is I-playlist
+the B-playlist
+funny I-playlist
+thing I-playlist
+about I-playlist
+football I-playlist
+is I-playlist
 playlist O
 . O
 
@@ -6266,17 +6266,17 @@ current O
 track B-music_item
 to O
 my B-playlist_owner
-This B-playlist
-Is I-playlist
-Tchaikovsky I-playlist
+this B-playlist
+is I-playlist
+tchaikovsky I-playlist
 playlist O
 
-Put O
+put O
 abe B-artist
 laboriel I-artist
 onto O
 the O
-Escapada B-playlist
+escapada B-playlist
 playlist O
 . O
 
@@ -6291,17 +6291,17 @@ on I-playlist
 fridays I-playlist
 playlist O
 
-Please O
+please O
 add O
 this O
 track B-music_item
 by O
-Paul B-artist
-McGuigan I-artist
+paul B-artist
+mcguigan I-artist
 to O
 the O
-Deep B-playlist
-House I-playlist
+deep B-playlist
+house I-playlist
 playlist O
 . O
 
@@ -6313,39 +6313,39 @@ current O
 tune B-music_item
 to O
 my B-playlist_owner
-Calm B-playlist
+calm B-playlist
 before I-playlist
 the I-playlist
 storm I-playlist
 playlist O
 
-Please O
+please O
 add O
-The B-entity_name
+the B-entity_name
 image I-entity_name
 of I-entity_name
 you I-entity_name
 to O
 my B-playlist_owner
 playlist O
-Crate B-playlist
-Diggers I-playlist
-Anonymous I-playlist
+crate B-playlist
+diggers I-playlist
+anonymous I-playlist
 
-Add O
+add O
 a O
 track B-music_item
 to O
-Jazzy B-playlist
-Dinner I-playlist
+jazzy B-playlist
+dinner I-playlist
 
-Add O
+add O
 the O
 album B-music_item
 to O
 the O
-Hipster B-playlist
-Soul I-playlist
+hipster B-playlist
+soul I-playlist
 playlist O
 . O
 
@@ -6354,28 +6354,28 @@ this O
 tune B-music_item
 to O
 my B-playlist_owner
-Sleepify B-playlist
+sleepify B-playlist
 playlist O
 
-Add O
+add O
 jack B-artist
 white I-artist
 to O
 my B-playlist_owner
 playlist O
-This B-playlist
-Is I-playlist
-Shakira I-playlist
+this B-playlist
+is I-playlist
+shakira I-playlist
 
 add O
 tommy B-artist
 johnson I-artist
 to O
-The B-playlist
-MetalSucks I-playlist
-Playlist I-playlist
+the B-playlist
+metalsucks I-playlist
+playlist I-playlist
 
-Add O
+add O
 the O
 chris B-artist
 clark I-artist
@@ -6389,42 +6389,42 @@ blues I-playlist
 playlist O
 . O
 
-Add O
+add O
 an O
 artist B-music_item
 to O
-Jukebox B-playlist
-Boogie I-playlist
-Rhythm I-playlist
+jukebox B-playlist
+boogie I-playlist
+rhythm I-playlist
 & I-playlist
-Blues I-playlist
+blues I-playlist
 
 add O
 this O
 artist B-music_item
 to O
 my B-playlist_owner
-Electronic B-playlist
-Bliss I-playlist
+electronic B-playlist
+bliss I-playlist
 playlist O
 
-I O
+i O
 need O
 to O
 add O
 to O
 my B-playlist_owner
-Infinite B-playlist
-Indie I-playlist
-Folk I-playlist
+infinite B-playlist
+indie I-playlist
+folk I-playlist
 list O
 the O
 works O
 of O
-Rahim B-artist
-Shah I-artist
+rahim B-artist
+shah I-artist
 
-Add O
+add O
 martin B-artist
 barre I-artist
 to O
@@ -6439,12 +6439,12 @@ tierney B-artist
 sutton I-artist
 to O
 my B-playlist_owner
-Novedades B-playlist
-Viernes I-playlist
-Sudamérica I-playlist
+novedades B-playlist
+viernes I-playlist
+sudamérica I-playlist
 playlist O
 
-Add O
+add O
 this O
 tune B-music_item
 to O
@@ -6457,10 +6457,10 @@ s I-playlist
 party I-playlist
 playlist O
 
-A B-entity_name
-Very I-entity_name
-Cellular I-entity_name
-Song I-entity_name
+a B-entity_name
+very I-entity_name
+cellular I-entity_name
+song I-entity_name
 needs O
 to O
 be O
@@ -6472,24 +6472,24 @@ of I-playlist
 metal I-playlist
 playlist O
 
-Add O
-Toyan B-artist
+add O
+toyan B-artist
 to O
 my B-playlist_owner
-Epic B-playlist
-Gaming I-playlist
+epic B-playlist
+gaming I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 song B-music_item
 to O
 the O
-Mac B-playlist
+mac B-playlist
 ' I-playlist
-N I-playlist
-Cheese I-playlist
+n I-playlist
+cheese I-playlist
 playlist O
 . O
 
@@ -6504,7 +6504,7 @@ country I-playlist
 2016 I-playlist
 playlist O
 
-Add O
+add O
 a O
 song B-music_item
 to O
@@ -6514,19 +6514,19 @@ madden B-playlist
 nfl I-playlist
 16 I-playlist
 
-Add O
+add O
 emilie B-artist
 autumn I-artist
 to O
 my B-playlist_owner
-Nação B-playlist
-Reggae I-playlist
+nação B-playlist
+reggae I-playlist
 playlist O
 . O
 
 add O
-Farhad B-artist
-Darya I-artist
+farhad B-artist
+darya I-artist
 songs O
 in O
 virales B-playlist
@@ -6538,8 +6538,8 @@ a O
 song B-music_item
 in O
 my B-playlist_owner
-All B-playlist
-Out I-playlist
+all B-playlist
+out I-playlist
 60s I-playlist
 
 add O
@@ -6550,8 +6550,8 @@ theme I-entity_name
 song I-entity_name
 to O
 my B-playlist_owner
-House B-playlist
-Afterwork I-playlist
+house B-playlist
+afterwork I-playlist
 playlist O
 
 add O
@@ -6559,14 +6559,14 @@ the O
 song B-music_item
 to O
 my B-playlist_owner
-We B-playlist
-Everywhere I-playlist
+we B-playlist
+everywhere I-playlist
 playlist O
 
-Add O
-Roel B-artist
+add O
+roel B-artist
 van I-artist
-Velzen I-artist
+velzen I-artist
 to O
 my B-playlist_owner
 party B-playlist
@@ -6576,7 +6576,7 @@ century I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 artist B-music_item
 to O
@@ -6586,41 +6586,41 @@ punks I-playlist
 playlist O
 . O
 
-Add O
+add O
 the O
 album B-music_item
 to O
 my B-playlist_owner
-Club B-playlist
-Hits I-playlist
+club B-playlist
+hits I-playlist
 playlist O
 . O
 
-Is O
-Babar B-movie_name
+is O
+babar B-movie_name
 : I-movie_name
-King I-movie_name
+king I-movie_name
 of I-movie_name
 the I-movie_name
-Elephants I-movie_name
+elephants I-movie_name
 playing O
 
-Is O
-The B-movie_name
-Ghost I-movie_name
+is O
+the B-movie_name
+ghost I-movie_name
 playing O
 
-Is O
-Bartok B-movie_name
+is O
+bartok B-movie_name
 the I-movie_name
-Magnificent I-movie_name
+magnificent I-movie_name
 playing O
 at O
 seven B-timeRange
-AM I-timeRange
+am I-timeRange
 ? O
 
-What O
+what O
 ' O
 s O
 the O
@@ -6631,20 +6631,20 @@ i O
 want O
 to O
 see O
-JLA B-movie_name
-Adventures I-movie_name
+jla B-movie_name
+adventures I-movie_name
 : I-movie_name
-Trapped I-movie_name
-In I-movie_name
-Time I-movie_name
+trapped I-movie_name
+in I-movie_name
+time I-movie_name
 
 when O
 is O
-The B-movie_name
-Fox I-movie_name
+the B-movie_name
+fox I-movie_name
 and I-movie_name
 the I-movie_name
-Child I-movie_name
+child I-movie_name
 playing O
 in O
 this O
@@ -6655,49 +6655,49 @@ me O
 the O
 schedule B-object_type
 for O
-Rat B-movie_name
-Rod I-movie_name
-Rockers I-movie_name
+rat B-movie_name
+rod I-movie_name
+rockers I-movie_name
 ! O
 
-Is O
-Any B-movie_name
-Which I-movie_name
-Way I-movie_name
-You I-movie_name
-Can I-movie_name
+is O
+any B-movie_name
+which I-movie_name
+way I-movie_name
+you I-movie_name
+can I-movie_name
 playing O
 in B-timeRange
 15 I-timeRange
 seconds I-timeRange
 
-I O
+i O
 want O
 to O
 see O
-The B-movie_name
-Portrait I-movie_name
+the B-movie_name
+portrait I-movie_name
 of I-movie_name
 a I-movie_name
-Lady I-movie_name
+lady I-movie_name
 at O
 the O
 nearest B-spatial_relation
 cinema B-object_location_type
 . O
 
-Where O
+where O
 can O
-I O
+i O
 see O
-The B-movie_name
-Prime I-movie_name
-Ministers I-movie_name
+the B-movie_name
+prime I-movie_name
+ministers I-movie_name
 : I-movie_name
-The I-movie_name
-Pioneers I-movie_name
+the I-movie_name
+pioneers I-movie_name
 
-I O
+i O
 need O
 to O
 find O
@@ -6705,21 +6705,21 @@ the O
 movie B-object_location_type
 theatre I-object_location_type
 showing O
-The B-movie_name
-Crooked I-movie_name
-Web I-movie_name
+the B-movie_name
+crooked I-movie_name
+web I-movie_name
 closest B-spatial_relation
 to O
 me O
 
-I O
+i O
 want O
 to O
 see O
-While B-movie_name
+while B-movie_name
 the I-movie_name
-Sun I-movie_name
-Shines I-movie_name
+sun I-movie_name
+shines I-movie_name
 at O
 the O
 closest B-spatial_relation
@@ -6727,14 +6727,14 @@ movie B-object_location_type
 house I-object_location_type
 . O
 
-I O
+i O
 want O
 to O
 see O
-Those B-movie_name
-Kids I-movie_name
+those B-movie_name
+kids I-movie_name
 from I-movie_name
-Town I-movie_name
+town I-movie_name
 , O
 when O
 will O
@@ -6743,18 +6743,18 @@ be O
 showing O
 ? O
 
-Find O
+find O
 the O
 schedule B-object_type
 for O
-The B-movie_name
-Comedian I-movie_name
+the B-movie_name
+comedian I-movie_name
 at O
-Santikos B-location_name
-Theatres I-location_name
+santikos B-location_name
+theatres I-location_name
 . O
 
-What O
+what O
 are O
 the O
 movie B-object_type
@@ -6764,7 +6764,7 @@ my O
 favorite O
 theaters B-location_name
 
-What O
+what O
 are O
 the O
 movies B-movie_type
@@ -6773,9 +6773,9 @@ in B-spatial_relation
 the I-spatial_relation
 neighbourhood I-spatial_relation
 
-Is O
-Without B-movie_name
-Witness I-movie_name
+is O
+without B-movie_name
+witness I-movie_name
 playing O
 twenty B-timeRange
 two I-timeRange
@@ -6783,7 +6783,7 @@ hours I-timeRange
 from I-timeRange
 now I-timeRange
 
-I O
+i O
 need O
 animated B-movie_type
 movies I-movie_type
@@ -6798,43 +6798,43 @@ i O
 want O
 to O
 see O
-I B-movie_name
-Dream I-movie_name
+i B-movie_name
+dream I-movie_name
 of I-movie_name
-Jeanie I-movie_name
+jeanie I-movie_name
 in O
 a O
 movie B-object_location_type
 theatre I-object_location_type
 
-Can O
-I O
+can O
+i O
 see O
-Ellis B-movie_name
-Island I-movie_name
-Revisited I-movie_name
+ellis B-movie_name
+island I-movie_name
+revisited I-movie_name
 in B-timeRange
 1 I-timeRange
 minute I-timeRange
 
-I O
+i O
 want O
 animated B-movie_type
 movies I-movie_type
 at O
-MJR B-location_name
-Theatres I-location_name
+mjr B-location_name
+theatres I-location_name
 
 show O
 me O
 the O
 schedule B-object_type
 for O
-The B-movie_name
-Oblong I-movie_name
-Box I-movie_name
+the B-movie_name
+oblong I-movie_name
+box I-movie_name
 
-I O
+i O
 want O
 to O
 know O
@@ -6849,15 +6849,15 @@ the I-spatial_relation
 area I-spatial_relation
 . O
 
-Is O
-What B-movie_name
+is O
+what B-movie_name
 a I-movie_name
-Wonderful I-movie_name
-Place I-movie_name
+wonderful I-movie_name
+place I-movie_name
 showing O
 at O
-Cinemark B-location_name
-Theatres I-location_name
+cinemark B-location_name
+theatres I-location_name
 
 show O
 the O
@@ -6866,26 +6866,26 @@ movie B-object_location_type
 theatre I-object_location_type
 that O
 shows O
-Boycott B-movie_name
+boycott B-movie_name
 
-I O
+i O
 want O
 to O
 see O
-DOA B-movie_name
+doa B-movie_name
 : I-movie_name
-Dead I-movie_name
+dead I-movie_name
 or I-movie_name
-Alive I-movie_name
+alive I-movie_name
 at O
-Loews B-location_name
-Cineplex I-location_name
-Entertainment I-location_name
+loews B-location_name
+cineplex I-location_name
+entertainment I-location_name
 . O
 
 is O
-The B-movie_name
-Nightmare I-movie_name
+the B-movie_name
+nightmare I-movie_name
 showing O
 six B-timeRange
 hours I-timeRange
@@ -6897,96 +6897,96 @@ nearest B-spatial_relation
 cinema B-object_location_type
 . O
 
-What O
+what O
 is O
 the O
 nearest B-spatial_relation
 movie B-object_location_type
 house I-object_location_type
 with O
-Window B-movie_name
-Connection I-movie_name
+window B-movie_name
+connection I-movie_name
 playing O
 at O
 lunch B-timeRange
 
-Is O
-Patrick B-movie_name
-Still I-movie_name
-Lives I-movie_name
+is O
+patrick B-movie_name
+still I-movie_name
+lives I-movie_name
 showing O
 at O
-AMC B-location_name
-Theaters I-location_name
+amc B-location_name
+theaters I-location_name
 
-Fine O
+fine O
 the O
 movie B-object_type
 schedules I-object_type
 for O
 the O
-Wanda B-location_name
-Group I-location_name
+wanda B-location_name
+group I-location_name
 . O
 
-Give O
+give O
 me O
 the O
 movie B-object_type
 schedule I-object_type
 nearby B-spatial_relation
 
-Find O
+find O
 the O
 schedule B-object_type
 at O
 the O
-Douglas B-location_name
-Theatre I-location_name
-Company I-location_name
+douglas B-location_name
+theatre I-location_name
+company I-location_name
 . O
 
-Show O
+show O
 me O
 the O
 movies B-movie_type
 at O
-Harkins B-location_name
-Theatres I-location_name
+harkins B-location_name
+theatres I-location_name
 . O
 
 what O
 movies B-movie_type
 at O
-Star B-location_name
-Theatres I-location_name
+star B-location_name
+theatres I-location_name
 . O
 
-I O
+i O
 want O
 a O
 movie B-object_type
 schedule I-object_type
 . O
 
-Can O
-I O
+can O
+i O
 get O
 the O
 movie B-object_type
 times I-object_type
 
-I O
+i O
 want O
 to O
 see O
-Medal B-movie_name
+medal B-movie_name
 for I-movie_name
 the I-movie_name
-General I-movie_name
+general I-movie_name
 
-Can O
-I O
+can O
+i O
 get O
 the O
 times B-object_type
@@ -6996,29 +6996,29 @@ in B-spatial_relation
 the I-spatial_relation
 neighbourhood I-spatial_relation
 
-May O
-I O
+may O
+i O
 have O
 the O
 movie B-object_type
 schedules I-object_type
 for O
-Speakeasy B-location_name
-Theaters I-location_name
+speakeasy B-location_name
+theaters I-location_name
 
-Find O
+find O
 animated B-movie_type
 movies I-movie_type
 close B-spatial_relation
 by I-spatial_relation
 
-Is O
-American B-movie_name
-Primitive I-movie_name
+is O
+american B-movie_name
+primitive I-movie_name
 showing O
 in O
-Santikos B-location_name
-Theatres I-location_name
+santikos B-location_name
+theatres I-location_name
 
 what O
 are O
@@ -7029,20 +7029,20 @@ in B-spatial_relation
 the I-spatial_relation
 neighborhood I-spatial_relation
 
-Check O
+check O
 the O
 schedule B-object_type
 for O
-Bow B-location_name
-Tie I-location_name
-Cinemas I-location_name
+bow B-location_name
+tie I-location_name
+cinemas I-location_name
 . O
 
-Check O
+check O
 the O
 timings O
 for O
-Snowbound B-movie_name
+snowbound B-movie_name
 at O
 the O
 closest B-spatial_relation
@@ -7050,23 +7050,23 @@ movie B-object_location_type
 theatre I-object_location_type
 . O
 
-What O
+what O
 are O
 the O
 movie B-object_type
 times I-object_type
 at O
-Caribbean B-location_name
-Cinemas I-location_name
+caribbean B-location_name
+cinemas I-location_name
 
-I O
+i O
 need O
 films B-movie_type
 in B-spatial_relation
 the I-spatial_relation
 neighborhood I-spatial_relation
 
-Show O
+show O
 the O
 movie B-object_type
 schedules I-object_type
@@ -7085,7 +7085,7 @@ showing O
 foreign O
 films B-movie_type
 
-What O
+what O
 movies B-movie_type
 are O
 showing O
@@ -7096,28 +7096,28 @@ closest B-spatial_relation
 cinema B-object_location_type
 ? O
 
-Is O
-Rumor B-movie_name
-Has I-movie_name
-It I-movie_name
+is O
+rumor B-movie_name
+has I-movie_name
+it I-movie_name
 playing O
 
-I O
+i O
 need O
 a O
 list O
 of O
-Speakeasy B-location_name
-Theaters I-location_name
+speakeasy B-location_name
+theaters I-location_name
 movie B-object_type
 times I-object_type
 
-When O
+when O
 is O
-The B-movie_name
-Outer I-movie_name
-Space I-movie_name
-Connection I-movie_name
+the B-movie_name
+outer I-movie_name
+space I-movie_name
+connection I-movie_name
 playing O
 at O
 the O
@@ -7125,21 +7125,21 @@ nearest B-spatial_relation
 cinema B-object_location_type
 . O
 
-Find O
+find O
 the O
 movie B-object_type
 times I-object_type
 at O
-Harkins B-location_name
-Theatres I-location_name
+harkins B-location_name
+theatres I-location_name
 . O
 
-Find O
+find O
 the O
 films B-movie_type
 at O
-Century B-location_name
-Theatres I-location_name
+century B-location_name
+theatres I-location_name
 . O
 
 show O
@@ -7151,100 +7151,100 @@ in B-spatial_relation
 the I-spatial_relation
 neighbourhood I-spatial_relation
 
-I O
+i O
 want O
 to O
 see O
-Fear B-movie_name
-Chamber I-movie_name
+fear B-movie_name
+chamber I-movie_name
 . O
 
-Show O
+show O
 me O
-Southern B-location_name
-Theatres I-location_name
+southern B-location_name
+theatres I-location_name
 movie B-object_type
 times I-object_type
 
-Is O
-The B-movie_name
-Unnaturals I-movie_name
+is O
+the B-movie_name
+unnaturals I-movie_name
 showing O
 at O
 13 B-timeRange
 . O
 
-Is O
-No B-movie_name
-Time I-movie_name
+is O
+no B-movie_name
+time I-movie_name
 to I-movie_name
-Be I-movie_name
-Young I-movie_name
+be I-movie_name
+young I-movie_name
 showing O
 at O
-AMC B-location_name
-Theaters I-location_name
+amc B-location_name
+theaters I-location_name
 
-Find O
+find O
 the O
 movie B-object_type
 schedules I-object_type
 for O
-Regal B-location_name
-Entertainment I-location_name
-Group I-location_name
+regal B-location_name
+entertainment I-location_name
+group I-location_name
 . O
 
-I O
+i O
 want O
 to O
 see O
-Shattered B-movie_name
-Image I-movie_name
+shattered B-movie_name
+image I-movie_name
 . O
 
-Find O
+find O
 the O
 schedule B-object_type
 at O
-Star B-location_name
-Theatres I-location_name
+star B-location_name
+theatres I-location_name
 . O
 
-Will O
-I B-movie_name
-Think I-movie_name
-I I-movie_name
-Do I-movie_name
+will O
+i B-movie_name
+think I-movie_name
+i I-movie_name
+do I-movie_name
 be O
 playing O
 at O
 7 B-timeRange
-PM I-timeRange
+pm I-timeRange
 ? O
 
-Show O
+show O
 me O
 the O
 schedule B-object_type
 for O
-ArcLight B-location_name
-Hollywood I-location_name
+arclight B-location_name
+hollywood I-location_name
 for O
 only O
 animated B-movie_type
 movies I-movie_type
 
-Find O
+find O
 the O
 schedule B-object_type
 for O
-Great B-movie_name
-Mail I-movie_name
-Robbery I-movie_name
+great B-movie_name
+mail I-movie_name
+robbery I-movie_name
 . O
 
-Give O
+give O
 me O
 the O
 movies B-movie_type
@@ -7252,42 +7252,42 @@ in B-spatial_relation
 the I-spatial_relation
 neighborhood I-spatial_relation
 
-What O
+what O
 movies B-movie_type
 are O
 playing O
 close B-spatial_relation
 by I-spatial_relation
 
-Is O
-The B-movie_name
-Two I-movie_name
-Gladiators I-movie_name
+is O
+the B-movie_name
+two I-movie_name
+gladiators I-movie_name
 playing O
 
-What O
+what O
 ' O
 s O
 the O
 movie B-object_type
 schedule I-object_type
 for O
-Great B-location_name
-Escape I-location_name
-Theatres I-location_name
+great B-location_name
+escape I-location_name
+theatres I-location_name
 
-Find O
+find O
 the O
 movie B-object_type
 schedule I-object_type
 close B-spatial_relation
 by I-spatial_relation
 
-I O
+i O
 want O
 to O
 see O
-Outcast B-movie_name
+outcast B-movie_name
 . O
 
 show O
@@ -7296,33 +7296,33 @@ the O
 schedule B-object_type
 of O
 movie O
-The B-movie_name
-Great I-movie_name
-Gildersleeve I-movie_name
+the B-movie_name
+great I-movie_name
+gildersleeve I-movie_name
 near O
 movie B-object_location_type
 house I-object_location_type
 
-I O
+i O
 need O
 times B-object_type
 for O
-A B-movie_name
-Yiddish I-movie_name
-World I-movie_name
-Remembered I-movie_name
+a B-movie_name
+yiddish I-movie_name
+world I-movie_name
+remembered I-movie_name
 at O
-Dipson B-location_name
-Theatres I-location_name
+dipson B-location_name
+theatres I-location_name
 
-Find O
+find O
 the O
 movie B-object_type
 schedules I-object_type
 at O
-Goodrich B-location_name
-Quality I-location_name
-Theaters I-location_name
+goodrich B-location_name
+quality I-location_name
+theaters I-location_name
 . O
 
 show O
@@ -7354,48 +7354,48 @@ in B-spatial_relation
 the I-spatial_relation
 neighbourhood I-spatial_relation
 
-Is O
-The B-movie_name
-Eye I-movie_name
+is O
+the B-movie_name
+eye I-movie_name
 – I-movie_name
-Infinity I-movie_name
+infinity I-movie_name
 playing O
 at O
-General B-location_name
-Cinema I-location_name
-Corporation I-location_name
+general B-location_name
+cinema I-location_name
+corporation I-location_name
 
-Can O
+can O
 you O
 check O
 the O
 timings O
 for O
-Super B-movie_name
-Sweet I-movie_name
+super B-movie_name
+sweet I-movie_name
 16 I-movie_name
 : I-movie_name
-The I-movie_name
-Movie I-movie_name
+the I-movie_name
+movie I-movie_name
 ? O
 
 is O
-We B-movie_name
-Are I-movie_name
-Northern I-movie_name
-Lights I-movie_name
+we B-movie_name
+are I-movie_name
+northern I-movie_name
+lights I-movie_name
 playing O
 in O
 any O
 movie B-object_location_type
 theatre I-object_location_type
 
-What O
+what O
 times B-object_type
 will O
-The B-movie_name
-Young I-movie_name
-Swordsman I-movie_name
+the B-movie_name
+young I-movie_name
+swordsman I-movie_name
 be O
 showing O
 at O
@@ -7403,10 +7403,10 @@ my O
 cinema B-object_location_type
 ? O
 
-Show O
+show O
 the O
-Sexy B-movie_name
-Dance I-movie_name
+sexy B-movie_name
+dance I-movie_name
 2times I-movie_name
 at O
 the O
@@ -7438,7 +7438,7 @@ playing O
 close B-spatial_relation
 by I-spatial_relation
 
-Find O
+find O
 the O
 movie B-object_type
 schedule I-object_type
@@ -7447,14 +7447,14 @@ the I-spatial_relation
 area I-spatial_relation
 . O
 
-Is O
-Cowboy B-movie_name
-Canteen I-movie_name
+is O
+cowboy B-movie_name
+canteen I-movie_name
 playing O
 
-Is O
-Rare B-movie_name
-Birds I-movie_name
+is O
+rare B-movie_name
+birds I-movie_name
 showing O
 at O
 the O
@@ -7465,34 +7465,34 @@ at O
 noon B-timeRange
 . O
 
-What O
+what O
 are O
 the O
 movie B-object_type
 times I-object_type
 
-Where O
+where O
 can O
-I O
+i O
 find O
 the O
 movie B-object_type
 schedules I-object_type
 
-Find O
+find O
 the O
 movie B-object_type
 schedule I-object_type
 for O
-North B-location_name
-American I-location_name
-Cinemas I-location_name
+north B-location_name
+american I-location_name
+cinemas I-location_name
 in B-timeRange
 eleven I-timeRange
 seconds I-timeRange
 . O
 
-Find O
+find O
 the O
 nearest B-spatial_relation
 cinema B-object_location_type
@@ -7511,27 +7511,27 @@ are O
 the O
 times B-object_type
 for O
-The B-movie_name
-Gingerbread I-movie_name
-Man I-movie_name
+the B-movie_name
+gingerbread I-movie_name
+man I-movie_name
 
-What O
+what O
 films B-movie_type
 are O
 playing O
 close B-spatial_relation
 by I-spatial_relation
 
-Is O
+is O
 any O
 cinema B-object_location_type
 playing O
-The B-movie_name
-Spirit I-movie_name
+the B-movie_name
+spirit I-movie_name
 of I-movie_name
-Youth I-movie_name
+youth I-movie_name
 
-What O
+what O
 are O
 the O
 movie B-object_type
@@ -7543,38 +7543,38 @@ in B-spatial_relation
 the I-spatial_relation
 neighbourhood I-spatial_relation
 
-What O
+what O
 ' O
 s O
 the O
 movie B-object_type
 schedule I-object_type
 at O
-Great B-location_name
-Escape I-location_name
-Theatres I-location_name
+great B-location_name
+escape I-location_name
+theatres I-location_name
 
-Show O
+show O
 the O
 times B-object_type
 for O
-Cheers B-movie_name
+cheers B-movie_name
 for I-movie_name
-Miss I-movie_name
-Bishop I-movie_name
+miss I-movie_name
+bishop I-movie_name
 at O
-Dipson B-location_name
-Theatres I-location_name
+dipson B-location_name
+theatres I-location_name
 . O
 
-I O
+i O
 want O
 to O
 see O
-Married B-movie_name
+married B-movie_name
 to I-movie_name
 the I-movie_name
-Enemy I-movie_name
+enemy I-movie_name
 2 I-movie_name
 at O
 a O

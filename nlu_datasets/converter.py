@@ -103,7 +103,7 @@ def convert_message_lines(task: Task, message: Message) -> str:
     """Convert message to lines which can be stored in txt in the well-known NER format."""
     span_generator = WordPunctTokenizer().span_tokenize(message.text)
     spans = [span for span in span_generator]
-    texts = list(map(lambda t: message.text[t[0]:t[1]], spans))
+    texts = list(map(lambda t: message.text[t[0]:t[1]].lower(), spans))  # using only lower case
     entities = message.data['entities'] if ('entities' in message.data) else []
 
     if task != Task.INTENT:

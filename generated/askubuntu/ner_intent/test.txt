@@ -1,8 +1,8 @@
 INTENT SoftwareRecommendation
-What O
+what O
 software O
 can O
-I O
+i O
 use O
 to O
 view O
@@ -11,45 +11,45 @@ documents O
 ? O
 
 INTENT SoftwareRecommendation
-Which O
-PDF O
-Viewer O
+which O
+pdf O
+viewer O
 would O
 you O
 recommend O
 ? O
 
 INTENT SoftwareRecommendation
-What O
-IDEs O
+what O
+ides O
 are O
 available O
 for O
-Ubuntu O
+ubuntu O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 ' O
 s O
 the O
 best O
-Mind O
-Mapping O
-Software O
+mind O
+mapping O
+software O
 ? O
 
 INTENT SoftwareRecommendation
-Software O
+software O
 to O
 read O
 a O
-QR O
+qr O
 code O
 ? O
 
 INTENT SoftwareRecommendation
-PDF O
+pdf O
 to O
 word O
 conversion O
@@ -57,7 +57,7 @@ software O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 software O
 that O
@@ -69,16 +69,16 @@ files O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 are O
 some O
 good O
-PHP O
+php O
 editors O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 a O
 software O
@@ -94,7 +94,7 @@ contrast O
 ? O
 
 INTENT SoftwareRecommendation
-Please O
+please O
 recommend O
 a O
 hex O
@@ -103,19 +103,19 @@ for O
 shell O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
-LAN O
+lan O
 topology O
 mapping O
 software O
 available O
 in O
-Ubuntu O
+ubuntu O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 a O
 tool O
@@ -127,7 +127,7 @@ ubuntu O
 ? O
 
 INTENT SoftwareRecommendation
-Tool O
+tool O
 for O
 recovering O
 deleted O
@@ -138,7 +138,7 @@ flash O
 drive O
 
 INTENT SoftwareRecommendation
-What O
+what O
 ' O
 s O
 a O
@@ -149,11 +149,11 @@ picker O
 " O
 app O
 for O
-GNOME O
+gnome O
 ? O
 
 INTENT SoftwareRecommendation
-Any O
+any O
 app O
 that O
 tells O
@@ -167,21 +167,21 @@ working O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 are O
 some O
 good O
-ASCII O
+ascii O
 art O
 generators O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 are O
 some O
 good O
-GUI O
+gui O
 binary O
 viewers O
 / O
@@ -189,22 +189,22 @@ editors O
 ? O
 
 INTENT SoftwareRecommendation
-Which O
+which O
 is O
 the O
 best O
-PDF O
+pdf O
 metadata O
 viewer O
 for O
-Ubuntu O
+ubuntu O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 a O
-Linux O
+linux O
 file O
 manager O
 with O
@@ -220,58 +220,58 @@ view O
 like O
 finder O
 in O
-OS O
-X O
+os O
+x O
 ) O
 
 INTENT SoftwareRecommendation
-Which O
+which O
 application O
 do O
 you O
 recommend O
 for O
 watching O
-TV O
+tv O
 ( O
-DVB O
+dvb O
 )? O
 
 INTENT SoftwareRecommendation
-What O
-Is O
-The O
-Best O
-HDR O
-Software O
+what O
+is O
+the O
+best O
+hdr O
+software O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 do O
 you O
 use O
 to O
 edit O
-Microsoft O
-Word B-SoftwareName
+microsoft O
+word B-SoftwareName
 documents O
 ( O
 docx O
 )? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 ' O
 s O
 the O
 best O
-Wireframing O
+wireframing O
 tool O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 any O
 software O
@@ -285,26 +285,26 @@ photos O
 ? O
 
 INTENT SoftwareRecommendation
-Applications O
+applications O
 to O
 replace O
-iTunes B-SoftwareName
+itunes B-SoftwareName
 for O
-iPod O
+ipod O
 synchronization O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 an O
-SSH O
+ssh O
 connection O
 manager O
 ? O
 
 INTENT SoftwareRecommendation
-A O
+a O
 light O
 alternative O
 to O
@@ -316,7 +316,7 @@ monitor O
 ? O
 
 INTENT SoftwareRecommendation
-Software O
+software O
 to O
 create O
 a O
@@ -325,21 +325,21 @@ slideshow O
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 a O
 project O
 management O
 software O
 for O
-Ubuntu O
+ubuntu O
 like O
-Microsoft O
-Project B-SoftwareName
+microsoft O
+project B-SoftwareName
 ? O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 any O
 recovery O
@@ -350,7 +350,7 @@ ext4 O
 ? O
 
 INTENT SoftwareRecommendation
-What O
+what O
 blog O
 editor O
 software O
@@ -359,13 +359,13 @@ available O
 ? O
 
 INTENT SoftwareRecommendation
-Can O
+can O
 you O
 recommend O
 a O
 good O
 modern O
-GUI O
+gui O
 download O
 manager O
 ( O
@@ -374,7 +374,7 @@ wrapper O
 ?) O
 
 INTENT SoftwareRecommendation
-Is O
+is O
 there O
 any O
 program O
@@ -390,7 +390,7 @@ score O
 ? O
 
 INTENT SoftwareRecommendation
-Are O
+are O
 there O
 any O
 hardware O
@@ -399,17 +399,17 @@ tools O
 ? O
 
 INTENT SoftwareRecommendation
-Recommendation O
+recommendation O
 for O
-Regex O
+regex O
 editor O
 ? O
 
 INTENT None
-Is O
+is O
 there O
 a O
-Document O
+document O
 scanning O
 and O
 archiving O
@@ -417,14 +417,14 @@ software O
 ? O
 
 INTENT ShutdownComputer
-Keyboard O
+keyboard O
 shortcut O
 to O
 shutdown O
 ? O
 
 INTENT ShutdownComputer
-My O
+my O
 system O
 doesn O
 ' O
@@ -433,7 +433,7 @@ go O
 shutdown O
 
 INTENT ShutdownComputer
-How O
+how O
 to O
 troubleshoot O
 slow O
@@ -441,9 +441,9 @@ shutdown O
 ? O
 
 INTENT ShutdownComputer
-How O
+how O
 can O
-I O
+i O
 shutdown O
 the O
 computer O
@@ -455,29 +455,29 @@ ends O
 ? O
 
 INTENT ShutdownComputer
-Ubuntu O
-Shut O
+ubuntu O
+shut O
 down O
 app O
 
 INTENT ShutdownComputer
-What O
+what O
 does O
 my O
 computer O
 do O
 when O
-I O
+i O
 click O
 ' O
-Shut O
-Down O
+shut O
+down O
 '? O
 
 INTENT ShutdownComputer
-How O
+how O
 do O
-I O
+i O
 shut O
 down O
 without O
@@ -487,7 +487,7 @@ prompt O
 ? O
 
 INTENT ShutdownComputer
-No O
+no O
 action O
 when O
 shutdown O
@@ -509,9 +509,9 @@ line O
 ? O
 
 INTENT ShutdownComputer
-How O
+how O
 can O
-I O
+i O
 make O
 shutdown O
 not O
@@ -533,7 +533,7 @@ uses O
 computer O
 
 INTENT ShutdownComputer
-What O
+what O
 is O
 the O
 command O
@@ -545,11 +545,11 @@ dialog O
 ? O
 
 INTENT ShutdownComputer
-How O
+how O
 to O
-Shut O
+shut O
 down O
-Ubuntu O
+ubuntu O
 by O
 using O
 keyboard O
@@ -564,7 +564,7 @@ every O
 day O
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 from O
 11 B-UbuntuVersion
 . I-UbuntuVersion
@@ -575,9 +575,9 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-How O
+how O
 do O
-I O
+i O
 upgrade O
 to O
 the O
@@ -588,14 +588,14 @@ of O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 if O
-I O
+i O
 am O
 running O
-Beta O
+beta O
 ? O
 
 INTENT MakeUpdate
-Doubts O
+doubts O
 regarding O
 the O
 15 B-UbuntuVersion
@@ -611,7 +611,7 @@ unavoidable O
 ?) O
 
 INTENT MakeUpdate
-Is O
+is O
 any O
 offline O
 upgrade O
@@ -627,7 +627,7 @@ possible O
 ? O
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 from O
 ubuntu O
 12 B-UbuntuVersion
@@ -639,12 +639,12 @@ to O
 10 I-UbuntuVersion
 
 INTENT MakeUpdate
-Ubuntu O
+ubuntu O
 upgrade O
 failed O
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 from O
 12 B-UbuntuVersion
 . I-UbuntuVersion
@@ -654,38 +654,38 @@ to O
 . I-UbuntuVersion
 10 I-UbuntuVersion
 ( O
-Unanswered O
+unanswered O
 questions O
 ) O
 
 INTENT MakeUpdate
 upgrading O
 to O
-Ubuntu O
+ubuntu O
 13 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 from O
-Ubuntu O
+ubuntu O
 13 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
 INTENT SoftwareRecommendation
-Is O
+is O
 it O
 recommended O
 to O
 upgrade O
 to O
-Lubuntu B-UbuntuVersion
+lubuntu B-UbuntuVersion
 15 I-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 ? O
 
 INTENT MakeUpdate
-Force O
+force O
 upgrade O
 12 B-UbuntuVersion
 . I-UbuntuVersion
@@ -696,31 +696,31 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-How O
+how O
 to O
 partially O
 upgrade O
-Ubuntu O
+ubuntu O
 11 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 from O
-Ubuntu O
+ubuntu O
 11 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 ? O
 
 INTENT MakeUpdate
-Problem O
+problem O
 upgrading O
-Ubuntu O
+ubuntu O
 9 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 
 INTENT MakeUpdate
-Is O
+is O
 it O
 necessary O
 to O
@@ -736,24 +736,24 @@ from O
 ? O
 
 INTENT MakeUpdate
-How O
+how O
 do O
-I O
+i O
 update O
-Xubuntu B-UbuntuVersion
+xubuntu B-UbuntuVersion
 11 I-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 to O
-Xubuntu B-UbuntuVersion
+xubuntu B-UbuntuVersion
 12 I-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 ? I-UbuntuVersion
 
 INTENT MakeUpdate
-Why O
+why O
 did O
 the O
 upgrade O
@@ -771,7 +771,7 @@ system O
 ? O
 
 INTENT MakeUpdate
-Problems O
+problems O
 upgrading O
 from O
 12 B-UbuntuVersion
@@ -783,9 +783,9 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Problems O
+problems O
 upgrading O
-Ubuntu O
+ubuntu O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
@@ -795,7 +795,7 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrade O
+upgrade O
 from O
 12 B-UbuntuVersion
 . I-UbuntuVersion
@@ -810,21 +810,21 @@ files O
 ? O
 
 INTENT SoftwareRecommendation
-On O
+on O
 really O
 old O
-Ubuntu O
+ubuntu O
 6 B-UbuntuVersion
 . I-UbuntuVersion
 06 I-UbuntuVersion
 - O
-How O
+how O
 to O
 upgrade O
 
 INTENT MakeUpdate
-Do O
-I O
+do O
+i O
 need O
 to O
 uninstall O
@@ -840,8 +840,8 @@ to O
 ? O
 
 INTENT MakeUpdate
-Do O
-I O
+do O
+i O
 need O
 to O
 reinstall O
@@ -875,7 +875,7 @@ than O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 16 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -887,9 +887,9 @@ to O
 1 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrading O
-Ubuntu O
-Server O
+upgrading O
+ubuntu O
+server O
 9 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
@@ -899,9 +899,9 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Ho O
+ho O
 do O
-I O
+i O
 update O
 to O
 13 B-UbuntuVersion
@@ -913,7 +913,7 @@ beta O
 ? O
 
 INTENT MakeUpdate
-How O
+how O
 to O
 upgrade O
 from O
@@ -926,7 +926,7 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 from O
 10 B-UbuntuVersion
 . I-UbuntuVersion
@@ -943,8 +943,8 @@ needed O
 ? O
 
 INTENT MakeUpdate
-Do O
-I O
+do O
+i O
 need O
 to O
 backup O
@@ -964,19 +964,19 @@ to O
 ? O
 
 INTENT MakeUpdate
-Cannot O
+cannot O
 upgrade O
 from O
 12 B-UbuntuVersion
 . I-UbuntuVersion
-04LTS I-UbuntuVersion
+04lts I-UbuntuVersion
 to O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrade O
+upgrade O
 10 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
@@ -986,14 +986,14 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-How O
+how O
 to O
 upgrade O
 from O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 or O
 15 B-UbuntuVersion
 . I-UbuntuVersion
@@ -1006,24 +1006,24 @@ from O
 terminal O
 
 INTENT MakeUpdate
-How O
+how O
 to O
 upgrade O
 from O
 16 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 to O
 16 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 . I-UbuntuVersion
 1 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrading O
+upgrading O
 from O
 10 B-UbuntuVersion
 . I-UbuntuVersion
@@ -1034,12 +1034,12 @@ to O
 10 I-UbuntuVersion
 
 INTENT MakeUpdate
-How O
+how O
 can O
 i O
 upgrade O
 to O
-Ubuntu O
+ubuntu O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -1048,12 +1048,12 @@ from O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-Beta I-UbuntuVersion
+beta I-UbuntuVersion
 correctly O
 ? O
 
 INTENT MakeUpdate
-Is O
+is O
 there O
 an O
 upgrade O
@@ -1062,15 +1062,15 @@ from O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 to O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrade O
+upgrade O
 from O
 9 B-UbuntuVersion
 . I-UbuntuVersion
@@ -1081,10 +1081,10 @@ to O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-How O
+how O
 to O
 upgrade O
-Ubuntu O
+ubuntu O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -1093,7 +1093,7 @@ to O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 if O
-I O
+i O
 have O
 dual O
 boot O
@@ -1103,15 +1103,15 @@ windows O
 ? O
 
 INTENT SoftwareRecommendation
-Wubi O
-Device O
+wubi O
+device O
 / O
 dev O
 / O
 loop0 O
 full O
 . O
-How O
+how O
 to O
 get O
 more O
@@ -1119,12 +1119,12 @@ space O
 ? O
 
 INTENT MakeUpdate
-Using O
+using O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 can O
-I O
+i O
 compile O
 packages O
 with O
@@ -1136,8 +1136,8 @@ for O
 ? O
 
 INTENT SoftwareRecommendation
-Removing O
-Recently O
+removing O
+recently O
 used O
 items O
 in O
@@ -1146,8 +1146,8 @@ in O
 04 I-UbuntuVersion
 
 INTENT MakeUpdate
-Upgrading O
-From O
+upgrading O
+from O
 11 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -1163,7 +1163,7 @@ to O
 ) I-UbuntuVersion
 
 INTENT None
-How O
+how O
 is O
 rm O
 command O
@@ -1175,11 +1175,11 @@ button O
 ? O
 
 INTENT SoftwareRecommendation
-In O
-Unity B-SoftwareName
+in O
+unity B-SoftwareName
 how O
 do O
-I O
+i O
 see O
 the O
 details O
@@ -1190,7 +1190,7 @@ launcher O
 ? O
 
 INTENT None
-How O
+how O
 to O
 provide O
 user O
@@ -1205,14 +1205,14 @@ dev O
 / O
 sdax O
 ? O
-What O
+what O
 is O
 the O
 syntax O
 ? O
 
 INTENT None
-Security O
+security O
 enhancements O
 prevent O
 mounting O
@@ -1222,9 +1222,9 @@ dev O
 sdb1 O
 
 INTENT None
-How O
+how O
 do O
-I O
+i O
 show O
 grub O
 when O
@@ -1234,41 +1234,41 @@ suspend O
 ? O
 
 INTENT SetupPrinter
-How O
+how O
 to O
 install O
 a O
-Lexmark B-Printer
+lexmark B-Printer
 z600 I-Printer
 series O
 printer O
 ? O
 
 INTENT SetupPrinter
-Cannot O
+cannot O
 setup O
-HP B-Printer
-All I-Printer
+hp B-Printer
+all I-Printer
 in I-Printer
 one I-Printer
-DJ3630 I-Printer
+dj3630 I-Printer
 
 INTENT SetupPrinter
-How O
+how O
 to O
 add O
 a O
 network O
 printer O
 on O
-Ubuntu O
+ubuntu O
 15 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 ? O
 
 INTENT SetupPrinter
-Cannot O
+cannot O
 install O
 printer O
 driver O
@@ -1276,104 +1276,104 @@ epson B-Printer
 l210 I-Printer
 
 INTENT SetupPrinter
-How O
+how O
 do O
-I O
+i O
 install O
-Dell B-Printer
+dell B-Printer
 2150cdn I-Printer
 printer O
 
 INTENT SetupPrinter
-Installing O
-Epson B-Printer
-XP I-Printer
+installing O
+epson B-Printer
+xp I-Printer
 - I-Printer
 424 I-Printer
 wireless O
 printer O
 
 INTENT SetupPrinter
-Installing O
-EPSON B-Printer
-L355 I-Printer
+installing O
+epson B-Printer
+l355 I-Printer
 on O
-Ubuntu O
+ubuntu O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
 INTENT SetupPrinter
-How O
+how O
 do O
-I O
+i O
 install O
 the O
-HP B-Printer
-F4280 I-Printer
+hp B-Printer
+f4280 I-Printer
 printer O
 ? O
 
 INTENT SetupPrinter
-How O
+how O
 to O
-Install O
-Brother B-Printer
-DCP I-Printer
+install O
+brother B-Printer
+dcp I-Printer
 - I-Printer
-8110DN I-Printer
-Laser O
-Printer O
+8110dn I-Printer
+laser O
+printer O
 on O
-Ubuntu O
+ubuntu O
 ? O
 
 INTENT SetupPrinter
-How O
+how O
 to O
-Install O
+install O
 a O
-Canon B-Printer
-MF8040Cn I-Printer
-Printer O
+canon B-Printer
+mf8040cn I-Printer
+printer O
 on O
-Ubuntu O
+ubuntu O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
 INTENT SetupPrinter
-How O
-Do O
-I O
-Install O
-Canon B-Printer
-MF8000C I-Printer
-Printer O
+how O
+do O
+i O
+install O
+canon B-Printer
+mf8000c I-Printer
+printer O
 in O
-Ubuntu O
+ubuntu O
 15 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 ? O
 
 INTENT SetupPrinter
-How O
+how O
 to O
 install O
-Canon B-Printer
-LBP330 I-Printer
+canon B-Printer
+lbp330 I-Printer
 in O
-Lts B-UbuntuVersion
+lts B-UbuntuVersion
 16 I-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
 INTENT SetupPrinter
-Install O
+install O
 printer O
-Lexmark B-Printer
-X4690 I-Printer
+lexmark B-Printer
+x4690 I-Printer
 ( O
 ubuntu O
 12 B-UbuntuVersion

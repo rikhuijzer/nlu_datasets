@@ -1,20 +1,20 @@
-How O
+how O
 to O
 record O
 my O
 screen O
 ? O
 
-How O
+how O
 can O
-I O
+i O
 highlight O
 or O
 annotate O
-PDFs O
+pdfs O
 ? O
 
-Is O
+is O
 it O
 worth O
 upgrading O
@@ -22,13 +22,13 @@ from O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 to O
 13 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-Upgrade O
+upgrade O
 to O
 12 B-UbuntuVersion
 . I-UbuntuVersion
@@ -36,10 +36,10 @@ to O
 64 I-UbuntuVersion
 bit I-UbuntuVersion
 
-How O
+how O
 to O
 upgrade O
-Ubuntu O
+ubuntu O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -53,9 +53,9 @@ to O
 2 I-UbuntuVersion
 ? O
 
-Upgrading O
+upgrading O
 from O
-Ubuntu O
+ubuntu O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -78,7 +78,7 @@ to O
 10 I-UbuntuVersion
 ? O
 
-Upgrade O
+upgrade O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -90,9 +90,9 @@ using O
 startup O
 disk O
 
-How O
+how O
 to O
-Upgrade O
+upgrade O
 from O
 11 B-UbuntuVersion
 . I-UbuntuVersion
@@ -110,7 +110,7 @@ a O
 problem O
 ? O
 
-Update O
+update O
 11 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
@@ -119,12 +119,12 @@ to O
 . I-UbuntuVersion
 04 I-UbuntuVersion
 with O
-LiveCD O
+livecd O
 
-How O
+how O
 to O
 upgrade O
-Ubuntu O
+ubuntu O
 9 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
@@ -136,11 +136,11 @@ via O
 terminal O
 ? O
 
-How O
+how O
 to O
 upgrade O
 from O
-Ubuntu O
+ubuntu O
 10 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
@@ -150,26 +150,26 @@ to O
 04 I-UbuntuVersion
 ? O
 
-No O
+no O
 matter O
 what O
-I O
+i O
 do O
-Ubuntu O
+ubuntu O
 15 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 does O
 not O
 recognize O
-HP B-Printer
-LaserJet I-Printer
+hp B-Printer
+laserjet I-Printer
 1020 I-Printer
 
-How O
+how O
 to O
 setup O
-HP O
+hp O
 printer O
 / O
 scanner O
@@ -177,18 +177,18 @@ on O
 ubuntu O
 ? O
 
-How O
+how O
 do O
-I O
+i O
 setup O
 my O
-HP B-Printer
-C4140 I-Printer
+hp B-Printer
+c4140 I-Printer
 printer O
 wirelessly O
 ? O
 
-How O
+how O
 to O
 setup O
 wireless O
@@ -200,125 +200,125 @@ connected O
 via O
 usb O
 on O
-Ubuntu O
-Server O
+ubuntu O
+server O
 12 B-UbuntuVersion
 . I-UbuntuVersion
 10 I-UbuntuVersion
 ? O
 
-How O
+how O
 can O
-I O
+i O
 install O
 a O
-Pantum B-Printer
-2502W I-Printer
+pantum B-Printer
+2502w I-Printer
 laser O
 printer O
 on O
-Ubuntu O
+ubuntu O
 
-Install O
-Canon B-Printer
-MP560 I-Printer
-Ubuntu O
+install O
+canon B-Printer
+mp560 I-Printer
+ubuntu O
 15 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-How O
+how O
 to O
 install O
 a O
-Brother B-Printer
-MFC I-Printer
+brother B-Printer
+mfc I-Printer
 - I-Printer
-5890CN I-Printer
+5890cn I-Printer
 network O
 printer O
 ? O
 
-How O
+how O
 do O
-I O
+i O
 install O
 drivers O
 for O
 a O
-Konica B-Printer
-Minolta I-Printer
+konica B-Printer
+minolta I-Printer
 200 I-Printer
 ? O
 
-How O
+how O
 do O
-I O
+i O
 install O
 drivers O
 for O
 the O
-Panasonic B-Printer
-MB1900CX I-Printer
-All O
+panasonic B-Printer
+mb1900cx I-Printer
+all O
 - O
 in O
 - O
-One O
-Printer O
+one O
+printer O
 / O
-Scanner O
+scanner O
 ? O
 
-How O
-To O
-Install O
-Canon B-Printer
-LBP2900B I-Printer
+how O
+to O
+install O
+canon B-Printer
+lbp2900b I-Printer
 printer O
 in O
 14 B-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
-LTS I-UbuntuVersion
+lts I-UbuntuVersion
 ? O
-I O
+i O
 tried O
 the O
 method O
 for O
-LBP2900 O
+lbp2900 O
 but O
 it O
 didnt O
 work O
 
-Any O
+any O
 command O
 line O
 calculator O
 for O
-Ubuntu O
+ubuntu O
 ? O
 
-Extracting O
+extracting O
 embedded O
 images O
 from O
 a O
-PDF O
+pdf O
 
-What O
+what O
 to O
 use O
 to O
 quickly O
 cut O
-Audio O
+audio O
 / O
-Video O
+video O
 
-Torrent O
+torrent O
 client O
 for O
 the O
@@ -327,39 +327,39 @@ command O
 line O
 ? O
 
-MySQL B-SoftwareName
-GUI O
-Tools O
+mysql B-SoftwareName
+gui O
+tools O
 
-What O
+what O
 developer O
 text O
 editors O
 are O
 available O
 for O
-Ubuntu O
+ubuntu O
 ? O
 
-What O
+what O
 screenshot O
 tools O
 are O
 available O
 ? O
 
-Which O
+which O
 programs O
 can O
-I O
+i O
 use O
 to O
 edit O
-PDF O
+pdf O
 files O
 ? O
 
-Is O
+is O
 there O
 a O
 lightweight O
@@ -370,27 +370,27 @@ images O
 quickly O
 ? O
 
-What O
-IRC B-SoftwareName
+what O
+irc B-SoftwareName
 clients O
 are O
 available O
 ? O
 
-What O
+what O
 new O
 games O
 are O
 available O
 for O
-Ubuntu O
+ubuntu O
 in O
 2011 O
 ? O
 
-UPNP O
+upnp O
 / O
-DLNA O
+dlna O
 ( O
 client O
 ) O
@@ -398,7 +398,7 @@ player O
 recommendations O
 ? O
 
-What O
+what O
 scientific O
 plotting O
 software O
@@ -406,7 +406,7 @@ is O
 available O
 ? O
 
-Can O
+can O
 you O
 recommend O
 a O
@@ -414,7 +414,7 @@ password O
 generator O
 ? O
 
-What O
+what O
 tools O
 do O
 you O
@@ -426,21 +426,21 @@ web O
 server O
 ? O
 
-What O
+what O
 is O
 a O
 good O
-MongoDB B-SoftwareName
-GUI O
+mongodb B-SoftwareName
+gui O
 client O
 ? O
 
-Password O
-Management O
-Applications O
+password O
+management O
+applications O
 ? O
 
-Is O
+is O
 there O
 an O
 application O
@@ -456,7 +456,7 @@ without O
 extra O
 question O
 
-How O
+how O
 to O
 shutdown O
 computer O
@@ -467,7 +467,7 @@ logged O
 on O
 ? O
 
-What O
+what O
 is O
 the O
 proper O
@@ -478,9 +478,9 @@ to O
 shutdown O
 ? O
 
-How O
+how O
 can O
-I O
+i O
 automatically O
 shutdown O
 the O
@@ -491,7 +491,7 @@ specific O
 time O
 ? O
 
-Hotkey O
+hotkey O
 to O
 shut O
 down O
@@ -500,75 +500,75 @@ login O
 screen O
 ? O
 
-How O
+how O
 to O
 shutdown O
 the O
 computer O
 after O
-Xsession O
+xsession O
 ends O
 ? O
 
-How O
+how O
 can O
 one O
 shutdown O
 a O
-PC O
+pc O
 using O
 the O
 keyboard O
 ? O
 
-How O
+how O
 can O
-I O
+i O
 enable O
 shutdown O
 verbosity O
 ? O
 
-Are O
+are O
 there O
 any O
-Keyboard O
-Shortcuts O
+keyboard O
+shortcuts O
 to O
-Shutdown O
+shutdown O
 ? O
 
-Shutdown O
+shutdown O
 after O
 a O
 certain O
 time O
 
-Shutdown O
+shutdown O
 problem O
 in O
-Ubuntu B-UbuntuVersion
+ubuntu B-UbuntuVersion
 16 I-UbuntuVersion
 . I-UbuntuVersion
 04 I-UbuntuVersion
 
-How O
+how O
 do O
-I O
+i O
 fix O
 a O
 shutdown O
 problem O
 ? O
 
-What O
+what O
 graphical O
 utility O
 can O
-I O
+i O
 use O
 for O
-Ubuntu O
+ubuntu O
 auto O
 shutdown O
 ? O
