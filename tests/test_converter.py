@@ -3,6 +3,9 @@ from nlu_datasets.my_types import Corpus
 from nlu_datasets.converter import (
     convert_message_lines, annotate_tokens_using_ner, annotate_entity_tokens, merge_spans, convert_messages_lines
 )
+import csv
+from pathlib import Path
+from nlu_datasets.utils import get_project_root
 
 message = create_message(text='Alternative to Facebook Messenger.',
                          intent='Find Alternative',
@@ -92,3 +95,17 @@ def test_bug_omitted_entity():
     ])
     actual = convert_message_lines(test_message)
     assert actual == expected
+
+
+def test_tsv_read():
+    def helper(filename: Path, quotechar=None):
+        """Reads a tab separated value file."""
+        with open(str(filename), 'r') as f:
+            reader = csv.reader(f, delimiter="\t", quotechar=quotechar)
+            next(reader, None)  # skip the header
+            for line in reader:
+                assert len(line) > 2
+
+    files = ['askubuntu', 'chatbot', 'webapplications', 'snips2017']
+    for file in files:
+        helper(get_project_root() / 'generated' / file / str(file + '.tsv'))

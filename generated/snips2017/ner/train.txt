@@ -7722,7 +7722,7 @@ machine I-object_name
 two B-rating_value
 of O
 6 B-best_rating
-points B-rating_unit
+points O
 
 give O
 after B-object_name
@@ -16648,12 +16648,12 @@ add O
 artist B-music_item
 in O
 my B-playlist_owner
-top B-playlist
-100 I-playlist
-rock I-playlist
-tracks I-playlist
-on I-playlist
-spotify I-playlist
+top O
+100 O
+rock O
+tracks O
+on O
+spotify O
 
 add O
 the O

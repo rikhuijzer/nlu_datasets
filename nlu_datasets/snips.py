@@ -14,7 +14,7 @@ def get_folders(corpus: Corpus) -> Iterable[pathlib.Path]:
 
 
 def convert_data_text(data: List[dict]) -> str:
-    return ''.join([item['text'] for item in data])
+    return ''.join([item['text'] for item in data]).replace('\n', '').replace('\r', '')
 
 
 def convert_data_spans(data: List[dict]) -> Iterable[typing.Tuple[int, int]]:

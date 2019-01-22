@@ -852,8 +852,7 @@ Give [The Blue Equinox](object_name) [series](object_part_of_series_type) [5](ra
 I want to rate [The Obama Syndrome](object_name) [zero](rating_value) of [6](best_rating)	RateBook	True
 give [Under the Sign of Saturn](object_name) a [four](rating_value) out of [6](best_rating)	RateBook	True
 rate [this](object_select) [book](object_type) a [4](rating_value) out of [6](best_rating)	RateBook	True
-"give [The God Machine](object_name) [two](rating_value) of [6](best_rating)
- [points](rating_unit)"	RateBook	True
+give [The God Machine](object_name) [two](rating_value) of [6](best_rating) p[oints](rating_unit:points)	RateBook	True
 Give [After the First Death](object_name) a [2](rating_value) out of [6](best_rating) [points](rating_unit) rating.	RateBook	True
 Rate [The CIA and the Cult of Intelligence](object_name) a [5](rating_value).	RateBook	True
 I would like to rate [The Hundred-Year Christmas](object_name) [four](rating_value) [stars](rating_unit).	RateBook	True
@@ -1288,8 +1287,7 @@ Will it [rain](condition_description) in [Blissfield](city) [Namibia](country) [
 Is it going to be [colder](condition_temperature) in [Bonnie](city)	GetWeather	True
 What is the weather forecast for [Deaver](city), [SC](state) on [May 10th](timeRange)	GetWeather	True
 Want to eat somewhere [cold](condition_temperature) in the [neighboring](spatial_relation) [Antlers](city) region on [aug. 22](timeRange)	GetWeather	True
-"Is it [colder](condition_temperature) in Istanbul, Turkey or [Amarillo](city), [Greece](country)?
-"	GetWeather	True
+Is it [colder](condition_temperature) in Istanbul, Turkey or [Amarillo](city), [Greece](country)?	GetWeather	True
 Will it be [warm](condition_temperature) on [Pink Hill](city)?	GetWeather	True
 what is the forecast for [Winnabow](city)	GetWeather	True
 When will there be [wind](condition_description) [this year](timeRange) in [Racine](city)	GetWeather	True
@@ -2029,8 +2027,7 @@ I'd like to put [qriii](entity_name) onto [songs to sing in the car](playlist).	
 add [Dunja, du](entity_name) to [my](playlist_owner) [ejercicio](playlist) playlist	AddToPlaylist	True
 I want to send music to [ann's](playlist_owner) lists from [SIR John Winston Ono Lennon](entity_name), put it on her [Infinite Indie Folk](playlist) list	AddToPlaylist	True
 Please put [maimi yajima](artist)'s [song](music_item) onto [Operación Bikini](playlist).	AddToPlaylist	True
-"add [artist](music_item) in [my](playlist_owner)
- [Top 100 Rock Tracks on Spotify](playlist)"	AddToPlaylist	True
+add [artist](music_item) in [my](playlist_owner) T[op 100 Rock Tracks on Spotify](playlist:Top 100 Rock Tracks on Spotify)	AddToPlaylist	True
 Add the [artist](music_item) [Jurij Szewczuk](artist) to [tisha's](playlist_owner) [soul revived](playlist) playlist.	AddToPlaylist	True
 Add [Fair Charlotte](entity_name) to the [We Everywhere](playlist) playlist.	AddToPlaylist	True
 add [Masahiro Nakai](artist) [track](music_item) in playlist [Modern Psychedelia](playlist)	AddToPlaylist	True
@@ -2339,8 +2336,7 @@ Add this [album](music_item) to the [Spanish Beat](playlist) playlist	AddToPlayl
 Add [lofty fake anagram](entity_name) to the [la mejor música de bso](playlist) playlist.	AddToPlaylist	False
 Add the [track](music_item) to the [work](playlist) playlist.	AddToPlaylist	False
 Add a [song](music_item) to [this is racionais mc's](playlist)	AddToPlaylist	False
-"add [track](music_item) in [my](playlist_owner)
- playlist called [Hands Up](playlist)"	AddToPlaylist	False
+add [track](music_item) in [my](playlist_owner) playlist called H[ands Up](playlist:Hands Up)	AddToPlaylist	False
 Can you put this [song](music_item) from [Yutaka Ozaki](artist) onto [my](playlist_owner) [this is miles davis](playlist) playlist?	AddToPlaylist	False
 Add a [track](music_item) to playlist [Cena con Amigos](playlist)	AddToPlaylist	False
 Add [The Famous Flower of Serving-Men](entity_name) to [my](playlist_owner) [evening acoustic](playlist) playlist.	AddToPlaylist	False
@@ -2552,8 +2548,7 @@ What are the timings for [Starship Troopers 2](movie_name)?	SearchScreeningEvent
 When will [So Happy Together](movie_name) begin playing?	SearchScreeningEvent	True
  is it possible to see [Corn](movie_name) at [eleven A.M.](timeRange) at [Loews Cineplex Entertainment](location_name)	SearchScreeningEvent	True
 Is [Short of Love](movie_name) playing 	SearchScreeningEvent	True
-"When is [For One Night](movie_name) playing at [Loews Cineplex Entertainment](location_name)?
-"	SearchScreeningEvent	True
+When is [For One Night](movie_name) playing at [Loews Cineplex Entertainment](location_name)?	SearchScreeningEvent	True
 Is [The Little Irish Girl](movie_name) playing	SearchScreeningEvent	True
 What [film](movie_type) is playing [nearby](spatial_relation)	SearchScreeningEvent	True
 Can I see [Love in the Time of Cholera](movie_name) in the [nearest](spatial_relation) [movie house](object_location_type)	SearchScreeningEvent	True

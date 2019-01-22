@@ -6438,8 +6438,8 @@ in O
 my B-playlist_owner
 playlist O
 called O
-hands B-playlist
-up I-playlist
+hands O
+up O
 
 INTENT AddToPlaylist
 can O
