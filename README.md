@@ -1,8 +1,7 @@
 # nlu_datasets
 Datasets for intent classification and entity extraction including converters.
 
-TODO: Data should be completely in Rasa Markdown training data format. Forget the 
-predefined train / test splits as defined in paper (or put them in separate file).
+**Note that all data has been decapitalized** 
 
 ## Data
 Data is not split in train / test, train / dev / test to allow for using k-fold cross 

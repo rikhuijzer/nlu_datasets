@@ -34,10 +34,10 @@ def convert_data_entities(data: List[dict]) -> Iterable[dict]:
 
 
 def convert_data_message(corpus: Corpus, intent: str, data: List[dict], train: bool) -> Message:
-    """Returns message in Rasa representation for some SNIPS data element."""
+    """Returns message in decapitalized Rasa representation for some SNIPS data element."""
     text = convert_data_text(data)
     entities = list(convert_data_entities(data))
-    return nlu_datasets.utils.create_message(text, intent, entities, train, corpus)
+    return nlu_datasets.utils.create_message(text.lower(), intent, entities, train, corpus)
 
 
 def convert_file_messages(corpus: Corpus, file: pathlib.Path, intent: str, train: bool) -> Iterable[Message]:
